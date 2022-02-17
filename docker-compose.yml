@@ -1,0 +1,63 @@
+version: '3.9'
+services:
+  db:
+    container_name: "symposia_db"
+    image: mysql:latest
+    volumes:
+      - ./db_data:/var/lib/mysql
+      - ./symposia.sql:/docker-entrypoint-initdb.d/symposia.sql
+    restart: always
+    ports:
+      - "33060:3306"
+    security_opt:
+      - seccomp:unconfined
+    cap_add:
+      - SYS_NICE  # CAP_SYS_NICE
+    environment:
+      MYSQL_ROOT_PASSWORD: sparac2022
+      MYSQL_DATABASE: symposia
+      MYSQL_USER: symposia2022
+      MYSQL_PASSWORD: sparac_2022
+
+
+  wordpress:
+    depends_on:
+      - db
+    links:
+      - db:mysql
+    container_name: "symposia_wordpress"
+    image: wordpress:latest
+    ports:
+      - 80:80
+      - 443:443
+    restart: always
+    volumes:
+      - ./wp-content:/var/www/html/wp-content
+      - ./conf/uploads.ini:/usr/local/etc/php/conf.d/local.ini
+
+    environment:
+      WORDPRESS_DB_HOST: db:3306
+      WORDPRESS_DB_USER: symposia2022
+      WORDPRESS_DB_PASSWORD: sparac_2022
+      WORDPRESS_DB_NAME: symposia
+      WORDPRESS_CONFIG_EXTRA: |
+        /** Memory Limits */
+        define( 'WP_MEMORY_LIMIT', '256M' );
+        define( 'WP_MAX_MEMORY_LIMIT', '512M' );
+        
+  #phpmyadmin:
+    #image: phpmyadmin/phpmyadmin:latest
+    #restart: always
+    #ports:
+    #  - 8080:80
+    #environment:
+    #  - PMA_ARBITRARY=1      
+
+        
+volumes:
+  db_data:
+    external: true
+    name: db_data
+  wp-content:
+    external: true
+    name: wp-content

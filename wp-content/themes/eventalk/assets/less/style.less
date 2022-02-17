@@ -1,0 +1,147 @@
+@tLight: 300;
+@tRegular: 400;
+@tMedium: 600;
+@tSemibold: 600;
+@tBold: 700;
+@tBlack: 700;
+@bodyLight: 300;
+@bodyRegular: 400;
+@bodyMedium: 500;
+@bodySemibold: 600;
+@bodyBold: 700;
+@bodyBlack: 700;
+@fontBody: 'Roboto',
+sans-serif;
+@fontTitle: 'Poppins', sans-serif;
+@bodySizeXs: @bodySize - 2px;
+@bodySizeSm: @bodySize - 1px;
+@bodySize: 16px;
+@bodySizeMd: @bodySize + 2px;
+@bodySizeLg: @bodySize + 4px;
+@bodySizeXl: @bodySize + 6px;
+@h1Size: 7rem;
+@h2SizeXs: @h2Size - 20px;
+@h2SizeSm: @h2Size - 18px;
+@h2Size: 46px;
+@h2SizeMd: @h2Size + 4px;
+@h2SizeLg: 32px;
+@h2SizeXl: @h2Size + 8px;
+@h3SizeXs: @h3Size - 6px;
+@h3SizeSm: 22px;
+@h3Size: 28px;
+@h3SizeMd: @h3Size;
+
+@h3SizeLg: @h3Size + 6px;
+@h3SizeXl: 36px;
+@h4Size: 22px;
+@darkPrimaryColor: #4c1874;
+@lightPrimaryColor: #4c1854;
+@accentColor: #f8f8f8;
+@primaryTextColor: #3a3a3a;
+@textPrimaryColor: #FFFFFF;
+@bgAccent: #f4f4f4;
+@colorBody: #444444;
+@bgBody: #ffffff;
+@bgLight: #ffffff;
+@bgDark: #000000;
+@border: #707070;
+@colorGreen: @secondaryColor;
+// @colorGreen: #009552;
+@colorYellow: #fad03b;
+@colorRed: #f50057;
+@colorBlue: #00b0ff;
+.rgbaColorIn(@color, @opacity: 1) {
+    @result: rgba( red(@color), green(@color), blue(@color), @opacity);
+}
+
+.transition(@transition, @duration, @timingFunction: ease-in-out) {
+    -webkit-transition: all @duration @timingFunction;
+    -moz-transition: all @duration @timingFunction;
+    -ms-transition: all @duration @timingFunction;
+    -o-transition: all @duration @timingFunction;
+    transition: all @duration @timingFunction;
+}
+
+.transition-cubic(@transition, @duration, @timingFunction: cubic-bezier(0, 0, 0, 0)) {
+    -webkit-transition: all @duration @timingFunction;
+    -moz-transition: all @duration @timingFunction;
+    -ms-transition: all @duration @timingFunction;
+    -o-transition: all @duration @timingFunction;
+    transition: all @duration @timingFunction;
+}
+
+.border-radius (@radius: 5px) {
+    -webkit-border-radius: @radius;
+    -moz-border-radius: @radius;
+    -ms-border-radius: @radius;
+    -o-border-radius: @radius;
+    border-radius: @radius;
+}
+
+/*-------------------------------------    
+CSS INDEX
+===================================
+#. Defaults
+#. Topbar Layout 1
+#. Topbar Layout 3
+#. Topbar Layout 5
+#. Header Layout 1
+    #. Header Logo
+    #. Main Navigation
+    #. Submenu
+    #. 3rd Level Menu
+    #. Multi Column Menu
+    #. Mobile Multi Column Menu
+    #. Header Icons
+    #. Header Right Menu
+    #. Sticky Header
+    #. Transparent Header
+#. Header Layout 2
+#. Header Layout 3
+#. Header Layout 4
+#. Header Layout 5
+#. Header Responsive
+#. Footer - Preloader, Scroll to top, Copyright
+#. Widgets - Sidebar and Footer Widgets
+#. Custom Widgets
+#. Buttons
+#. Banner
+#. Pagination
+#. Contents
+#. Comments
+#. No Content
+#. Error 404
+#. Single Event 
+#. Subscribe Area
+#. Responsive Style
+#. Woocommerce: Widgets
+#. Woocommerce: Owl Nav
+#. Woocommerce: Top Bar
+#. Woocommerce: Shop
+#. Woocommerce: Shop List View
+#. Woocommerce: Single Product
+#. Woocommerce: Cart
+#. Woocommerce: Checkout
+#. Woocommerce: Order received
+#. Woocommerce: My Account
+#. Woocommerce: Login/Register
+#. Woocommerce: Yith Wishlist
+#. Woocommerce: Yith QuickView
+#. Plugin: Contact Form 7
+---------------------------------------*/
+@primaryColor: #4c1864;
+@secondaryColor: #fad03b;
+// Mixins
+.ul0() {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+@import "default";
+@import "style-defaults";
+@import "header";
+@import "footer";
+@import "widgets";
+@import "contents";
+@import "woocommerce";
+@import "plugins";

@@ -1,0 +1,27 @@
+/*-------------------------------------
+#. General
+---------------------------------------*/
+body {
+  direction: rtl;
+  unicode-bidi: embed;
+}
+
+
+/*-------------------------------------
+#. WooCommerce
+---------------------------------------*/
+.woocommerce div.product .product-meta .sku-label,
+.woocommerce div.product .product-meta span,
+.woocommerce div.product .product-meta a {
+  float: right;
+}
+.woocommerce div.product .product-meta .rtin-sep {
+  padding: 0 5px;
+  color: #666666;
+}
+.woocommerce div.product .product-meta .rtin-label {
+  margin-left: 5px;
+}
+.woo-shop-top .limit-show, .woocommerce .woo-shop-top .limit-show {
+  text-align: right;
+}

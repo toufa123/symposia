@@ -1,0 +1,3000 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"POT-Creation-Date: 2021-12-01 07:33-0500\n"
+"PO-Revision-Date: 2021-12-01 07:37-0500\n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: Kevon Adonis <support@wpabstracts.com>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../abstracts/abstracts.classes.php:33 ../html/wpabstracts_dashboard.php:222
+msgid "View"
+msgstr "Bekijk"
+
+#: ../abstracts/abstracts.classes.php:34 ../html/wpabstracts_dashboard.php:217
+#: ../html/wpabstracts_dashboard.php:306 ../html/wpabstracts_dashboard.php:377
+#: ../inc/wpabstracts_classes.php:30 ../inc/wpabstracts_classes.php:360
+#: ../inc/wpabstracts_classes.php:514 ../inc/wpabstracts_classes.php:650
+msgid "Edit"
+msgstr "Bewerken"
+
+#: ../abstracts/abstracts.classes.php:35 ../abstracts/abstracts.classes.php:150
+#: ../abstracts/abstracts.manage.php:329 ../wpabstracts_pro.php:1168
+msgid "Change Status"
+msgstr "Verander status"
+
+#: ../abstracts/abstracts.classes.php:36 ../abstracts/abstracts.classes.php:149
+msgid "Assign Reviewer"
+msgstr "Reviewer toewijzen"
+
+#: ../abstracts/abstracts.classes.php:37 ../inc/wpabstracts_downloads.php:209
+#: ../settings/settings.titles.php:386 ../wpabstracts_pro.php:45
+#: ../wpabstracts_pro.php:203
+msgid "Reviews"
+msgstr "Beoordelingen"
+
+#: ../abstracts/abstracts.classes.php:38
+msgid "Export PDF"
+msgstr "Exporteer PDF"
+
+#: ../abstracts/abstracts.classes.php:39 ../abstracts/abstracts.classes.php:151
+#: ../abstracts/abstracts.manage.php:196 ../html/wpabstracts_dashboard.php:218
+#: ../html/wpabstracts_dashboard.php:378 ../inc/wpabstracts_classes.php:31
+#: ../inc/wpabstracts_classes.php:143 ../inc/wpabstracts_classes.php:215
+#: ../inc/wpabstracts_classes.php:270 ../inc/wpabstracts_classes.php:361
+#: ../inc/wpabstracts_classes.php:438 ../inc/wpabstracts_classes.php:515
+#: ../inc/wpabstracts_classes.php:651 ../inc/wpabstracts_classes.php:688
+#: ../users/admin.classes.php:33 ../users/admin.classes.php:112
+#: ../wpabstracts_pro.php:1193
+msgid "Delete"
+msgstr "Verwijderen"
+
+#: ../abstracts/abstracts.classes.php:49
+msgid "Event Not Found"
+msgstr "Evenement niet gevonden"
+
+#: ../abstracts/abstracts.classes.php:79
+msgid "Not Assigned"
+msgstr "Niet toegewezen"
+
+#: ../abstracts/abstracts.classes.php:110
+#: ../html/wpabstracts_editAbstract.php:93
+msgid "User not found"
+msgstr "Gebruiker niet gevonden"
+
+#: ../abstracts/abstracts.classes.php:162
+msgid "Filter by Status"
+msgstr "Filter op status"
+
+#: ../abstracts/abstracts.classes.php:164
+#: ../abstracts/abstracts.classes.php:179
+msgid "All"
+msgstr "Alle"
+
+#: ../abstracts/abstracts.classes.php:177
+msgid "Filter by Preference"
+msgstr "Filteren op voorkeur"
+
+#: ../abstracts/abstracts.manage.php:89 ../abstracts/abstracts.manage.php:99
+#: ../emails/admin.templates.php:78 ../wpabstracts_events.php:145
+#: ../wpabstracts_reviews.php:174
+msgid "Could not locate this resource. Please try again."
+msgstr "Kan deze bron niet vinden. Probeer het opnieuw."
+
+#: ../abstracts/abstracts.manage.php:191
+msgid "Assign Reviewers"
+msgstr "Reviewers toewijzen"
+
+#: ../abstracts/abstracts.manage.php:195
+msgid "Notify"
+msgstr "Melding"
+
+#: ../abstracts/abstracts.manage.php:199
+msgid "No Reviewers Assigned"
+msgstr "Geen reviewers toegewezen"
+
+#: ../abstracts/abstracts.manage.php:225 ../abstracts/abstracts.manage.php:243
+msgid "Select Reviewer"
+msgstr "Selecteer reviewer"
+
+#: ../abstracts/abstracts.manage.php:333
+msgid "Select a status"
+msgstr "Selecteer een status"
+
+#: ../abstracts/abstracts.manage.php:373
+msgid "Status was updated successfully."
+msgstr "De status is bijgewerkt."
+
+#: ../abstracts/abstracts.manage.php:387 ../abstracts/abstracts.manage.php:405
+msgid "Abstract Id "
+msgstr "Abstracte Id "
+
+#: ../abstracts/abstracts.manage.php:387 ../abstracts/abstracts.manage.php:405
+#: ../wpabstracts_reviews.php:235
+msgid " was successfully deleted."
+msgstr " is verwijderd."
+
+#: ../abstracts/abstracts.manage.php:407
+msgid "The selected Abstracts were successfully deleted."
+msgstr "De geselecteerde abstracts zijn verwijderd."
+
+#: ../abstracts/abstracts.manage.php:414 ../inc/wpabstracts_downloads.php:163
+#: ../wpabstracts_pro.php:44 ../wpabstracts_pro.php:202
+msgid "Abstracts"
+msgstr "Abstracts"
+
+#: ../abstracts/abstracts.manage.php:414 ../emails/admin.templates.php:86
+#: ../wpabstracts_events.php:204 ../wpabstracts_reviews.php:243
+msgid "Add New"
+msgstr "Nieuwe toevoegen"
+
+#: ../abstracts/abstracts.settings.php:69 ../emails/admin.settings.php:34
+#: ../users/admin.settings.php:84 ../wpabstracts_abstracts.php:30
+#: ../wpabstracts_emails.php:23 ../wpabstracts_pro.php:50
+#: ../wpabstracts_pro.php:211 ../wpabstracts_users.php:30
+msgid "Settings"
+msgstr "Instellingen"
+
+#: ../abstracts/abstracts.settings.php:69 ../emails/admin.settings.php:34
+#: ../settings/settings.general.php:47 ../settings/settings.titles.php:97
+#: ../users/admin.settings.php:84
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
+
+#: ../abstracts/abstracts.settings.php:75
+msgid "Abstracts Configuration"
+msgstr "Abstracts configuratie"
+
+#: ../abstracts/abstracts.settings.php:80
+msgid "Show Abstract Description"
+msgstr "Abstract beschrijving weergeven"
+
+#: ../abstracts/abstracts.settings.php:81
+msgid ""
+"Use this setting to hide the decription area completely from the submission "
+"page."
+msgstr ""
+"Gebruik deze instelling om de versleuteling volledig te verbergen vanaf de "
+"verzendpagina."
+
+#: ../abstracts/abstracts.settings.php:84
+#: ../abstracts/abstracts.settings.php:95
+#: ../abstracts/abstracts.settings.php:106
+#: ../abstracts/abstracts.settings.php:117
+#: ../abstracts/abstracts.settings.php:128
+#: ../abstracts/abstracts.settings.php:139
+#: ../abstracts/abstracts.settings.php:150
+#: ../abstracts/abstracts.settings.php:161
+#: ../abstracts/abstracts.settings.php:278 ../emails/admin.settings.php:43
+#: ../emails/admin.settings.php:105 ../emails/admin.settings.php:181
+#: ../emails/admin.settings.php:272 ../emails/admin.settings.php:334
+#: ../settings/settings.general.php:64 ../settings/settings.general.php:75
+#: ../settings/settings.general.php:86 ../settings/settings.general.php:97
+#: ../settings/settings.general.php:108 ../settings/settings.general.php:119
+#: ../settings/settings.general.php:130 ../settings/settings.general.php:152
+#: ../settings/settings.general.php:163 ../settings/settings.general.php:174
+#: ../settings/settings.general.php:185 ../settings/settings.general.php:196
+#: ../users/admin.settings.php:105 ../users/admin.settings.php:116
+#: ../users/admin.settings.php:127 ../users/admin.settings.php:138
+#: ../users/admin.settings.php:151 ../users/admin.settings.php:223
+#: ../users/admin.settings.php:234 ../users/admin.settings.php:245
+#: ../users/admin.settings.php:256
+msgid "Yes"
+msgstr "Ja"
+
+#: ../abstracts/abstracts.settings.php:85
+#: ../abstracts/abstracts.settings.php:96
+#: ../abstracts/abstracts.settings.php:107
+#: ../abstracts/abstracts.settings.php:118
+#: ../abstracts/abstracts.settings.php:129
+#: ../abstracts/abstracts.settings.php:140
+#: ../abstracts/abstracts.settings.php:151
+#: ../abstracts/abstracts.settings.php:162
+#: ../abstracts/abstracts.settings.php:279 ../emails/admin.settings.php:44
+#: ../emails/admin.settings.php:106 ../emails/admin.settings.php:182
+#: ../emails/admin.settings.php:273 ../emails/admin.settings.php:335
+#: ../settings/settings.general.php:65 ../settings/settings.general.php:76
+#: ../settings/settings.general.php:87 ../settings/settings.general.php:98
+#: ../settings/settings.general.php:109 ../settings/settings.general.php:120
+#: ../settings/settings.general.php:131 ../settings/settings.general.php:153
+#: ../settings/settings.general.php:164 ../settings/settings.general.php:175
+#: ../settings/settings.general.php:186 ../settings/settings.general.php:197
+#: ../users/admin.settings.php:106 ../users/admin.settings.php:117
+#: ../users/admin.settings.php:128 ../users/admin.settings.php:139
+#: ../users/admin.settings.php:152 ../users/admin.settings.php:224
+#: ../users/admin.settings.php:235 ../users/admin.settings.php:246
+#: ../users/admin.settings.php:257
+msgid "No"
+msgstr "Nee"
+
+#: ../abstracts/abstracts.settings.php:90
+msgid "Allow Editor Media"
+msgstr "Editor media toestaan"
+
+#: ../abstracts/abstracts.settings.php:91
+msgid ""
+"Use this setting to hide or show the Add Media button on the submission text "
+"editor."
+msgstr ""
+"Gebruik deze instelling om de knop Media toevoegen in de teksteditor voor "
+"inzending te verbergen of weer te geven."
+
+#: ../abstracts/abstracts.settings.php:101
+msgid "Show Author Fields"
+msgstr "Auteur velden weergeven"
+
+#: ../abstracts/abstracts.settings.php:102
+msgid ""
+"Use this setting to hide the author area completely from the submission page."
+msgstr ""
+"Gebruik deze instelling om het auteurs gebied volledig te verbergen op de "
+"pagina voor indiening."
+
+#: ../abstracts/abstracts.settings.php:112
+msgid "Show Attachment Uploads"
+msgstr "Uploads van bijlagen weergeven"
+
+#: ../abstracts/abstracts.settings.php:113
+msgid ""
+"Use this setting to hide the attachment area completely from the submission "
+"page."
+msgstr ""
+"Gebruik deze instelling om het bijlage gebied volledig te verbergen van de "
+"indiening pagina."
+
+#: ../abstracts/abstracts.settings.php:123
+msgid "Make Attachment Required"
+msgstr "Bijlage verplicht maken"
+
+#: ../abstracts/abstracts.settings.php:124
+msgid "Use this setting to make attachments required or optional."
+msgstr "Gebruik deze instelling om bijlagen verplicht of optioneel te maken."
+
+#: ../abstracts/abstracts.settings.php:134
+msgid "Show Presenter Fields"
+msgstr "Presentator velden weergeven"
+
+#: ../abstracts/abstracts.settings.php:135
+msgid ""
+"Use this setting to hide the presenter area completely from the submission "
+"and edit pages."
+msgstr ""
+"Gebruik deze instelling om het presentator gebied volledig te verbergen van "
+"de indiening en de bewerken pagina's."
+
+#: ../abstracts/abstracts.settings.php:145
+msgid "Show Abstract Keywords"
+msgstr "Abstract trefwoorden weergeven"
+
+#: ../abstracts/abstracts.settings.php:146
+msgid ""
+"Enable this to display the keywords input on the submission page. Enabling "
+"this makes keywords required."
+msgstr ""
+"Schakel in om trefwoorden weer te geven op de indien pagina. Ingeschakeld "
+"maakt trefwoorden verplicht."
+
+#: ../abstracts/abstracts.settings.php:156
+msgid "Show Terms & Conditions"
+msgstr "Toon algemene voorwaarden"
+
+#: ../abstracts/abstracts.settings.php:157
+msgid ""
+"Enable this to display your terms and conditions on the submission page. "
+"Enabling this makes the checkbox required."
+msgstr ""
+"Schakel in om uw algemene voorwaarden op de indiening pagina weer te geven. "
+"Inschakelen, maakt het aanvinken van de algemene voorwaarden verplicht."
+
+#: ../abstracts/abstracts.settings.php:167
+msgid "Maximum User Submissions"
+msgstr "Maximum aantal gebruikersinzendingen"
+
+#: ../abstracts/abstracts.settings.php:168
+msgid "Set the maximum submissions allowed per user."
+msgstr "Stel de maximale toegestane inzendingen per gebruiker in."
+
+#: ../abstracts/abstracts.settings.php:175
+msgid "Maximum Word Count"
+msgstr "Maximum aantal woorden"
+
+#: ../abstracts/abstracts.settings.php:176
+msgid "Maximum character count allowed in a submission."
+msgstr "Maximum aantal tekens toegestaan in een inzending."
+
+#: ../abstracts/abstracts.settings.php:183
+msgid "Maximum Attachments"
+msgstr "Maximale bijlagen"
+
+#: ../abstracts/abstracts.settings.php:184
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "Stel de maximale bijlagen uploads in toegestaan per indiening."
+
+#: ../abstracts/abstracts.settings.php:191
+msgid "Maximum Attachment Size"
+msgstr "Maximale bijlage grootte"
+
+#: ../abstracts/abstracts.settings.php:192
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "Maxmium grootte toegestaan voor bijlagen (in bytes)."
+
+#: ../abstracts/abstracts.settings.php:199
+msgid "Permitted Attachments"
+msgstr "Toegestane bijlagen"
+
+#: ../abstracts/abstracts.settings.php:200
+msgid ""
+"File extentions allowed for uploading (separate extentions with a comma)."
+msgstr ""
+"Bestandsextenties toegestaan voor het uploaden (extenties scheiden met een "
+"komma)."
+
+#: ../abstracts/abstracts.settings.php:207
+msgid "Set Presenter Preferences"
+msgstr "Voorkeuren presentator instellen"
+
+#: ../abstracts/abstracts.settings.php:208
+msgid ""
+"Set the types of presentation allowed (separated by commas), Eg. Poster, "
+"Panel, Round Table"
+msgstr ""
+"Stel de soorten van de presentatie in (gescheiden door komma's), "
+"bijvoorbeeld. Presentatie, sessie, roundtable"
+
+#: ../abstracts/abstracts.settings.php:222
+msgid "Abstract Status"
+msgstr "Abstracte status"
+
+#: ../abstracts/abstracts.settings.php:228
+msgid "Abstracts Status Description"
+msgstr "Abstracts status beschrijving"
+
+#: ../abstracts/abstracts.settings.php:229
+msgid "Describe the four statuses Abstracts may be in."
+msgstr "Beschrijf de vier statussen van de abstracts."
+
+#: ../abstracts/abstracts.settings.php:247
+msgid "Status that allow Revision"
+msgstr "Status die herziening toestaat"
+
+#: ../abstracts/abstracts.settings.php:248
+msgid "Select the status when authors are allowed to edit their submission."
+msgstr "Selecteer de status wanneer auteurs hun inzending mogen bewerken."
+
+#: ../abstracts/abstracts.settings.php:260
+msgid "Default Submission Status"
+msgstr "Standaard indieningsstatus"
+
+#: ../abstracts/abstracts.settings.php:261
+msgid "Select the default status of newly submitted abstracts."
+msgstr "Selecteer de standaardstatus van nieuw ingediende abstracts."
+
+#: ../abstracts/abstracts.settings.php:273
+msgid "Sync Review Status to Abstracts"
+msgstr "Synchroniseren beoordelingsstatus met abstracts"
+
+#: ../abstracts/abstracts.settings.php:274
+msgid ""
+"Enable this to allow reviewer status selection to update the abstract "
+"status. This works best when one reviewer is assigned to the abstract. If "
+"more than one reviews are submitted the last one wins."
+msgstr ""
+"Schakel in om de reviewer de status te laten veranderen van de abstract. Dit "
+"werkt het beste wanneer 1 reviewer is toegewezen aan de abstract. Als er "
+"meer dan 1 reviewer zijn ingediend dan wint de laatste."
+
+#: ../abstracts/abstracts.settings.php:288 ../users/admin.settings.php:267
+msgid "Admin Columns"
+msgstr "Admin kolommen"
+
+#: ../abstracts/abstracts.settings.php:289
+msgid "Select columns to display on manage abstracts tab."
+msgstr ""
+"Selecteer kolommen die u wilt weergeven op het tabblad Samenvattingen "
+"beheren."
+
+#: ../emails/admin.settings.php:41
+msgid "Enable Submission Triggers"
+msgstr "Inzending instellingen inschakelen"
+
+#: ../emails/admin.settings.php:46
+msgid "Enable or disable all submission email trigger."
+msgstr "In-of uitschakelen alle inzending email meldingen."
+
+#: ../emails/admin.settings.php:55 ../emails/admin.settings.php:117
+#: ../emails/admin.settings.php:193
+msgid "Admin Notification"
+msgstr "Admin mededeling"
+
+#: ../emails/admin.settings.php:57
+msgid ""
+"Select a template to email the site admin on submissions of new abstracts."
+msgstr ""
+"Selecteer een email reactie om de beheerder op de hoogte te stellen van "
+"nieuwe inzendingen."
+
+#: ../emails/admin.settings.php:64 ../emails/admin.settings.php:78
+#: ../emails/admin.settings.php:126 ../emails/admin.settings.php:140
+#: ../emails/admin.settings.php:154 ../emails/admin.settings.php:202
+#: ../emails/admin.settings.php:216 ../emails/admin.settings.php:230
+#: ../emails/admin.settings.php:244 ../emails/admin.settings.php:292
+msgid "-Do not send email-"
+msgstr "-Stuur geen e-mail-"
+
+#: ../emails/admin.settings.php:69 ../emails/admin.settings.php:131
+#: ../emails/admin.settings.php:221
+msgid "Author Notification"
+msgstr "Melding van auteur"
+
+#: ../emails/admin.settings.php:71
+msgid ""
+"Enable this to send an email to authors when they submit an abstract (email "
+"is sent to Author's email)."
+msgstr ""
+"Schakel in om een e-mail naar auteurs te verzenden wanneer zij een "
+"samenvatting indienen (e-mail wordt verzonden naar de e-mail van de auteur)."
+
+#: ../emails/admin.settings.php:88 ../emails/admin.settings.php:164
+#: ../emails/admin.settings.php:254 ../emails/admin.settings.php:304
+#: ../wpabstracts_pro.php:52 ../wpabstracts_pro.php:213
+msgid "Help"
+msgstr "Help"
+
+#: ../emails/admin.settings.php:92
+msgid ""
+"Select the email template for notifications when an abstract is submitted."
+msgstr ""
+"Selecteer de e-mail voor meldingen wanneer een samenvatting wordt ingediend."
+
+#: ../emails/admin.settings.php:93
+msgid ""
+"Use the master enable / disable option to turn off all submitted related "
+"notification. Select - Do not send email - to disable a notification on a "
+"particular destination email."
+msgstr ""
+"Gebruik de optie Master Enable/Disable om alle ingezonden samenvattingen "
+"gerelateerde meldingen uit te schakelen. Selecteer - Stuur geen e-mail - om "
+"een melding op een bepaalde bestemming e-mail uit te schakelen."
+
+#: ../emails/admin.settings.php:103
+msgid "Enable Revision Triggers"
+msgstr "Inschakelen revisie meldingen"
+
+#: ../emails/admin.settings.php:108
+msgid "Enable or disable all edit email triggers."
+msgstr "Schakel alle e-mail meldingen voor bewerken in of uit."
+
+#: ../emails/admin.settings.php:119
+msgid "Select a template to email the site admin owhen an abstract is edited."
+msgstr ""
+"Selecteer een  e-mail die naar de beheerder wordt gestuurd als er een "
+"samenvatting is bewerkt."
+
+#: ../emails/admin.settings.php:133
+msgid ""
+"Enable this to send an email to authors when they edit an abstract (email is "
+"sent to Author's email)."
+msgstr ""
+"Schakel in om een e-mail naar auteurs te verzenden wanneer zij een "
+"samenvatting bewerken (e-mail wordt verzonden naar de e-mail van de auteur)."
+
+#: ../emails/admin.settings.php:145 ../emails/admin.settings.php:207
+msgid "Reviewer Notification"
+msgstr "Melding van beoordelaar"
+
+#: ../emails/admin.settings.php:147
+msgid ""
+"Enable this to send an email to assigned reviewers when an abstract is "
+"edited (email is sent to all reviewers on submission)."
+msgstr ""
+"Schakel in om een e-mail te sturen naar toegewezen reviewers wanneer een "
+"abstract wordt bewerkt (e-mail wordt verzonden naar alle reviewers bij het "
+"indienen)."
+
+#: ../emails/admin.settings.php:168
+msgid "Select the email template for notifications when an abstract is edited."
+msgstr "Selecteer de e-mail voor meldingen wanneer een abstract wordt bewerkt."
+
+#: ../emails/admin.settings.php:169
+msgid ""
+"Use the master enable / disable option to turn off all edit related "
+"notification. Select - Do not send email - to disable a notification on a "
+"particular destination email."
+msgstr ""
+"Gebruik de optie Master Enable/Disable om alle gerelateerde meldingen uit te "
+"schakelen. Selecteer - Stuur geen e-mail - om een melding op een bepaalde e-"
+"mail uit te schakelen."
+
+#: ../emails/admin.settings.php:179
+msgid "Enable Reviewer Triggers"
+msgstr "Meldingen reviewers inschakelen"
+
+#: ../emails/admin.settings.php:184
+msgid "Enable or disable all reviewer email trigger."
+msgstr "Schakel alle e-mail meldingen voor de reviewer in of uit."
+
+#: ../emails/admin.settings.php:195
+msgid ""
+"Enable this to send an email to administrators when a review was submitted."
+msgstr ""
+"Schakel dit in om een e-mail te sturen naar beheerders wanneer een recensie "
+"is ingediend."
+
+#: ../emails/admin.settings.php:209
+msgid ""
+"Enable this to send an email to the reviewer when he/she submits a review."
+msgstr ""
+"Schakel dit in om een e-mail naar de beoordelaar te sturen wanneer hij /zij "
+"een beoordeling indient."
+
+#: ../emails/admin.settings.php:223
+msgid ""
+"Enable this to send an email to authors when their abstracts has been "
+"reviewed (email is sent to submitter's email only)."
+msgstr ""
+"Schakel in om een e-mail naar auteurs te verzenden wanneer hun "
+"samenvattingen is herzien (e-mail wordt verzonden naar de e-mail van de "
+"inzender)."
+
+#: ../emails/admin.settings.php:235
+msgid "Reviewer Assignment Notification"
+msgstr "Kennisgeving van opdracht van beoordelaar"
+
+#: ../emails/admin.settings.php:237
+msgid ""
+"Select a template to send to reviewers when they have been assigned a "
+"submission."
+msgstr ""
+"Selecteer een antwoord om naar reviewers te verzenden wanneer aan hen een "
+"inzending is toegewezen."
+
+#: ../emails/admin.settings.php:258
+msgid ""
+"Select reviewer related templates for admin and author notification when "
+"reviews are submitted and when an abstract is assigned to a reviewer."
+msgstr ""
+"Selecteer review verwante antwoorden voor de beheerder en de auteur, wanneer "
+"er beoordelingen worden ingediend en wanneer een samenvatting is toegewezen "
+"aan een reviewer."
+
+#: ../emails/admin.settings.php:259 ../emails/admin.settings.php:309
+msgid ""
+"Use the master enable / disable option to turn off all reviewer related "
+"notification. Select - Do not send email - to disable a notification on a "
+"particular status change."
+msgstr ""
+"Gebruik de optie Master Enable/Disable om alle verwante meldingen voor de "
+"reviewer uit te schakelen. Selecteer - Geen e-mail verzenden - om een "
+"melding op een bepaalde statuswijziging uit te schakelen."
+
+#: ../emails/admin.settings.php:270
+msgid "Enable Status Change Triggers"
+msgstr "Status wijzigingsmeldingen inschakelen"
+
+#: ../emails/admin.settings.php:275
+msgid "Enable or disable all status change email trigger."
+msgstr "In-of uitschakelen van alle status wijzigingsmeldingen e-mails."
+
+#: ../emails/admin.settings.php:285
+msgid "Select the email template for this status change notification"
+msgstr "Selecteer de e-mail voor deze status wijzigingsmelding"
+
+#: ../emails/admin.settings.php:308
+msgid "Select the email template for when the status is changed on Abstracts."
+msgstr ""
+"Selecteer de e-mail voor wanneer de status wordt gewijzigd op abstracts."
+
+#: ../emails/admin.settings.php:320
+msgid "Admin Notification Recipients"
+msgstr "Ontvangers van beheerders meldingen"
+
+#: ../emails/admin.settings.php:321
+msgid "Enable or disable admin notications for admin users."
+msgstr "In-of uitschakelen beheerder meldingen voor beheerders."
+
+#: ../emails/admin.templates.php:86
+msgid "Email Templates"
+msgstr "Email antwoorden"
+
+#: ../html/wpabstracts_addAbstract.php:8
+msgid "Abstract submission for this event has past"
+msgstr "Abstract indiening voor dit evenement is al geweest"
+
+#: ../html/wpabstracts_addAbstract.php:12
+msgid "You have reached the maximum amount of submissions allowed per user."
+msgstr "U hebt het maximum aantal inzendingen per gebruiker bereikt."
+
+#: ../html/wpabstracts_addAbstract.php:18 ../html/wpabstracts_dashboard.php:113
+#: ../html/wpabstracts_dashboard.php:117 ../inc/wpabstracts_functions.php:1080
+#: ../settings/settings.titles.php:251
+msgid "New Abstract"
+msgstr "Nieuw abstract"
+
+#: ../html/wpabstracts_addAbstract.php:19
+#: ../html/wpabstracts_addEmailTemplate.php:4
+#: ../html/wpabstracts_addEvent.php:11 ../html/wpabstracts_addReview.php:4
+#: ../html/wpabstracts_editAbstract.php:16
+#: ../html/wpabstracts_editEmailTemplate.php:4
+#: ../html/wpabstracts_editEvent.php:11 ../html/wpabstracts_editReview.php:4
+#: ../users/profile.php:40
+msgid "Submit"
+msgstr "Verzenden"
+
+#: ../html/wpabstracts_addAbstract.php:26 ../html/wpabstracts_addReview.php:11
+#: ../html/wpabstracts_editAbstract.php:23
+#: ../html/wpabstracts_editReview.php:13 ../html/wpabstracts_viewAbstract.php:9
+#: ../inc/wpabstracts_functions.php:1082 ../settings/settings.titles.php:261
+msgid "Abstract Information"
+msgstr "Abstract informatie"
+
+#: ../html/wpabstracts_addAbstract.php:30 ../inc/wpabstracts_functions.php:1083
+#: ../settings/settings.titles.php:266
+msgid "Enter Title"
+msgstr "Titel - (Sessie)"
+
+#: ../html/wpabstracts_addAbstract.php:42
+#: ../html/wpabstracts_editAbstract.php:40
+#, php-format
+msgid "Words Used: %s"
+msgstr "Gebruikte woorden: %s"
+
+#: ../html/wpabstracts_addAbstract.php:43
+#: ../html/wpabstracts_editAbstract.php:41
+#, php-format
+msgid "Words Remaining: %s"
+msgstr "Resterende woorden: %s"
+
+#: ../html/wpabstracts_addAbstract.php:51 ../html/wpabstracts_addReview.php:25
+#: ../html/wpabstracts_editReview.php:26
+#: ../html/wpabstracts_viewAbstract.php:23 ../inc/wpabstracts_downloads.php:130
+#: ../inc/wpabstracts_functions.php:1084 ../inc/wpabstracts_functions.php:1285
+#: ../settings/settings.titles.php:271 ../wpabstracts_pro.php:481
+msgid "Keywords"
+msgstr "Trefwoorden"
+
+#: ../html/wpabstracts_addAbstract.php:52
+#: ../html/wpabstracts_editAbstract.php:49
+#: ../inc/wpabstracts_functions.php:1086 ../settings/settings.titles.php:281
+msgid "Enter comma separated keywords"
+msgstr "Komma gescheiden trefwoorden invoeren"
+
+#: ../html/wpabstracts_addAbstract.php:61 ../html/wpabstracts_addReview.php:93
+#: ../html/wpabstracts_dashboard.php:166 ../html/wpabstracts_dashboard.php:276
+#: ../html/wpabstracts_editAbstract.php:237
+#: ../html/wpabstracts_editReview.php:91 ../inc/wpabstracts_functions.php:1087
+#: ../settings/settings.titles.php:286 ../wpabstracts_attachments.php:35
+#: ../wpabstracts_pro.php:46 ../wpabstracts_pro.php:204
+#: ../wpabstracts_pro.php:478
+msgid "Attachments"
+msgstr "Bijlagen"
+
+#: ../html/wpabstracts_addAbstract.php:67
+#: ../html/wpabstracts_editAbstract.php:245
+#: ../inc/wpabstracts_functions.php:1089
+msgid "Use this form to upload your images, photos or tables."
+msgstr ""
+"Gebruik dit formulier om uw afbeeldingen, foto's of tabellen te uploaden."
+
+#: ../html/wpabstracts_addAbstract.php:68 ../html/wpabstracts_addReview.php:132
+#: ../html/wpabstracts_editAbstract.php:246
+#: ../html/wpabstracts_editReview.php:130 ../inc/wpabstracts_functions.php:1090
+#: ../settings/settings.titles.php:301
+msgid "Supported formats"
+msgstr "Ondersteunde formaten"
+
+#: ../html/wpabstracts_addAbstract.php:69 ../html/wpabstracts_addReview.php:133
+#: ../html/wpabstracts_editAbstract.php:247
+#: ../html/wpabstracts_editReview.php:131 ../inc/wpabstracts_functions.php:1091
+#: ../settings/settings.titles.php:306
+msgid "Maximum attachment size"
+msgstr "Maximale bijlage grootte"
+
+#: ../html/wpabstracts_addAbstract.php:89 ../inc/wpabstracts_functions.php:1092
+#: ../settings/settings.general.php:243 ../settings/settings.titles.php:311
+msgid "Terms and Conditions"
+msgstr "Algemene voorwaarden"
+
+#: ../html/wpabstracts_addAbstract.php:106 ../html/wpabstracts_addEvent.php:19
+#: ../html/wpabstracts_editAbstract.php:108
+#: ../html/wpabstracts_editEvent.php:18 ../html/wpabstracts_editEvent.php:31
+#: ../html/wpabstracts_viewAbstract.php:54
+#: ../inc/wpabstracts_functions.php:1093 ../settings/settings.titles.php:316
+msgid "Event Information"
+msgstr "Evenement informatie"
+
+#: ../html/wpabstracts_addAbstract.php:114
+#: ../html/wpabstracts_addAbstract.php:131
+#: ../html/wpabstracts_addReview.php:227
+#: ../html/wpabstracts_editAbstract.php:115
+#: ../html/wpabstracts_editReview.php:239
+#: ../html/wpabstracts_viewAbstract.php:60 ../inc/wpabstracts_classes.php:119
+#: ../inc/wpabstracts_classes.php:248 ../inc/wpabstracts_functions.php:1094
+#: ../inc/wpabstracts_functions.php:1280 ../settings/settings.titles.php:321
+#: ../wpabstracts_pro.php:471
+msgid "Event"
+msgstr "Evenement"
+
+#: ../html/wpabstracts_addAbstract.php:116
+#: ../html/wpabstracts_editAbstract.php:117
+#: ../inc/wpabstracts_functions.php:1095 ../settings/settings.titles.php:326
+#: ../wpabstracts_reports.php:121 ../wpabstracts_reports.php:125
+msgid "Select an Event"
+msgstr "Selecteer een evenement"
+
+#: ../html/wpabstracts_addAbstract.php:123
+#: ../html/wpabstracts_addAbstract.php:136
+#: ../html/wpabstracts_addReview.php:228 ../html/wpabstracts_dashboard.php:273
+#: ../html/wpabstracts_editAbstract.php:130
+#: ../html/wpabstracts_editReview.php:240
+#: ../html/wpabstracts_viewAbstract.php:64 ../inc/wpabstracts_classes.php:120
+#: ../inc/wpabstracts_classes.php:249 ../inc/wpabstracts_downloads.php:129
+#: ../inc/wpabstracts_downloads.php:177 ../inc/wpabstracts_functions.php:1096
+#: ../inc/wpabstracts_functions.php:1281 ../settings/settings.titles.php:331
+#: ../wpabstracts_pro.php:472
+msgid "Topic"
+msgstr "Onderwerp"
+
+#: ../html/wpabstracts_addAbstract.php:125
+#: ../html/wpabstracts_addAbstract.php:138
+#: ../html/wpabstracts_editAbstract.php:132
+#: ../inc/wpabstracts_functions.php:1097 ../settings/settings.titles.php:336
+msgid "Select a Topic"
+msgstr "Selecteer een onderwerp"
+
+#: ../html/wpabstracts_addAbstract.php:154 ../html/wpabstracts_addReview.php:41
+#: ../html/wpabstracts_editAbstract.php:151
+#: ../html/wpabstracts_editReview.php:41
+#: ../html/wpabstracts_viewAbstract.php:80
+#: ../inc/wpabstracts_functions.php:1098 ../settings/settings.titles.php:341
+msgid "Author Information"
+msgstr "Auteur (deelnemer) informatie"
+
+#: ../html/wpabstracts_addAbstract.php:163
+#: ../html/wpabstracts_editAbstract.php:167
+#: ../inc/wpabstracts_downloads.php:132 ../inc/wpabstracts_functions.php:1099
+#: ../settings/settings.titles.php:346
+msgid "Author Name"
+msgstr "Naam"
+
+#: ../html/wpabstracts_addAbstract.php:166
+#: ../html/wpabstracts_editAbstract.php:170
+#: ../inc/wpabstracts_downloads.php:133 ../inc/wpabstracts_functions.php:1100
+#: ../settings/settings.titles.php:351
+msgid "Author Email"
+msgstr "Email"
+
+#: ../html/wpabstracts_addAbstract.php:169
+#: ../html/wpabstracts_editAbstract.php:173
+#: ../inc/wpabstracts_downloads.php:134 ../inc/wpabstracts_functions.php:1101
+#: ../settings/settings.titles.php:356
+msgid "Author Affiliation"
+msgstr "Bedrijf"
+
+#: ../html/wpabstracts_addAbstract.php:184 ../html/wpabstracts_addReview.php:68
+#: ../html/wpabstracts_editAbstract.php:193
+#: ../html/wpabstracts_editReview.php:66
+#: ../html/wpabstracts_viewAbstract.php:122
+#: ../inc/wpabstracts_functions.php:1102 ../settings/settings.titles.php:361
+msgid "Presenter Information"
+msgstr "Presentator (voorzitter) informatie"
+
+#: ../html/wpabstracts_addAbstract.php:190 ../html/wpabstracts_addReview.php:56
+#: ../html/wpabstracts_addReview.php:83
+#: ../html/wpabstracts_editAbstract.php:207
+#: ../html/wpabstracts_editReview.php:56 ../html/wpabstracts_editReview.php:81
+#: ../html/wpabstracts_viewAbstract.php:95
+#: ../html/wpabstracts_viewAbstract.php:136
+msgid "Name"
+msgstr "Naam"
+
+#: ../html/wpabstracts_addAbstract.php:195 ../html/wpabstracts_addReview.php:57
+#: ../html/wpabstracts_addReview.php:84
+#: ../html/wpabstracts_editAbstract.php:212
+#: ../html/wpabstracts_editReview.php:57 ../html/wpabstracts_editReview.php:82
+#: ../html/wpabstracts_viewAbstract.php:99
+#: ../html/wpabstracts_viewAbstract.php:140 ../users/admin.formbuilder.php:178
+#: ../users/admin.formbuilder.php:179 ../users/register.html.php:190
+msgid "Email"
+msgstr "E-mail"
+
+#: ../html/wpabstracts_addAbstract.php:200
+#: ../html/wpabstracts_editAbstract.php:217
+#: ../html/wpabstracts_viewAbstract.php:144
+#: ../inc/wpabstracts_downloads.php:137 ../inc/wpabstracts_functions.php:1105
+#: ../settings/settings.titles.php:376
+msgid "Presenter Preference"
+msgstr "Presentievorm"
+
+#: ../html/wpabstracts_addAbstract.php:202
+msgid "Select Preference"
+msgstr "Selecteer voorkeur"
+
+#: ../html/wpabstracts_addEmailTemplate.php:3
+msgid "New Template"
+msgstr "Nieuwe template"
+
+#: ../html/wpabstracts_addEmailTemplate.php:11
+#: ../html/wpabstracts_editEmailTemplate.php:11
+msgid "Template Information"
+msgstr "Template informatie"
+
+#: ../html/wpabstracts_addEmailTemplate.php:15
+#: ../html/wpabstracts_editEmailTemplate.php:15
+msgid "Template Name"
+msgstr "Naam"
+
+#: ../html/wpabstracts_addEmailTemplate.php:19
+#: ../html/wpabstracts_editEmailTemplate.php:19
+#: ../inc/wpabstracts_classes.php:675 ../users/admin.settings.php:327
+msgid "From Name"
+msgstr "Naam afzender"
+
+#: ../html/wpabstracts_addEmailTemplate.php:23
+#: ../html/wpabstracts_editEmailTemplate.php:23
+#: ../inc/wpabstracts_classes.php:676 ../users/admin.settings.php:335
+msgid "From Email"
+msgstr "E-mail afzender"
+
+#: ../html/wpabstracts_addEmailTemplate.php:27
+#: ../html/wpabstracts_editEmailTemplate.php:27 ../users/admin.settings.php:343
+msgid "Email Subject"
+msgstr "E-mail onderwerp"
+
+#: ../html/wpabstracts_addEmailTemplate.php:31
+#: ../html/wpabstracts_editEmailTemplate.php:31
+msgid "Email Body"
+msgstr "E-mail inhoud"
+
+#: ../html/wpabstracts_addEmailTemplate.php:52
+#: ../html/wpabstracts_editEmailTemplate.php:41
+msgid "Include Submission as Attachment"
+msgstr "Inzending opnemen als bijlage"
+
+#: ../html/wpabstracts_addEmailTemplate.php:61
+#: ../html/wpabstracts_editEmailTemplate.php:50 ../users/admin.settings.php:360
+msgid "Available Shortcodes"
+msgstr "Beschikbare shortcodes"
+
+#: ../html/wpabstracts_addEvent.php:10
+msgid "New Event"
+msgstr "Nieuw evenement"
+
+#: ../html/wpabstracts_addEvent.php:22
+msgid "Event Title"
+msgstr "Evenement titel"
+
+#: ../html/wpabstracts_addEvent.php:32
+msgid "Event Details"
+msgstr "Evenement Details"
+
+#: ../html/wpabstracts_addEvent.php:36 ../html/wpabstracts_dashboard.php:163
+#: ../html/wpabstracts_dashboard.php:344 ../html/wpabstracts_editEvent.php:35
+#: ../inc/wpabstracts_classes.php:571 ../inc/wpabstracts_downloads.php:131
+#: ../inc/wpabstracts_downloads.php:185 ../wpabstracts_pro.php:475
+#: ../wpabstracts_reports.php:14 ../wpabstracts_reports.php:35
+msgid "Status"
+msgstr "Status"
+
+#: ../html/wpabstracts_addEvent.php:38 ../html/wpabstracts_editEvent.php:37
+msgid "Active"
+msgstr "Actief"
+
+#: ../html/wpabstracts_addEvent.php:41 ../html/wpabstracts_editEvent.php:41
+#: ../inc/wpabstracts_classes.php:572
+msgid "Host"
+msgstr "Host"
+
+#: ../html/wpabstracts_addEvent.php:44 ../html/wpabstracts_editEvent.php:44
+msgid "Location"
+msgstr "Locatie"
+
+#: ../html/wpabstracts_addEvent.php:47 ../html/wpabstracts_editEvent.php:47
+#: ../inc/wpabstracts_classes.php:574
+msgid "Start Date"
+msgstr "Startdatum"
+
+#: ../html/wpabstracts_addEvent.php:50 ../html/wpabstracts_editEvent.php:50
+#: ../inc/wpabstracts_classes.php:575
+msgid "End Date"
+msgstr "Einddatum"
+
+#: ../html/wpabstracts_addEvent.php:53 ../html/wpabstracts_editEvent.php:53
+#: ../inc/wpabstracts_classes.php:576
+msgid "Deadline"
+msgstr "Deadline"
+
+#: ../html/wpabstracts_addEvent.php:60 ../html/wpabstracts_editEvent.php:60
+#: ../inc/wpabstracts_classes.php:573
+msgid "Topics"
+msgstr "Onderwerpen"
+
+#: ../html/wpabstracts_addEvent.php:67 ../html/wpabstracts_editEvent.php:70
+msgid "add topic"
+msgstr "onderwerp toevoegen"
+
+#: ../html/wpabstracts_addEvent.php:68 ../html/wpabstracts_editEvent.php:71
+msgid "delete topic"
+msgstr "onderwerp verwijderen"
+
+#: ../html/wpabstracts_addReview.php:3 ../inc/wpabstracts_functions.php:1107
+#: ../settings/settings.titles.php:392 ../wpabstracts_pro.php:1085
+msgid "New Review"
+msgstr "Nieuwe beoordeling"
+
+#: ../html/wpabstracts_addReview.php:14 ../html/wpabstracts_dashboard.php:159
+#: ../html/wpabstracts_dashboard.php:269 ../html/wpabstracts_dashboard.php:342
+#: ../html/wpabstracts_editReview.php:16
+#: ../html/wpabstracts_viewAbstract.php:13 ../inc/wpabstracts_downloads.php:126
+msgid "Title"
+msgstr "Titel"
+
+#: ../html/wpabstracts_addReview.php:16 ../html/wpabstracts_editReview.php:18
+#: ../html/wpabstracts_viewAbstract.php:18 ../inc/wpabstracts_downloads.php:127
+msgid "Description"
+msgstr "Omschrijving"
+
+#: ../html/wpabstracts_addReview.php:32 ../html/wpabstracts_editReview.php:33
+#: ../inc/wpabstracts_functions.php:1085 ../settings/settings.titles.php:276
+msgid "No keywords found"
+msgstr "Geen trefwoorden gevonden"
+
+#: ../html/wpabstracts_addReview.php:58 ../html/wpabstracts_editReview.php:58
+#: ../html/wpabstracts_viewAbstract.php:103
+msgid "Affiliation"
+msgstr "Bedrijf"
+
+#: ../html/wpabstracts_addReview.php:85 ../html/wpabstracts_dashboard.php:164
+#: ../html/wpabstracts_dashboard.php:274 ../html/wpabstracts_dashboard.php:347
+#: ../html/wpabstracts_editReview.php:83 ../wpabstracts_pro.php:474
+msgid "Preference"
+msgstr "Voorkeur"
+
+#: ../html/wpabstracts_addReview.php:97 ../html/wpabstracts_editReview.php:95
+#: ../inc/wpabstracts_functions.php:1088 ../settings/settings.titles.php:291
+msgid "No Attachments submitted"
+msgstr "Geen bijlagen ingediend"
+
+#: ../html/wpabstracts_addReview.php:111 ../html/wpabstracts_editReview.php:109
+#: ../inc/wpabstracts_functions.php:1109 ../settings/settings.titles.php:402
+#: ../wpabstracts_pro.php:1083
+msgid "Add Comments"
+msgstr "Opmerkingen toevoegen"
+
+#: ../html/wpabstracts_addReview.php:125 ../html/wpabstracts_editReview.php:123
+msgid "Reviewer Attachment"
+msgstr "Bijlage bij reviewer"
+
+#: ../html/wpabstracts_addReview.php:131 ../html/wpabstracts_editReview.php:129
+#: ../inc/wpabstracts_functions.php:1111 ../wpabstracts_pro.php:1080
+msgid "Use this option to upload a document to this review."
+msgstr "Gebruik deze optie om een document naar deze revisie te uploaden."
+
+#: ../html/wpabstracts_addReview.php:148 ../html/wpabstracts_dashboard.php:345
+#: ../html/wpabstracts_editReview.php:160 ../inc/wpabstracts_classes.php:75
+#: ../inc/wpabstracts_classes.php:404 ../inc/wpabstracts_downloads.php:181
+msgid "Relevance"
+msgstr "Relevantie"
+
+#: ../html/wpabstracts_addReview.php:153 ../html/wpabstracts_addReview.php:175
+#: ../html/wpabstracts_editReview.php:165
+#: ../html/wpabstracts_editReview.php:187
+msgid "Excellent"
+msgstr "Uitstekend"
+
+#: ../html/wpabstracts_addReview.php:156 ../html/wpabstracts_addReview.php:178
+#: ../html/wpabstracts_editReview.php:168
+#: ../html/wpabstracts_editReview.php:190
+msgid "Good"
+msgstr "Goed"
+
+#: ../html/wpabstracts_addReview.php:159 ../html/wpabstracts_addReview.php:181
+#: ../html/wpabstracts_editReview.php:171
+#: ../html/wpabstracts_editReview.php:193
+msgid "Average"
+msgstr "Gemiddeld"
+
+#: ../html/wpabstracts_addReview.php:162 ../html/wpabstracts_addReview.php:184
+#: ../html/wpabstracts_editReview.php:174
+#: ../html/wpabstracts_editReview.php:196
+msgid "Poor"
+msgstr "Slecht"
+
+#: ../html/wpabstracts_addReview.php:170 ../html/wpabstracts_dashboard.php:346
+#: ../html/wpabstracts_editReview.php:182 ../inc/wpabstracts_classes.php:76
+#: ../inc/wpabstracts_classes.php:405 ../inc/wpabstracts_downloads.php:182
+msgid "Quality"
+msgstr "Kwaliteit"
+
+#: ../html/wpabstracts_addReview.php:192 ../html/wpabstracts_editReview.php:204
+#: ../inc/wpabstracts_functions.php:1112 ../settings/settings.titles.php:417
+#: ../wpabstracts_pro.php:1087
+msgid "Suggest Type"
+msgstr "Suggestie type"
+
+#: ../html/wpabstracts_addReview.php:196 ../html/wpabstracts_editReview.php:208
+msgid "Request"
+msgstr "Aanvraag"
+
+#: ../html/wpabstracts_addReview.php:208 ../html/wpabstracts_editReview.php:220
+#: ../inc/wpabstracts_functions.php:1113 ../settings/settings.titles.php:421
+#: ../wpabstracts_pro.php:1088
+msgid "Suggest Status"
+msgstr "Status voorstellen"
+
+#: ../html/wpabstracts_addReview.php:222 ../html/wpabstracts_editReview.php:234
+#: ../inc/wpabstracts_functions.php:1114 ../settings/settings.titles.php:425
+#: ../wpabstracts_pro.php:1084
+msgid "Additional Information"
+msgstr "Extra informatie"
+
+#: ../html/wpabstracts_addReview.php:226 ../html/wpabstracts_editReview.php:238
+#: ../inc/wpabstracts_functions.php:1115 ../inc/wpabstracts_functions.php:1279
+#: ../settings/settings.titles.php:429
+msgid "Submitted"
+msgstr "Ingediend"
+
+#: ../html/wpabstracts_dashboard.php:21
+msgid ""
+"You're logged in as an administrator, please use WordPress admin area to "
+"manage abstracts or use another browser to view your dashboard as author or "
+"reviewer."
+msgstr ""
+"Je bent ingelogd als beheerder. Gebruik de WordPress admin om abstracts te "
+"beheren, of gebruik een andere browser om uw dashboard te bekijken als "
+"auteur of een reviewer."
+
+#: ../html/wpabstracts_dashboard.php:27
+msgid "You do not have permissions to manage this resource."
+msgstr "U bent niet gemachtigd om deze bron te beheren."
+
+#: ../html/wpabstracts_dashboard.php:89
+msgid ""
+"Your account is not setup to view this dashboard. Please contact your site "
+"admin."
+msgstr ""
+"Uw account is niet ingesteld om dit dashboard te bekijken. Neem contact op "
+"met uw site beheerder."
+
+#: ../html/wpabstracts_dashboard.php:96 ../inc/wpabstracts_functions.php:1132
+#: ../settings/settings.titles.php:194
+msgid "Welcome back"
+msgstr "Welkom terug"
+
+#: ../html/wpabstracts_dashboard.php:106 ../inc/wpabstracts_functions.php:1131
+#: ../settings/settings.titles.php:183 ../settings/settings.titles.php:189
+#: ../users/login.php:11
+msgid "Dashboard"
+msgstr "Dashboard"
+
+#: ../html/wpabstracts_dashboard.php:126 ../inc/wpabstracts_functions.php:1134
+#: ../settings/settings.titles.php:204
+msgid "My Profile"
+msgstr "Mijn profiel"
+
+#: ../html/wpabstracts_dashboard.php:131 ../inc/wpabstracts_functions.php:1133
+#: ../settings/settings.titles.php:199 ../users/login.php:12
+msgid "Logout"
+msgstr "Uitloggen"
+
+#: ../html/wpabstracts_dashboard.php:150 ../inc/wpabstracts_functions.php:1135
+#: ../settings/settings.titles.php:209
+msgid "My Abstracts"
+msgstr "Mijn abstracts"
+
+#: ../html/wpabstracts_dashboard.php:158 ../html/wpabstracts_dashboard.php:268
+#: ../html/wpabstracts_dashboard.php:341
+msgid "ID"
+msgstr "ID"
+
+#: ../html/wpabstracts_dashboard.php:161
+msgid "Review"
+msgstr "Beoordeling"
+
+#: ../html/wpabstracts_dashboard.php:165 ../html/wpabstracts_dashboard.php:275
+msgid "Submit Date"
+msgstr "Verzenddatum"
+
+#: ../html/wpabstracts_dashboard.php:167 ../html/wpabstracts_dashboard.php:277
+#: ../html/wpabstracts_dashboard.php:349
+msgid "Action"
+msgstr "Actie"
+
+#: ../html/wpabstracts_dashboard.php:174
+msgid "You have NOT submitted any abstracts."
+msgstr "U hebt geen abstracts ingediend."
+
+#: ../html/wpabstracts_dashboard.php:197
+msgid "No reviews as yet."
+msgstr "Nog geen reviews."
+
+#: ../html/wpabstracts_dashboard.php:203 ../inc/wpabstracts_functions.php:1140
+#: ../settings/settings.titles.php:234 ../wpabstracts_pro.php:1097
+msgid "Document"
+msgstr "Document"
+
+#: ../html/wpabstracts_dashboard.php:261 ../inc/wpabstracts_functions.php:1136
+#: ../settings/settings.titles.php:214
+msgid "Assigned Abstracts"
+msgstr "Toegewezen abstracts"
+
+#: ../html/wpabstracts_dashboard.php:271 ../inc/wpabstracts_classes.php:250
+#: ../wpabstracts_pro.php:473
+msgid "Author"
+msgstr "Auteur"
+
+#: ../html/wpabstracts_dashboard.php:285
+msgid "You have NO newly assigned abstracts"
+msgstr "U hebt geen nieuw toegewezen abstracts"
+
+#: ../html/wpabstracts_dashboard.php:308
+msgid "Add Review"
+msgstr "Beoordeling toevoegen"
+
+#: ../html/wpabstracts_dashboard.php:334 ../inc/wpabstracts_functions.php:1137
+#: ../settings/settings.titles.php:219
+msgid "My Reviews"
+msgstr "Mijn beoordelingen"
+
+#: ../html/wpabstracts_dashboard.php:343 ../inc/wpabstracts_classes.php:121
+#: ../inc/wpabstracts_classes.php:418 ../inc/wpabstracts_downloads.php:183
+msgid "Comments"
+msgstr "Reacties"
+
+#: ../html/wpabstracts_dashboard.php:348
+msgid "Reviewed"
+msgstr "Beoordeeld"
+
+#: ../html/wpabstracts_dashboard.php:357
+msgid "You have no COMPLETED reviews"
+msgstr "Je hebt geen voltooide reviews"
+
+#: ../html/wpabstracts_editAbstract.php:9
+msgid "You are not allowed to edit this submission at this time."
+msgstr "U bent niet toegestaan om deze inzending te bewerken op dit moment."
+
+#: ../html/wpabstracts_editAbstract.php:15
+#: ../inc/wpabstracts_functions.php:1081 ../settings/settings.titles.php:256
+msgid "Edit Abstract"
+msgstr "Abstract bewerken"
+
+#: ../html/wpabstracts_editAbstract.php:27
+msgid "Enter title"
+msgstr "Vul titel in"
+
+#: ../html/wpabstracts_editAbstract.php:57
+#: ../html/wpabstracts_viewAbstract.php:31
+msgid "Manage Attachments"
+msgstr "Beheer bijlagen"
+
+#: ../html/wpabstracts_editAbstract.php:62
+#: ../html/wpabstracts_viewAbstract.php:36
+msgid "No Attachments uploaded"
+msgstr "Geen bijlagen geüpload"
+
+#: ../html/wpabstracts_editAbstract.php:68
+msgid "Remove"
+msgstr "Verwijderen"
+
+#: ../html/wpabstracts_editAbstract.php:78
+msgid "Manage Ownership"
+msgstr "Beheer rechten"
+
+#: ../html/wpabstracts_editAbstract.php:81
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr ""
+"Gebruik dit vak om een nieuwe gebruiker/eigenaar van deze inzending toe te "
+"wijzen"
+
+#: ../html/wpabstracts_editAbstract.php:249
+msgid "You have used all your attachment slots allowed."
+msgstr "U heeft het maximum bereikt."
+
+#: ../html/wpabstracts_editEmailTemplate.php:3
+msgid "Edit Template"
+msgstr "Bewerk template"
+
+#: ../html/wpabstracts_editEvent.php:10
+msgid "Edit Event"
+msgstr "Evenement bewerken"
+
+#: ../html/wpabstracts_editEvent.php:21
+msgid "Event title"
+msgstr "Titel van de evenement"
+
+#: ../html/wpabstracts_editEvent.php:38
+msgid "Archived"
+msgstr "Gearchiveerd"
+
+#: ../html/wpabstracts_editReview.php:3 ../inc/wpabstracts_functions.php:1108
+#: ../settings/settings.titles.php:397 ../wpabstracts_pro.php:1086
+msgid "Edit Review"
+msgstr "Review bijwerken"
+
+#: ../html/wpabstracts_viewAbstract.php:3
+msgid "View Abstract"
+msgstr "Nieuw abstract"
+
+#: ../inc/wpabstracts_classes.php:50 ../inc/wpabstracts_classes.php:376
+msgid "User deleted"
+msgstr "Gebruiker verwijderd"
+
+#: ../inc/wpabstracts_classes.php:53 ../inc/wpabstracts_classes.php:379
+msgid "Reviewed by"
+msgstr "Beoordeeld door"
+
+#: ../inc/wpabstracts_classes.php:61 ../inc/wpabstracts_classes.php:142
+msgid "Hide"
+msgstr "Verberg"
+
+#: ../inc/wpabstracts_classes.php:66 ../inc/wpabstracts_classes.php:141
+msgid "Show"
+msgstr "Toon"
+
+#: ../inc/wpabstracts_classes.php:110
+msgid ""
+"If Sync Review Status is not enabled then the suggested status here is only "
+"a recommendation, administrators have the final decision to accept or reject "
+"submissions."
+msgstr ""
+"Als de status van synchronisatie controle niet is ingeschakeld, is de "
+"voorgestelde status hier slechts een aanbeveling. Beheerders hebben de "
+"definitieve beslissing om inzendingen te accepteren of weigeren."
+
+#: ../inc/wpabstracts_classes.php:118 ../inc/wpabstracts_classes.php:247
+#: ../inc/wpabstracts_classes.php:416 ../inc/wpabstracts_downloads.php:175
+msgid "Abstract Title"
+msgstr "Titel samenvatting"
+
+#: ../inc/wpabstracts_classes.php:122
+msgid "Visible"
+msgstr "Zichtbaar"
+
+#: ../inc/wpabstracts_classes.php:123 ../inc/wpabstracts_classes.php:419
+msgid "Criteria"
+msgstr "Criteria"
+
+#: ../inc/wpabstracts_classes.php:124 ../inc/wpabstracts_classes.php:420
+msgid "Suggested Type"
+msgstr "Voorgestelde vorm"
+
+#: ../inc/wpabstracts_classes.php:125 ../inc/wpabstracts_classes.php:421
+msgid "Suggested Status"
+msgstr "Voorgestelde status"
+
+#: ../inc/wpabstracts_classes.php:126 ../inc/wpabstracts_classes.php:422
+msgid "Date Reviewed"
+msgstr "Datum herzien"
+
+#: ../inc/wpabstracts_classes.php:214 ../inc/wpabstracts_classes.php:253
+#: ../inc/wpabstracts_classes.php:269
+msgid "Download"
+msgstr "Download"
+
+#: ../inc/wpabstracts_classes.php:246
+msgid "Attachment Name"
+msgstr "Naam van bijlage"
+
+#: ../inc/wpabstracts_classes.php:251
+msgid "File Type"
+msgstr "Bestandstype"
+
+#: ../inc/wpabstracts_classes.php:252
+msgid "File Size"
+msgstr "Bestandsgrootte"
+
+#: ../inc/wpabstracts_classes.php:292 ../users/admin.classes.php:150
+msgid "Search"
+msgstr "Zoeken"
+
+#: ../inc/wpabstracts_classes.php:299
+msgid "Download All"
+msgstr "Download alle"
+
+#: ../inc/wpabstracts_classes.php:348
+msgid "review"
+msgstr "beoordeling"
+
+#: ../inc/wpabstracts_classes.php:349
+msgid "reviews"
+msgstr "beoordelingen"
+
+#: ../inc/wpabstracts_classes.php:417
+msgid "Event / Topic"
+msgstr "Evenement/onderwerp"
+
+#: ../inc/wpabstracts_classes.php:518 ../inc/wpabstracts_classes.php:589
+msgid "Archive"
+msgstr "Archief"
+
+#: ../inc/wpabstracts_classes.php:521 ../inc/wpabstracts_classes.php:590
+msgid "Unarchive"
+msgstr "Uit archief halen"
+
+#: ../inc/wpabstracts_classes.php:533
+msgid "Copy"
+msgstr "Kopiëren"
+
+#: ../inc/wpabstracts_classes.php:569 ../inc/wpabstracts_downloads.php:128
+#: ../inc/wpabstracts_downloads.php:176
+msgid "Event Name"
+msgstr "Naam evenement"
+
+#: ../inc/wpabstracts_classes.php:570
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: ../inc/wpabstracts_classes.php:577 ../settings/settings.titles.php:245
+msgid "Submissions"
+msgstr "Inschrijvingen"
+
+#: ../inc/wpabstracts_classes.php:673
+msgid "Email Template"
+msgstr "E-mail Template"
+
+#: ../inc/wpabstracts_classes.php:674
+msgid "Subject"
+msgstr "Onderwerp"
+
+#: ../inc/wpabstracts_downloads.php:125 ../inc/wpabstracts_downloads.php:174
+#: ../inc/wpabstracts_downloads.php:375 ../inc/wpabstracts_functions.php:1278
+msgid "Abstract ID"
+msgstr "Abstracte ID"
+
+#: ../inc/wpabstracts_downloads.php:135 ../inc/wpabstracts_functions.php:1103
+#: ../settings/settings.titles.php:366
+msgid "Presenter Name"
+msgstr "Naam van presentator"
+
+#: ../inc/wpabstracts_downloads.php:136 ../inc/wpabstracts_functions.php:1104
+#: ../settings/settings.titles.php:371
+msgid "Presenter Email"
+msgstr "Presentator e-mail"
+
+#: ../inc/wpabstracts_downloads.php:138 ../inc/wpabstracts_downloads.php:178
+msgid "User ID"
+msgstr "Gebruikers ID"
+
+#: ../inc/wpabstracts_downloads.php:139
+msgid "User"
+msgstr "Gebruiker"
+
+#: ../inc/wpabstracts_downloads.php:140 ../inc/wpabstracts_downloads.php:180
+msgid "User Email"
+msgstr "Gebruikers e-mail"
+
+#: ../inc/wpabstracts_downloads.php:141 ../inc/wpabstracts_downloads.php:186
+msgid "Reviewer ID"
+msgstr "Reviewer ID"
+
+#: ../inc/wpabstracts_downloads.php:142 ../wpabstracts_pro.php:476
+msgid "Reviewers"
+msgstr "Reviewers"
+
+#: ../inc/wpabstracts_downloads.php:143 ../wpabstracts_pro.php:477
+msgid "Date Submitted"
+msgstr "Datum verzonden"
+
+#: ../inc/wpabstracts_downloads.php:166
+msgid "All-Abstracts"
+msgstr "Alle abstracts"
+
+#: ../inc/wpabstracts_downloads.php:173
+msgid "Review ID"
+msgstr "Controle-ID"
+
+#: ../inc/wpabstracts_downloads.php:179
+msgid "User Name"
+msgstr "Gebruikersnaam"
+
+#: ../inc/wpabstracts_downloads.php:184
+msgid "Recommendation"
+msgstr "Aanbeveling"
+
+#: ../inc/wpabstracts_downloads.php:187
+msgid "Reviewer Name"
+msgstr "Naam van de reviewer"
+
+#: ../inc/wpabstracts_downloads.php:188
+msgid "Reviewer Email"
+msgstr "E-mail van de reviewer"
+
+#: ../inc/wpabstracts_downloads.php:189
+msgid "Review Date"
+msgstr "Datum beoordeling"
+
+#: ../inc/wpabstracts_downloads.php:212
+msgid "All-Reviews"
+msgstr "Alle-beoordelingen"
+
+#: ../inc/wpabstracts_downloads.php:232
+msgid "All Users"
+msgstr "Alle gebruikers"
+
+#: ../inc/wpabstracts_downloads.php:375
+msgid "Auto-Generated"
+msgstr "Automatisch gegenereerd"
+
+#: ../inc/wpabstracts_emailer.php:109 ../users/register.php:100
+msgid "From:"
+msgstr "Van:"
+
+#: ../inc/wpabstracts_functions.php:421
+msgid ""
+"There are no active events. Please ensure an event exists with a deadline "
+"later than yesterday."
+msgstr ""
+"Er zijn geen actieve evenementen. Zorg ervoor dat een evenement bestaat met "
+"een deadline later dan gisteren."
+
+#: ../inc/wpabstracts_functions.php:639 ../inc/wpabstracts_functions.php:1125
+#: ../settings/settings.titles.php:151
+msgid "Don't have an account? "
+msgstr "Heeft u nog geen account? "
+
+#: ../inc/wpabstracts_functions.php:641
+msgid "Sign Up"
+msgstr "Registreren"
+
+#: ../inc/wpabstracts_functions.php:643 ../inc/wpabstracts_functions.php:1124
+#: ../settings/settings.titles.php:146
+msgid "Create an Account"
+msgstr "Account aanmaken"
+
+#: ../inc/wpabstracts_functions.php:651
+msgid "Forgot Password? "
+msgstr "Wachtwoord vergeten? "
+
+#: ../inc/wpabstracts_functions.php:653 ../inc/wpabstracts_functions.php:655
+#: ../inc/wpabstracts_functions.php:1123 ../settings/settings.titles.php:141
+msgid "Reset"
+msgstr "Reset"
+
+#: ../inc/wpabstracts_functions.php:681 ../inc/wpabstracts_functions.php:684
+msgid "Invalid username or password. Please try again."
+msgstr "Ongeldige gebruikersnaam of wachtwoord. Probeer het opnieuw."
+
+#: ../inc/wpabstracts_functions.php:687 ../inc/wpabstracts_functions.php:901
+msgid "Invalid security code. Please try again."
+msgstr "Ongeldige beveiligingscode. Probeer het opnieuw."
+
+#: ../inc/wpabstracts_functions.php:701
+msgid ""
+"Your account has not been activated. Please check your Inbox (including spam "
+"folder) for your activation link."
+msgstr ""
+"Uw account is niet geactiveerd. Controleer uw inbox (inclusief spam map) "
+"voor uw activatie link."
+
+#: ../inc/wpabstracts_functions.php:705 ../inc/wpabstracts_functions.php:711
+msgid "Sign in successful."
+msgstr "Inloggen succesvol."
+
+#: ../inc/wpabstracts_functions.php:726 ../inc/wpabstracts_functions.php:778
+msgid "Hmm, your nonce is not valid."
+msgstr "Hmm, uw nonce is niet geldig."
+
+#: ../inc/wpabstracts_functions.php:741
+msgid "There is no user registered with that username or email address."
+msgstr ""
+"Er is geen gebruiker geregistreerd met die gebruikersnaam of e-mail adres."
+
+#: ../inc/wpabstracts_functions.php:747
+msgid "Hi,"
+msgstr "Hallo,"
+
+#: ../inc/wpabstracts_functions.php:748
+msgid "Someone requested a password reset for "
+msgstr "Iemand verzocht om een wachtwoord te resetten voor "
+
+#: ../inc/wpabstracts_functions.php:749
+msgid ""
+"If this was a mistake, simply ignore this email and nothing will happen."
+msgstr ""
+"Als dit een vergissing was, negeer gewoon deze e-mail en niets zal gebeuren."
+
+#: ../inc/wpabstracts_functions.php:750
+msgid "To reset your password, visit the following link:"
+msgstr "Ga naar de volgende link om uw wachtwoord opnieuw in te stellen:"
+
+#: ../inc/wpabstracts_functions.php:753
+msgid "Password Reset for "
+msgstr "Wachtwoord opnieuw instellen voor "
+
+#: ../inc/wpabstracts_functions.php:759
+msgid ""
+"Your request was successful. Please check your e-mail for more instructions."
+msgstr "Uw aanvraag is geslaagd. Raadpleeg uw e-mail voor meer instructies."
+
+#: ../inc/wpabstracts_functions.php:762
+msgid "The e-mail could not be sent. Please contact support."
+msgstr "De e-mail kan niet worden verzonden. Neem contact op met support."
+
+#: ../inc/wpabstracts_functions.php:790
+msgid "Password is required field."
+msgstr "Wachtwoord is een verplicht veld."
+
+#: ../inc/wpabstracts_functions.php:797
+msgid "The passwords do not match."
+msgstr "De wachtwoorden komen niet overeen."
+
+#: ../inc/wpabstracts_functions.php:806
+msgid "Invalid password reset key. Please request a new password reset."
+msgstr ""
+"Ongeldige wachtwoord herstelsleutel. Vraag een nieuw wachtwoord aan om te "
+"resetten."
+
+#: ../inc/wpabstracts_functions.php:810
+msgid "Your password has been reset."
+msgstr "Je wachtwoord is opnieuw ingesteld."
+
+#: ../inc/wpabstracts_functions.php:876 ../inc/wpabstracts_functions.php:1126
+#: ../settings/settings.titles.php:156
+msgid "Enter security code (required)"
+msgstr "Voer beveiligingscode in (verplicht)"
+
+#: ../inc/wpabstracts_functions.php:890
+msgid ""
+"PHP GD library is NOT installed on your web server. Please install GD on "
+"your server or disable captcha from your settings."
+msgstr ""
+"PHP GD-bibliotheek is NIET geïnstalleerd op uw webserver. Installeer GD op "
+"uw server of schakel captcha uit via uw instellingen."
+
+#: ../inc/wpabstracts_functions.php:913
+msgid "<strong>ERROR</strong>: Please enter a valid security code."
+msgstr "<strong>FOUT</strong>: Voer een geldige beveiligingscode in."
+
+#: ../inc/wpabstracts_functions.php:990
+msgid "We could not perform your WP Abstracts license validation at this time."
+msgstr ""
+"Wij kunnen uw WP abstracts licentie validatie niet uitvoeren op dit moment."
+
+#: ../inc/wpabstracts_functions.php:1010 ../wpabstracts_abstracts.php:19
+#: ../wpabstracts_emails.php:46 ../wpabstracts_settings.php:39
+#: ../wpabstracts_users.php:19
+msgid "Sorry, the tab you selected does not exist."
+msgstr "Sorry, het tabblad dat u hebt geselecteerd bestaat niet."
+
+#: ../inc/wpabstracts_functions.php:1044
+msgid "User Id "
+msgstr "Gebruikersnaam "
+
+#: ../inc/wpabstracts_functions.php:1053
+msgid "Successfully deleted user ID "
+msgstr "Met succes verwijderde gebruikers-ID "
+
+#: ../inc/wpabstracts_functions.php:1110 ../settings/settings.titles.php:407
+#: ../wpabstracts_pro.php:1079
+msgid "Review Attachments"
+msgstr "Bijlagen controleren"
+
+#: ../inc/wpabstracts_functions.php:1117 ../settings/settings.titles.php:111
+#: ../users/login.php:20
+msgid "Please sign in for your conference participation"
+msgstr "Meld u aan voor uw conferentie deelname"
+
+#: ../inc/wpabstracts_functions.php:1118 ../settings/settings.titles.php:116
+#: ../users/login.php:25
+msgid "Sign In"
+msgstr "Inloggen"
+
+#: ../inc/wpabstracts_functions.php:1119 ../settings/settings.titles.php:105
+#: ../settings/settings.titles.php:121 ../users/login.php:56
+msgid "Login"
+msgstr "Inloggen"
+
+#: ../inc/wpabstracts_functions.php:1120 ../settings/settings.titles.php:126
+#: ../users/login.php:62
+msgid "Remember Me"
+msgstr "Onthoud mij"
+
+#: ../inc/wpabstracts_functions.php:1121 ../settings/settings.titles.php:131
+#: ../users/lostpassword.php:6
+msgid "Forgot Password"
+msgstr "Wachtwoord vergeten"
+
+#: ../inc/wpabstracts_functions.php:1122 ../settings/settings.titles.php:136
+#: ../users/lostpassword.php:24
+msgid "Get New Password"
+msgstr "Nieuw wachtwoord aanvragen"
+
+#: ../inc/wpabstracts_functions.php:1128 ../settings/settings.titles.php:171
+#: ../users/admin.formbuilder.php:174 ../users/register.html.php:185
+#: ../wpabstracts_pro.php:1081
+msgid "Login Information"
+msgstr "Aanmeldingsgegevens"
+
+#: ../inc/wpabstracts_functions.php:1129 ../settings/settings.titles.php:175
+#: ../users/admin.formbuilder.php:197 ../users/register.html.php:212
+#: ../wpabstracts_pro.php:1082
+msgid "Account Information"
+msgstr "Accountgegevens"
+
+#: ../inc/wpabstracts_functions.php:1138 ../settings/settings.titles.php:224
+#: ../users/admin.classes.php:30 ../users/profile.php:39
+msgid "Edit Profile"
+msgstr "Bewerk profiel"
+
+#: ../inc/wpabstracts_functions.php:1139 ../settings/settings.titles.php:229
+#: ../users/profile.php:47
+msgid "Profile Information"
+msgstr "Profiel informatie"
+
+#: ../settings/settings.general.php:40
+msgid "Awesome! Your settings updated."
+msgstr "Awesome! Uw instellingen zijn bijgewerkt."
+
+#: ../settings/settings.general.php:47 ../users/admin.settings.php:94
+msgid "General Settings"
+msgstr "Algemene instellingen"
+
+#: ../settings/settings.general.php:53
+msgid "Reviewers Configuration"
+msgstr "Reviewers configuratie"
+
+#: ../settings/settings.general.php:59
+msgid "Reviewers can Submit Abstracts"
+msgstr "Reviewers kunnen abstracts indienen"
+
+#: ../settings/settings.general.php:60
+msgid "Enable this to allow reviewers to submit new abstracts."
+msgstr "Hiermee kunnen reviewers nieuwe abstracts indienen."
+
+#: ../settings/settings.general.php:70
+msgid "Reviewers can Edit Abstracts"
+msgstr "Reviewers kunnen abstracts bewerken"
+
+#: ../settings/settings.general.php:71
+msgid "Enable this to allow reviewers to edit abstracts they are assigned."
+msgstr ""
+"Schakel in om reviewers de samenvattingen te laten bewerken die ze hebben "
+"toegewezen gekregen."
+
+#: ../settings/settings.general.php:81
+msgid "Reviewers can Change Ownership"
+msgstr "Reviewers kunnen het eigendomsrechten wijzigen"
+
+#: ../settings/settings.general.php:82
+msgid ""
+"Enable this to allow reviewers to change ownership (the author) of a "
+"submission (useful if a reviewer submits an abstract on behalf of an author "
+"but the option above to enable reviewers to edit abstracts must be enabled "
+"for this to work)."
+msgstr ""
+"Hiermee kunnen reviewers het eigendom (de auteur) van een onderwerping "
+"wijzigen (handig als een reviewer namens een auteur een samenvatting "
+"indient. Deze optie werkt alleen als de reviewers abstracts kan bewerken)."
+
+#: ../settings/settings.general.php:92
+msgid "Enable Blind Reviews"
+msgstr "Inschakelen blind reviews"
+
+#: ../settings/settings.general.php:93
+msgid ""
+"Enable this to hide author information from reviewers (does not apply to "
+"admin)."
+msgstr ""
+"Verberg hiermee de auteursgegevens voor reviewers (is niet van toepassing op "
+"de beheerder)."
+
+#: ../settings/settings.general.php:103
+msgid "Show Reviewer Comments"
+msgstr "Opmerkingen van de reviewer weergeven"
+
+#: ../settings/settings.general.php:104
+msgid "Disable this to hide reviewer comments from Authors."
+msgstr "Schakel uit om opmerkingen van reviewers voor auteurs te verbergen."
+
+#: ../settings/settings.general.php:114
+msgid "Default Review Visibility"
+msgstr "Standaard zichtbaarheid van beoordelingen"
+
+#: ../settings/settings.general.php:115
+msgid "Should reviews be visible to authors by default?"
+msgstr "Moeten recensies standaard zichtbaar zijn voor auteurs?"
+
+#: ../settings/settings.general.php:125
+msgid "Allow Review Attachments"
+msgstr "Revisiebijlagen toestaan"
+
+#: ../settings/settings.general.php:126
+msgid "Enable reviewers to upload an attachment on accompany a review."
+msgstr "Hiermee kunnen revisoren een bijlage uploaden bij een beoordeling."
+
+#: ../settings/settings.general.php:141
+msgid "Frontend Dashboard Configuration"
+msgstr "Frontend dashboard configuratie"
+
+#: ../settings/settings.general.php:147
+msgid "Enable WP Abstracts Registration"
+msgstr "Enable WP abstracts registratie"
+
+#: ../settings/settings.general.php:148
+msgid ""
+"Use WP Abstracts User registration module instead of WordPress's default "
+"registration."
+msgstr ""
+"Gebruik WP abstracts gebruiker registratiemodule in plaats van standaard "
+"WordPress registratie."
+
+#: ../settings/settings.general.php:158
+msgid "Allow WordPress Admin Access"
+msgstr "Laat WordPress admin toegang toe"
+
+#: ../settings/settings.general.php:159
+msgid ""
+"Disables users from accessing Wordpress Admin dashboard. Enable this if you "
+"want to allow frontend access only."
+msgstr ""
+"Schakelt gebruikers toegang tot WordPress admin dashboard uit. Schakel dit "
+"in als u wilt dat alleen frontend toegang beschikbaar is."
+
+#: ../settings/settings.general.php:169
+msgid "Show WordPress Admin Bar"
+msgstr "Toon WordPress admin bar"
+
+#: ../settings/settings.general.php:170
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr "Uitschakelen  WordPress admin bar na aanmelden."
+
+#: ../settings/settings.general.php:180
+msgid "Enable Captcha (recommended)"
+msgstr "Activeer CAPTCHA (aanbevolen)"
+
+#: ../settings/settings.general.php:181
+msgid "Enable this to require users to enter a captcha code at login."
+msgstr "Inschakelen CAPTCHA code voor gebruikers tijdens inloggen."
+
+#: ../settings/settings.general.php:191
+msgid "Redirect on Login"
+msgstr "Redirect op login"
+
+#: ../settings/settings.general.php:192
+msgid "Enable this to redirect users to the dashboard on login from anywhere."
+msgstr "Inschakelen om gebruikers om te leiden naar dashboard na inloggen."
+
+#: ../settings/settings.general.php:206
+msgid "Captcha Secret"
+msgstr "CAPTCHA geheim"
+
+#: ../settings/settings.general.php:210
+msgid "Refresh Captcha Secret (Optional)"
+msgstr "Refresh CAPTCHA geheim (optioneel)"
+
+#: ../settings/settings.general.php:211
+msgid "As as entra layer of security reset your captcha secret."
+msgstr "Voor extra beveiligingsoptie, reset je CAPTCHA geheim."
+
+#: ../settings/settings.general.php:226
+msgid "Author Instructions"
+msgstr "Auteur instructies"
+
+#: ../settings/settings.general.php:227
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr ""
+"Voer specifieke instructies voor de auteurs in om te volgen voor inzendingen"
+
+#: ../settings/settings.general.php:244
+msgid "Enter your terms and contitions for authors to agree."
+msgstr "Voer uw algemene voorwaarden in voor auteurs om akkoord te gaan."
+
+#: ../settings/settings.titles.php:97
+msgid "Custom Titles"
+msgstr "Aangepaste titels"
+
+#: ../settings/settings.titles.php:98
+msgid "Reset Defaults"
+msgstr "Standaardwaarden herstellen"
+
+#: ../settings/settings.titles.php:165 ../users/admin.formbuilder.php:205
+#: ../users/register.html.php:227
+msgid "Register"
+msgstr "Registreren"
+
+#: ../settings/settings.titles.php:296
+msgid "Use this form to upload your images, photos or tables"
+msgstr ""
+"Gebruik dit formulier om uw afbeeldingen, foto's of tabellen te uploaden"
+
+#: ../settings/settings.titles.php:412
+msgid "Use this option to upload a document to this review"
+msgstr "Gebruik deze optie om een document naar deze revisie te uploaden"
+
+#: ../users/activate.php:7
+msgid "Oops, you are already logged in. Activation is only for new accounts."
+msgstr "Oeps, bent u al ingelogd. Activering is alleen voor nieuwe accounts."
+
+#: ../users/activate.php:12
+msgid ""
+"Oops, you're got an invalid link. Please check your email and copy and paste "
+"the full link."
+msgstr ""
+"Oeps, je hebt een ongeldige link. Controleer uw e-mail en kopieer en plak de "
+"volledige link."
+
+#: ../users/activate.php:24
+msgid "Your account was activated already. Please login."
+msgstr "Uw account is al geactiveerd. Gelieve in te loggen."
+
+#: ../users/activate.php:31
+msgid "Your account was successfully activated."
+msgstr "Uw account is met succes geactiveerd."
+
+#: ../users/activate.php:34
+msgid ""
+"Oops, your activation key do not match our records for you. Please try again "
+"or contact support."
+msgstr ""
+"Oeps, uw activeringssleutel komt niet overeen met onze gegevens. Probeer het "
+"opnieuw of neem contact op met support."
+
+#: ../users/activate.php:38
+msgid "Oops, we could not find this user. Please try again or contact support"
+msgstr ""
+"Oeps, deze gebruiker konden we niet vinden. Probeer het opnieuw of neem "
+"contact op met support"
+
+#: ../users/admin.classes.php:31 ../users/admin.classes.php:111
+msgid "Activate"
+msgstr "Activeren"
+
+#: ../users/admin.classes.php:32
+msgid "Change Password"
+msgstr "Wachtwoord wijzigen"
+
+#: ../users/admin.classes.php:70
+msgid "--not entered--"
+msgstr "--niet ingevoerd--"
+
+#: ../users/admin.classes.php:123
+msgid "users were "
+msgstr "gebruikers waren "
+
+#: ../users/admin.classes.php:123
+msgid "user was "
+msgstr "gebruiker was "
+
+#: ../users/admin.classes.php:124
+msgid " successfully activated."
+msgstr " met succes geactiveerd."
+
+#: ../users/admin.classes.php:133
+msgid " successfully deleted."
+msgstr " met succes verwijderd."
+
+#: ../users/admin.classes.php:149 ../users/login.php:38
+#: ../users/lostpassword.php:20
+msgid "Username or Email"
+msgstr "Gebruikersnaam of e-mail"
+
+#: ../users/admin.classes.php:157
+msgid "Download CSV"
+msgstr "CSV downloaden"
+
+#: ../users/admin.classes.php:176
+msgid ""
+"You have WordPress users with no WP Abstracts profiles, do you want to sync "
+"users? "
+msgstr ""
+"Je hebt WordPress gebruikers zonder WP abstracts profielen. Wilt u de "
+"gebruikers synchroniseren? "
+
+#: ../users/admin.classes.php:177
+msgid "Sync Users"
+msgstr "Gebruikers synchroniseren"
+
+#: ../users/admin.formbuilder.php:7
+msgid "Your registration from was successfully restored."
+msgstr "Uw registratieformulier werd met succes hersteld."
+
+#: ../users/admin.formbuilder.php:166
+msgid "Drag input elements from the left to create your user registration form"
+msgstr ""
+"Sleep input elementen van links om uw gebruikersregistratie formulier te "
+"maken"
+
+#: ../users/admin.formbuilder.php:166
+msgid "Restore Form"
+msgstr "Formulier herstellen"
+
+#: ../users/admin.formbuilder.php:180 ../users/register.html.php:193
+msgid "Please enter a valid email address."
+msgstr "Voer een geldig e-mailadres in."
+
+#: ../users/admin.formbuilder.php:183 ../users/admin.formbuilder.php:184
+#: ../users/login.php:43 ../users/register.html.php:196
+msgid "Password"
+msgstr "Wachtwoord"
+
+#: ../users/admin.formbuilder.php:185 ../users/register.html.php:199
+msgid "Please enter a password."
+msgstr "Vul je wachtwoord in."
+
+#: ../users/admin.formbuilder.php:188 ../users/admin.formbuilder.php:189
+#: ../users/register.html.php:202
+msgid "Repeat Password"
+msgstr "Herhaal wachtwoord"
+
+#: ../users/admin.formbuilder.php:190 ../users/register.html.php:205
+msgid "Please repeat your password."
+msgstr "Vul a.u.b. nogmaals jouw wachtwoord in."
+
+#: ../users/admin.formbuilder.php:197
+msgid "Form Preview"
+msgstr "Formuliervoorbeeld"
+
+#: ../users/admin.settings.php:86
+msgid "Sync User Meta"
+msgstr "Sync gebruiker meta"
+
+#: ../users/admin.settings.php:100
+msgid "Show Registration Thank You"
+msgstr "Toon registratie dank u"
+
+#: ../users/admin.settings.php:101
+msgid "Set whether to show a thank you message or not after registration."
+msgstr "Stel in of u een bedankbericht wilt weergeven of niet na aanmelden."
+
+#: ../users/admin.settings.php:111
+msgid "Send Registration Confirmation"
+msgstr "Bevestiging van registratie verzenden"
+
+#: ../users/admin.settings.php:112
+msgid ""
+"Set whether to send a confirmation email to the user with next steps or not "
+"after registration"
+msgstr ""
+"Instellen of een bevestigingsmail naar de gebruiker wordt gestuurd met de "
+"vervolgstappen of niet na registratie"
+
+#: ../users/admin.settings.php:122
+msgid "Activate Users Automatically"
+msgstr "Gebruikers automatisch activeren"
+
+#: ../users/admin.settings.php:123
+msgid "Set whether to activate users on registration or not (not recommended)."
+msgstr ""
+"Stel in of u gebruikers bij de registratie wilt activeren of niet (niet "
+"aanbevolen)."
+
+#: ../users/admin.settings.php:133
+msgid "Ignore User Activation at Login"
+msgstr "Gebruikersactivering negeren bij inloggen"
+
+#: ../users/admin.settings.php:134
+msgid ""
+"Whether or not to check for user activation at login. Used mainly when users "
+"are registered outside of WP Abstracts."
+msgstr ""
+"Al dan niet controleren op gebruikersactivering bij het inloggen. Wordt "
+"voornamelijk gebruikt wanneer gebruikers buiten WP Abstracts zijn "
+"geregistreerd."
+
+#: ../users/admin.settings.php:146
+msgid "Sync WP Fields"
+msgstr "Sync WP velden"
+
+#: ../users/admin.settings.php:147
+msgid "Set whether to sync WP Abstracts Profile fields to Wordpress meta data."
+msgstr ""
+"Stel in om te synchroniseren van WP abstracts profiel velden naar WordPress "
+"metadata."
+
+#: ../users/admin.settings.php:160
+msgid "Display Name"
+msgstr "Weergavenaam"
+
+#: ../users/admin.settings.php:161
+msgid ""
+"Select the field or fields you would like to use as display name for all "
+"users."
+msgstr ""
+"Selecteer het veld of de velden die u als weergavenaam wilt gebruiken voor "
+"alle gebruikers."
+
+#: ../users/admin.settings.php:172
+msgid "First & Last Name"
+msgstr "Voor & Achternaam"
+
+#: ../users/admin.settings.php:173
+msgid "Last & First Name"
+msgstr "Achternaam & Voornaam"
+
+#: ../users/admin.settings.php:184
+msgid "Password Rules"
+msgstr "Wachtwoord regels"
+
+#: ../users/admin.settings.php:190
+msgid "Minimum Password Length"
+msgstr "Minimale wachtwoordlengte"
+
+#: ../users/admin.settings.php:191
+msgid "Enter the minimum amount of character for a password"
+msgstr "Voer het minimum aantal tekens in voor een wachtwoord"
+
+#: ../users/admin.settings.php:195
+msgid "5"
+msgstr "5"
+
+#: ../users/admin.settings.php:196
+msgid "6"
+msgstr "6"
+
+#: ../users/admin.settings.php:197
+msgid "7"
+msgstr "7"
+
+#: ../users/admin.settings.php:198
+msgid "8"
+msgstr "8"
+
+#: ../users/admin.settings.php:199
+msgid "9"
+msgstr "9"
+
+#: ../users/admin.settings.php:204
+msgid "Maximum Password Length"
+msgstr "Maximale wachtwoordlengte"
+
+#: ../users/admin.settings.php:205
+msgid "Enter the maximum amount of character for a password"
+msgstr "Voer het maximum aantal tekens in voor een wachtwoord"
+
+#: ../users/admin.settings.php:209
+msgid "10"
+msgstr "10"
+
+#: ../users/admin.settings.php:210
+msgid "11"
+msgstr "11"
+
+#: ../users/admin.settings.php:211
+msgid "12"
+msgstr "12"
+
+#: ../users/admin.settings.php:212
+msgid "13"
+msgstr "13"
+
+#: ../users/admin.settings.php:213
+msgid "14"
+msgstr "14"
+
+#: ../users/admin.settings.php:218
+msgid "At least one number"
+msgstr "Ten minste één nummer"
+
+#: ../users/admin.settings.php:219
+msgid "Require passwords to have at least one number"
+msgstr "Vereist dat wachtwoorden ten minste één nummer hebben"
+
+#: ../users/admin.settings.php:229
+msgid "At least one uppercase"
+msgstr "Ten minste één hoofdletter"
+
+#: ../users/admin.settings.php:230
+msgid "Require passwords to have at least one uppercase"
+msgstr "Vereist dat wachtwoorden ten minste één hoofdletter hebben"
+
+#: ../users/admin.settings.php:240
+msgid "At least one lowercase"
+msgstr "Ten minste één kleine letter"
+
+#: ../users/admin.settings.php:241
+msgid "Require passwords to have at least one lowercase"
+msgstr "Vereist dat wachtwoorden ten minste één kleine"
+
+#: ../users/admin.settings.php:251
+msgid "At least one special character"
+msgstr "Minstens één speciaal karakter"
+
+#: ../users/admin.settings.php:252
+msgid "Require passwords to have at least one special character"
+msgstr "Vereist dat wachtwoorden ten minste één speciaal teken hebben"
+
+#: ../users/admin.settings.php:268
+msgid "Select up to six (6) column fields to display when managing users."
+msgstr ""
+"Selecteer tot maximaal zes (6) kolommen die kunnen worden weergegeven bij "
+"het beheren van gebruikers."
+
+#: ../users/admin.settings.php:298
+msgid "Registration Thank you Message"
+msgstr "Registratie dank u bericht"
+
+#: ../users/admin.settings.php:299
+msgid ""
+"Enter a thank you message that shows after the registration form has been "
+"submitted"
+msgstr ""
+"Voer een bedankbericht in dat getoond wordt nadat het registratieformulier "
+"is ingediend"
+
+#: ../users/admin.settings.php:318
+msgid "Registration Confirmation Email"
+msgstr "Registratie bevestigingsmail"
+
+#: ../users/admin.settings.php:319
+msgid ""
+"Create an email template used for sending the confirmation message to the "
+"user."
+msgstr ""
+"Maak een e-mail template die wordt gebruikt voor het verzenden van het "
+"bevestigingsbericht naar de gebruiker."
+
+#: ../users/admin.settings.php:328 ../users/admin.settings.php:336
+msgid ""
+"Enter the email of the administrator to be notified when a user registers."
+msgstr ""
+"Voer de e-mail in van de beheerder in die moet worden gewaarschuwd wanneer "
+"een gebruiker zich registreert."
+
+#: ../users/admin.settings.php:344
+msgid "Enter the subject for the email sent when a user registers."
+msgstr ""
+"Voer het onderwerp in voor de e-mail die wordt verzonden wanneer een "
+"gebruiker zich registreert."
+
+#: ../users/lostpassword.php:8
+msgid ""
+"Please enter your email address and we will send you instructions to reset "
+"your password."
+msgstr ""
+"Vul uw e-mail adres in en wij sturen u instructies om uw wachtwoord te "
+"resetten."
+
+#: ../users/profile.php:19
+msgid "Profile updated successfully."
+msgstr "Profiel succesvol bijgewerkt."
+
+#: ../users/register.php:9
+msgid ""
+"Registration is currently not allowed for this site. Please contact your "
+"site admin."
+msgstr ""
+"Registratie is momenteel niet toegestaan voor deze site. Neem contact op met "
+"uw site admin."
+
+#: ../users/register.php:28
+msgid "You have entered an invalid captcha code. Please try again."
+msgstr "U hebt een ongeldige captchacode ingevoerd. Probeer het opnieuw."
+
+#: ../users/register.php:78
+msgid "You're currently logged in. Please sign out to register for an account."
+msgstr ""
+"U bent momenteel ingelogd. Meld u aan om u te registreren voor een account."
+
+#: ../users/resetpassword.php:6 ../users/resetpassword.php:30
+msgid "Reset Password"
+msgstr "Wachtwoord opnieuw instellen"
+
+#: ../users/resetpassword.php:8
+msgid "Please enter your new password below."
+msgstr "Vul hieronder uw nieuwe wachtwoord in."
+
+#: ../wpabstracts_abstracts.php:28
+msgid "Manage Abstracts"
+msgstr "Samenvattingen beheren"
+
+#: ../wpabstracts_emails.php:22
+msgid "Templates"
+msgstr "Templates"
+
+#: ../wpabstracts_events.php:197
+msgid "Error!"
+msgstr "Fout!"
+
+#: ../wpabstracts_events.php:204 ../wpabstracts_pro.php:43
+#: ../wpabstracts_pro.php:201
+msgid "Events"
+msgstr "Evenementen"
+
+#: ../wpabstracts_help.php:10
+msgid "Quick Start"
+msgstr "Quick start"
+
+#: ../wpabstracts_help.php:14
+msgid "Get setup and running in three simple steps"
+msgstr "Start op in deze drie eenvoudige stappen"
+
+#: ../wpabstracts_help.php:16
+msgid ""
+"Create an event (make a note of the event ID for step 2). This may be the "
+"name of a conference or anything relating to the submission of abstracts."
+msgstr ""
+"Creëer een evenement (noteer het evenement-ID voor stap 2). Dit kan de naam "
+"van een evenement of om iets anders gerelateerd aan het indienen van "
+"abstracts zijn."
+
+#: ../wpabstracts_help.php:17
+msgid ""
+"Create a wordpress page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and "
+"link this page to your site menu to allow frontend access."
+msgstr ""
+"Maak een WordPress pagina aan en voeg [wpabstracts event_id = \"EVENT_ID_HERE"
+"\"] toe. Koppel de pagina aan het menu van jouw website om frontend toegang "
+"te krijgen."
+
+#: ../wpabstracts_help.php:18
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also "
+"ensure your wordpress permanent links are set to post-name or custom."
+msgstr ""
+"Ga naar de pagina met instellingen en kies uw voorkeur voor de plugin. Zorg "
+"er ook voor uw WordPress permanente links zijn ingesteld op post-naam of "
+"custos gegenereerd."
+
+#: ../wpabstracts_help.php:25
+msgid "Frequently Asked Questions"
+msgstr "Veelgestelde vragen"
+
+#: ../wpabstracts_help.php:29 ../wpabstracts_help.php:31
+#: ../wpabstracts_help.php:33 ../wpabstracts_help.php:35
+#: ../wpabstracts_help.php:37 ../wpabstracts_help.php:39
+#: ../wpabstracts_help.php:41 ../wpabstracts_help.php:43
+#: ../wpabstracts_help.php:45
+msgid "Question"
+msgstr "Vraag"
+
+#: ../wpabstracts_help.php:29
+msgid "Do I have to create accounts for authors and reviewers?"
+msgstr "Moet ik accounts maken voor auteurs en reviewers?"
+
+#: ../wpabstracts_help.php:30 ../wpabstracts_help.php:32
+#: ../wpabstracts_help.php:34 ../wpabstracts_help.php:36
+#: ../wpabstracts_help.php:38 ../wpabstracts_help.php:40
+#: ../wpabstracts_help.php:42 ../wpabstracts_help.php:44
+#: ../wpabstracts_help.php:46
+msgid "Answer"
+msgstr "Antwoord"
+
+#: ../wpabstracts_help.php:30
+msgid ""
+"Authors and reviewers need an account on your site to access the dashboard "
+"and take part in your conference. Users may self register on your website or "
+"the admin may create accounts for users and forward the credentials to the "
+"user."
+msgstr ""
+"Auteurs en reviewers hebben een account op uw site nodig om toegang te "
+"krijgen tot het dashboard en deel te nemen aan uw evenement. Gebruikers "
+"kunnen zelf registreren op uw website. De admin kan ook accounts maken voor "
+"gebruikers en de referenties doorsturen naar de gebruiker."
+
+#: ../wpabstracts_help.php:31
+msgid ""
+"I cannot find the registration area, how do authors or reviewers register?"
+msgstr ""
+"Ik kan het registratiegebied niet vinden, hoe registreren auteurs of "
+"reviewers zich?"
+
+#: ../wpabstracts_help.php:32
+msgid ""
+"The registration link (Create an Account) is located on the Login page. "
+"Authors and Reviewers may self-register on your website. To enable this, go "
+"to your WordPress Settings -> General tab and check the box that says “Any "
+"can Register”."
+msgstr ""
+"De registratie link (Maak een account aan) bevindt zich op de inlogpagina. "
+"Auteurs en reviewers kunnen zichzelf registreren op uw website. Om dit "
+"mogelijk te maken, ga naar uw WordPress instellingen-> tabblad algemeen en "
+"vink het vakje dat zegt: “iedereen registreren\"."
+
+#: ../wpabstracts_help.php:33
+msgid ""
+"After signing in to the dashboard I see \"You do not have permission to "
+"access this page\". What is happening?"
+msgstr ""
+"Na het inloggen op het dashboard, zie ik \"je hebt geen toestemming om deze "
+"pagina te openen\". Wat gebeurt er?"
+
+#: ../wpabstracts_help.php:34
+msgid ""
+"This error message is common when the user accessing the dashboard is not "
+"permitted. At the moment only two user types can access the dashboard; "
+"Authors which maps to the \"Subscriber\" user role and \"Reviewers\" which "
+"maps to the \"Editor\" user role. You may also see this message is you are "
+"visiting the front-end dashboard while currently signed in as the "
+"Administrator."
+msgstr ""
+"Dit foutbericht komt vaak voor wanneer de gebruiker die het dashboard opent "
+"niet de goede permissies heeft. Op het ogenblik kunnen slechts twee "
+"gebruikerstypes tot het dashboard toegang hebben; Auteurs die \"abonnee\" "
+"gebruikersrol hebben toegewezen en \"reviewers\" die de “editor\" "
+"gebruikersrol hebben toegewezen gekregen. Dit bericht kan ook verschijnen "
+"als de frontend benaderd probeert te worden, maar je ingelogd bent als "
+"administrator."
+
+#: ../wpabstracts_help.php:35
+msgid ""
+"How do I specify the types of abstract submissions (poster, panel etc) for "
+"my conference?"
+msgstr ""
+"Hoe specificeer ik de soorten abstracte inzendingen (presentatie, "
+"roundtable, enz) voor mijn evenement?"
+
+#: ../wpabstracts_help.php:36
+msgid ""
+"Simply go to WP Abstracts Settings Tab and enter the types you want to allow "
+"for presenters. Submission types are comma separated."
+msgstr ""
+"Ga naar WP abstracts tabblad instellingen en voer de presentatievorm voor "
+"presentatoren in. De presentatievormen worden gescheiden door een komma."
+
+#: ../wpabstracts_help.php:37
+msgid ""
+"When clicking “New Abstracts” I get the following message “Abstract "
+"submission for this event has past”. What can I do?"
+msgstr ""
+"Bij het klikken op “Nieuwe Abstracts” krijg ik het volgende bericht "
+"“Abstract indiening voor dit evenement is geweest“. Wat kan ik doen?"
+
+#: ../wpabstracts_help.php:38
+msgid ""
+"This simply means that the deadline for your event has passed. If the event "
+"is still active simply go to the events tab in the admin area and extend the "
+"deadline date of the event."
+msgstr ""
+"Dit betekent gewoon dat de deadline voor uw evenement is verstreken. Als het "
+"evenement nog steeds actief is, ga dan naar het tabblad Events in het admin "
+"gebied en verleng de deadline datum van het evenement."
+
+#: ../wpabstracts_help.php:39
+msgid "How do I setup Authors and Reviewers?"
+msgstr "Hoe kan ik auteurs en reviewers instellen?"
+
+#: ../wpabstracts_help.php:40
+msgid ""
+"Authors are equivalent to Wordpress subscriber user role while reviewers are "
+"the editor user roles. Users may self register as authors and the site admin "
+"can then upgrade subscriber account to editor thus making that user a "
+"reviewer."
+msgstr ""
+"Auteurs zijn gelijkwaardig aan de WordPress abonnee gebruikersrol. Reviewers "
+"hebben de editor gebruikersrol. Gebruikers kunnen zelf registreren als "
+"auteurs. De site beheerder kan hun dan upgraden naar editor waardoor die "
+"gebruiker een reviewer kan worden."
+
+#: ../wpabstracts_help.php:41
+msgid "How do I upgrade from the Free to the Pro version?"
+msgstr "Hoe kan ik upgraden van gratis naar de Pro-versie?"
+
+#: ../wpabstracts_help.php:42
+msgid ""
+"Upload WP Abstracts Pro from the your plugins admin page then simply "
+"deactivate the free version and activate WP Abstracts Pro."
+msgstr ""
+"Upload WP abstracts Pro van de uw plugins admin pagina. Deactiveer dan de "
+"gratis versie en activeer WP abstracts Pro."
+
+#: ../wpabstracts_help.php:43
+msgid "When are automated emails triggered in WP Abstracts?"
+msgstr "Wanneer zijn geautomatiseerde e-mails geactiveerd in WP abstracts?"
+
+#: ../wpabstracts_help.php:44
+msgid ""
+"Automated emails may be triggered on abstract submission, abstract status "
+"changes, reviewer assignments and review submissions."
+msgstr ""
+"Geautomatiseerde e-mails kunnen worden verzonden voor abstract indiening, "
+"statusveranderingen en reviewer beoordelingen."
+
+#: ../wpabstracts_help.php:45
+msgid ""
+"Can I edit or customize the templates for automated email notifications?"
+msgstr ""
+"Kan ik de templates voor geautomatiseerde e-mail notificaties bewerken of "
+"aanpassen?"
+
+#: ../wpabstracts_help.php:46
+msgid ""
+"Yes. All email notification templates are customizable using various "
+"shortcode pertaining to the submission and event."
+msgstr ""
+"Ja. Alle e-mail notificatie templates zijn aanpasbaar. Met behulp van "
+"verschillende shortcodes die betrekking tot de indiening en evenementen "
+"hebben."
+
+#: ../wpabstracts_help.php:56
+msgid "Shortcodes"
+msgstr "Shortcodes"
+
+#: ../wpabstracts_help.php:59
+msgid "[wpabstracts event_id=\"x\"] renders the user dashboard"
+msgstr "[wpabstracts event_id = \"x\"] maakt het gebruikersdashboard"
+
+#: ../wpabstracts_help.php:60
+msgid "[wpabstracts_register] renders the user registration form"
+msgstr "[wpabstracts_register] maakt het gebruikersregistratie formulier"
+
+#: ../wpabstracts_help.php:61
+msgid "[wpabstracts_login] renders the user login screen"
+msgstr "[wpabstracts_login] maakt het gebruikers inlogscherm"
+
+#: ../wpabstracts_help.php:67
+msgid "Email Notifications"
+msgstr "E-mail notificaties"
+
+#: ../wpabstracts_help.php:70
+msgid ""
+"Use the Email tab to create various email templates then set those templates "
+"for various email triggers. Current email triggers includes abstract "
+"submission, all abstract status change, reviewer assignments and review "
+"submissions."
+msgstr ""
+"Gebruik het tabblad E-mail om verschillende e-mail templates te maken. Stel "
+"dan deze templates in voor verschillende e-mail meldingen. De huidige e-mail "
+"meldingen omvat abstract indiening, alle abstracte status veranderingen, "
+"reviewer taakopdrachten en herziening inzendingen."
+
+#: ../wpabstracts_help.php:76
+msgid "Help us Improve"
+msgstr "Help ons te verbeteren"
+
+#: ../wpabstracts_help.php:79
+msgid "Rate"
+msgstr "Beoordeling"
+
+#: ../wpabstracts_help.php:79
+msgid "the plugin 5 stars on WordPress.org"
+msgstr "de plugin 5 sterren op WordPress.org geven"
+
+#: ../wpabstracts_license.php:23
+msgid ""
+"We could not perform the activation at this time. Please try again later."
+msgstr ""
+"We konden de activering niet uitvoeren op dit moment. Probeer het later "
+"opnieuw."
+
+#: ../wpabstracts_license.php:35
+msgid "Activation failed: "
+msgstr "Activering mislukt: "
+
+#: ../wpabstracts_license.php:56
+msgid ""
+"We could not perform the deactivation at this time. Please try again later."
+msgstr ""
+"We konden de deactiveren niet uitvoeren op dit moment. Probeer het later "
+"opnieuw."
+
+#: ../wpabstracts_license.php:68
+msgid "Deactivation failed: "
+msgstr "Deactivering mislukt: "
+
+#: ../wpabstracts_license.php:88
+msgid "We could not perform the lookup at this time. Please try again later."
+msgstr ""
+"We konden het opzoeken op dit moment niet uitvoeren. Probeer het later "
+"opnieuw."
+
+#: ../wpabstracts_license.php:115
+msgid "Activate License"
+msgstr "Activeer licentie"
+
+#: ../wpabstracts_license.php:118
+msgid ""
+"Please enter your license key. You were given a license key in your order "
+"confirmation email."
+msgstr ""
+"Vul uw licentiecode in. Uw licentiesleutel staat in de orderbevestiging e-"
+"mail."
+
+#: ../wpabstracts_license.php:120 ../wpabstracts_updates.php:117
+msgid "renew license"
+msgstr "licentie verlengen"
+
+#: ../wpabstracts_license.php:127
+msgid "Please enter a valid license key."
+msgstr "Geef een geldige licentiesleutel op."
+
+#: ../wpabstracts_license.php:132 ../wpabstracts_updates.php:124
+#, php-format
+msgid ""
+"Your license has expired. For continued support and updates please %1$s."
+msgstr "Uw licentie is verlopen. Voor verdere ondersteuning en updates %1$s."
+
+#: ../wpabstracts_license.php:148
+msgid "Lost your key?"
+msgstr "Uw sleutel kwijt?"
+
+#: ../wpabstracts_license.php:152
+msgid ""
+"If you can't find your license key, we're are happy to resend it to you."
+msgstr ""
+"Als u uw licentiesleutel kwijt bent, kunnen wij u deze opnieuw verzenden."
+
+#: ../wpabstracts_license.php:168
+msgid "Frequently Asked Questions?"
+msgstr "Veelgestelde vragen?"
+
+#: ../wpabstracts_license.php:172 ../wpabstracts_license.php:174
+msgid "Q: "
+msgstr "V: "
+
+#: ../wpabstracts_license.php:172
+msgid "Why do I need to activate WP Abstracts?"
+msgstr "Waarom moet ik WP abstracts activeren?"
+
+#: ../wpabstracts_license.php:173 ../wpabstracts_license.php:175
+msgid "A: "
+msgstr "A: "
+
+#: ../wpabstracts_license.php:173
+msgid ""
+"Activating allows you to stay up to date with the latest releases and bug "
+"fixes."
+msgstr "Activeren houdt u op de hoogte van de nieuwste releases en bugfixes."
+
+#: ../wpabstracts_license.php:174
+msgid "Do I need to renew my license?"
+msgstr "Moet ik mijn licentie verlengen?"
+
+#: ../wpabstracts_license.php:175
+msgid ""
+"Renewing your license allows continued access to support and important "
+"releases."
+msgstr ""
+"Als u uw licentie verlengt, blijft toegang tot ondersteuning en belangrijke "
+"releases mogelijk."
+
+#: ../wpabstracts_pro.php:40
+msgid "WP Abstracts Pro"
+msgstr "WP abstracts Pro"
+
+#: ../wpabstracts_pro.php:47 ../wpabstracts_pro.php:205
+msgid "Users"
+msgstr "Gebruikers"
+
+#: ../wpabstracts_pro.php:48 ../wpabstracts_pro.php:206
+msgid "Emails"
+msgstr "E-mails"
+
+#: ../wpabstracts_pro.php:49 ../wpabstracts_pro.php:207
+msgid "Reports"
+msgstr "Rapporten"
+
+#: ../wpabstracts_pro.php:51 ../wpabstracts_pro.php:212
+msgid "License"
+msgstr "Licentie"
+
+#: ../wpabstracts_pro.php:120
+msgid "Customization"
+msgstr "Aanpassen"
+
+#: ../wpabstracts_pro.php:121
+msgid "Support"
+msgstr "Ondersteuning"
+
+#: ../wpabstracts_pro.php:479
+msgid "Submit By"
+msgstr "Verzenden door"
+
+#: ../wpabstracts_pro.php:480
+msgid "Date Modified"
+msgstr "Laatst aangepast"
+
+#: ../wpabstracts_pro.php:1033
+msgid ""
+"There was an update to the WP Abstracts email notification workflow. Please "
+"visit the <a href="
+msgstr ""
+"Er was een update van de WP abstracts e-mail notificatie workflow. Ga naar "
+"de <a href ="
+
+#: ../wpabstracts_pro.php:1159
+msgid ""
+"Do you really want to delete this abstract, its reviews and all its "
+"attachments?"
+msgstr "Wil je deze abstract, reviews en alle bijlagen verwijderen?"
+
+#: ../wpabstracts_pro.php:1160
+msgid ""
+"Do you really want to delete the selected abstracts, their reviews and all "
+"their attachments?"
+msgstr ""
+"Wilt u werkelijk de geselecteerde samenvattingen, beoordelingen en alle "
+"bijlagen verwijderden?"
+
+#: ../wpabstracts_pro.php:1161
+msgid ""
+"Are you sure you want to delete this event? Deleting this event will delete "
+"all submissions, reviews and attachments related to this event. This cannot "
+"be undone. Type DELETE to confirm."
+msgstr ""
+"Weet u zeker dat u dit evenement wilt verwijderen? Als u dit evenent "
+"verwijderd, worden alle opmerkingen, recensies en bijlagen met betrekking "
+"tot dit evenement verwijderd. Dit kan niet ongedaan gemaakt worden. Typ "
+"DELETE om te bevestigen."
+
+#: ../wpabstracts_pro.php:1162
+msgid "Do you really want to delete this email template?"
+msgstr "Wil je echt deze e-mail template verwijderen?"
+
+#: ../wpabstracts_pro.php:1163
+msgid "Do you really want to delete this review?"
+msgstr "Wil je echt deze beoordeling verwijderen?"
+
+#: ../wpabstracts_pro.php:1164
+msgid "Do you really want to delete this attachment?"
+msgstr "Wilt u echt deze bijlage verwijderen?"
+
+#: ../wpabstracts_pro.php:1165
+msgid "Are you sure you want to delete this user?"
+msgstr "Bent u zeker dat u deze gebruiker wilt verwijderen?"
+
+#: ../wpabstracts_pro.php:1166
+msgid "Please enter a username and password to sign in."
+msgstr "Voer een gebruikersnaam en wachtwoord in om u aan te melden."
+
+#: ../wpabstracts_pro.php:1167
+msgid "Please enter a the security code."
+msgstr "Voer een beveiligingscode in."
+
+#: ../wpabstracts_pro.php:1169
+msgid "Please select a status"
+msgstr "Selecteer een status"
+
+#: ../wpabstracts_pro.php:1170
+msgid "Please fill in all required fields."
+msgstr "Vul de verplichte velden in."
+
+#: ../wpabstracts_pro.php:1171
+msgid "Please add your abstract description"
+msgstr "Voeg uw abstracte beschrijving toe"
+
+#: ../wpabstracts_pro.php:1172
+msgid "You have exceeded the maximum words allowed for this submission."
+msgstr ""
+"U hebt de maximaal toegestane woorden voor deze indiening overschreden."
+
+#: ../wpabstracts_pro.php:1173
+msgid "One or more of your file extension is not supported."
+msgstr "Een of meer van uw bestandsextensie wordt niet ondersteund."
+
+#: ../wpabstracts_pro.php:1174
+msgid "One or more of your files exceeds the maximum file size allowed."
+msgstr ""
+"Een of meer van uw bestanden overschrijdt de maximale toegestane "
+"bestandsgrootte."
+
+#: ../wpabstracts_pro.php:1177
+msgid "No Attachments Uploaded"
+msgstr "Geen bijlagen geüpload"
+
+#: ../wpabstracts_pro.php:1178
+msgid "Please enter the email address used for the order."
+msgstr "Voer een geldig e-mailadres in."
+
+#: ../wpabstracts_pro.php:1179
+msgid "Successfully updated user registration form."
+msgstr "Met succes bijgewerkt gebruikersregistratie formulier."
+
+#: ../wpabstracts_pro.php:1180
+msgid "Failed to save register form fields."
+msgstr "Kan formuliervelden niet opslaan."
+
+#: ../wpabstracts_pro.php:1181
+msgid "Successfully copied to clipboard."
+msgstr "Naar het klembord gekopieerd."
+
+#: ../wpabstracts_pro.php:1182
+msgid "Failed to copy text to clipboard."
+msgstr "Kan tekst niet naar klembord kopiëren."
+
+#: ../wpabstracts_pro.php:1183
+msgid ""
+"Submissions with this status will no longer have a status. Do you really "
+"want to delete this status?"
+msgstr ""
+"Inzendingen met deze status hebben dan geen status meer. Wilt u deze status "
+"echt verwijderen?"
+
+#: ../wpabstracts_pro.php:1184
+msgid "At least one status is required."
+msgstr "Er is ten minste één status vereist."
+
+#: ../wpabstracts_pro.php:1185
+msgid "At least one topic is required."
+msgstr "Er is ten minste één onderwerp vereist."
+
+#: ../wpabstracts_pro.php:1186
+msgid ""
+"Are you sure you want to restore this form to the default inputs? This "
+"cannot be undone."
+msgstr ""
+"Weet u zeker dat u dit formulier wilt terugzetten naar standaard "
+"instellingen? Dit kan niet ongedaan gemaakt worden."
+
+#: ../wpabstracts_pro.php:1187
+msgid "Are you sure you want to restore your default titles?"
+msgstr "Weet u zeker dat u uw standaardtitels wilt herstellen?"
+
+#: ../wpabstracts_pro.php:1188
+msgid ""
+"Are you sure you want to SYNC profile data from WP Abstracts to Wordpress "
+"user profiles? This cannot be undone. Type SYNC to confirm."
+msgstr ""
+"Weet u zeker dat u de gebruikersgegevens wilt synchroniseren van WP "
+"abstracts met WordPress gebruikersprofielen? Dit kan niet ongedaan gemaakt "
+"worden. Type SYNC om te bevestigen."
+
+#: ../wpabstracts_pro.php:1189
+msgid "One or more of your email address seems invalid."
+msgstr "Een of meer van uw e-mailadressen lijken ongeldig."
+
+#: ../wpabstracts_pro.php:1190
+msgid "Confirmation"
+msgstr "Bevestiging"
+
+#: ../wpabstracts_pro.php:1191
+msgid "OK"
+msgstr "OK"
+
+#: ../wpabstracts_pro.php:1192
+msgid "Cancel"
+msgstr "Annuleren"
+
+#: ../wpabstracts_reports.php:24 ../wpabstracts_reports.php:45
+msgid "STATUS"
+msgstr "STATUS"
+
+#: ../wpabstracts_reports.php:25 ../wpabstracts_reports.php:46
+msgid "COUNT"
+msgstr "TELLEN"
+
+#: ../wpabstracts_reports.php:100 ../wpabstracts_reports.php:135
+msgid "Abstracts by Status"
+msgstr "Samenvattingen op status"
+
+#: ../wpabstracts_reports.php:109 ../wpabstracts_reports.php:142
+msgid "Reviews by Status"
+msgstr "Beoordelingen door Status"
+
+#: ../wpabstracts_reviews.php:189 ../wpabstracts_reviews.php:235
+msgid "Review Id "
+msgstr "Beoordeling Id "
+
+#: ../wpabstracts_reviews.php:189
+msgid " is now "
+msgstr " maakt nu deel uit van "
+
+#: ../wpabstracts_reviews.php:189
+msgid " to the author."
+msgstr " aan de auteur."
+
+#: ../wpabstracts_reviews.php:242
+msgid "Reviews for Abstract ID"
+msgstr "Beoordelingen voor abstract ID"
+
+#: ../wpabstracts_reviews.php:244
+msgid "All Reviews"
+msgstr "Alle beoordelingen"
+
+#: ../wpabstracts_settings.php:15
+msgid "General"
+msgstr "Algemeen"
+
+#: ../wpabstracts_settings.php:16
+msgid "Titles"
+msgstr "Titels"
+
+#: ../wpabstracts_updates.php:85
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?"
+"\" onclick=\"document.location.reload(); return false;\">Try again</a>"
+msgstr ""
+"Een onverwachte HTTP Fout trad op bij het API verzoek.</p> <p><a href=\"?\" "
+"onclick=\"document.location.reload(); return false;\">Probeer opnieuw</a>"
+
+#: ../wpabstracts_updates.php:114
+msgid "enter your license key"
+msgstr "voer uw licentiesleutel in"
+
+#: ../wpabstracts_updates.php:115
+msgid "update license key"
+msgstr "licentiesleutel bijwerken"
+
+#: ../wpabstracts_updates.php:116
+msgid "purchase one"
+msgstr "koop er 1"
+
+#: ../wpabstracts_updates.php:121
+#, php-format
+msgid ""
+"To complete activation %1$s. If you don't have a license key, you may %2$s."
+msgstr "Activering voltooien %1$s . Als u geen licentiecode hebt, kan u %2$s."
+
+#: ../wpabstracts_updates.php:127
+#, php-format
+msgid ""
+"Your license key is invalid. For continued support and updates please %1$s."
+msgstr ""
+"Uw licentiecode is ongeldig. Voor verdere ondersteuning en updates u %1$s."
+
+#: ../wpabstracts_updates.php:130
+msgid "We could not perform your license validation at this time."
+msgstr "We kunnen uw licentie validatie op dit moment niet uitvoeren."
+
+#: ../wpabstracts_users.php:28
+msgid "Manage Users"
+msgstr "Gebruikers beheren"
+
+#: ../wpabstracts_users.php:29
+msgid "Form Builder"
+msgstr "Formulierbouwer"
+
+#~ msgid "Admin Email"
+#~ msgstr "Beheerder E-mail"
+
+#~ msgid "Locked"
+#~ msgstr "Vergrendeld"
+
+#~ msgid "Abstract"
+#~ msgstr "Abstract"
+
+#~ msgid "Type"
+#~ msgstr "Type"
+
+#~ msgid "Abstracts-All"
+#~ msgstr "Abstracts-alle"
+
+#~ msgid "Excellent Reviews"
+#~ msgstr "Uitstekende beoordelingen"
+
+#~ msgid "Good Reviews"
+#~ msgstr "Goede beoordelingen"
+
+#~ msgid "Average Reviews"
+#~ msgstr "Gemiddelde beoordelingen"
+
+#~ msgid "Poor Reviews"
+#~ msgstr "Slechte beoordelingen"
+
+#~ msgid "The email or password you entered is incorrect. Please try again."
+#~ msgstr ""
+#~ "Het ingevoerde e-mail of het wachtwoord is onjuist. Probeer het opnieuw."
+
+#~ msgid "Login & Dashboard"
+#~ msgstr "Inloggen & dashboard"
+
+#~ msgid "Submission Form"
+#~ msgstr "Indienformulier"
+
+#~ msgid "ABSTRACTS BY STATUS"
+#~ msgstr "SAMENVATTINGEN OP STATUS"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "INGEDIEND"
+
+#~ msgid "REVIEWS BY RELEVANCE"
+#~ msgstr "BEOORDELINGEN OP RELEVANTIE"
+
+#~ msgid "RELEVANCE"
+#~ msgstr "RELEVANTIE"
+
+#~ msgid "Reviews by Relevance"
+#~ msgstr "Beoordelingen op relevantie"
+
+#~ msgid "Abstracts - Export by status"
+#~ msgstr "Samenvattingen - Exporteren op status"
+
+#~ msgid "Export CSV"
+#~ msgstr "CSV exporteren"
+
+#~ msgid "Reviews - Export by relevance"
+#~ msgstr "Beoordelingen - Exporten op relevantie"
+
+#~ msgid "user"
+#~ msgstr "gebruiker"
+
+#~ msgid ""
+#~ "Select - Do not send email - to disable a notification on a submission "
+#~ "email trigger."
+#~ msgstr ""
+#~ "Selecteer - Stuur geen e-mail - om meldingen uit te schakelen voor "
+#~ "inzendingen."
+
+#~ msgid "Registration Settings"
+#~ msgstr "Registratie instellingen"
+
+#~ msgid "Admin Name"
+#~ msgstr "Naam admin"
+
+#~ msgid ""
+#~ "Please add a valid event ID to the wpabstracts shortcode on this page."
+#~ msgstr ""
+#~ "Voeg een geldige evenement-ID toe aan de wpabstracts shortcode op deze "
+#~ "pagina."
+
+#~ msgid ""
+#~ "The shortcode in this page should be similar to [wpabstracts event_id=ID] "
+#~ "(grab the ID from your Events tab)."
+#~ msgstr ""
+#~ "De shortcode op deze pagina moet gelijk zijn aan [wpabstracts event_id = "
+#~ "ID] (pak de ID van je evenenten tab)."
+
+#~ msgid "Do you really want to delete this event?"
+#~ msgstr "Wilt u dit evenement echt verwijderen?"
+
+#~ msgid "Profile"
+#~ msgstr "Profiel"
+
+#~ msgid "Closed"
+#~ msgstr "Gesloten"
+
+#~ msgid "Type Request"
+#~ msgstr "Type aanvraag"
+
+#~ msgid "Edit Email Template"
+#~ msgstr "E-mail template bewerken"
+
+#~ msgid "File Name [ID]"
+#~ msgstr "Bestandsnaam [ID]"
+
+#~ msgid "Uploaded to [ID]"
+#~ msgstr "Geüpload naar [ID]"
+
+#~ msgid "Email Group"
+#~ msgstr "E-mail groep"
+
+#~ msgid "Full Name"
+#~ msgstr "Volledige naam"
+
+#~ msgid "Username"
+#~ msgstr "Gebruikersnaam"
+
+#~ msgid "Username:"
+#~ msgstr "Gebruikersnaam:"
+
+#~ msgid "Export Users"
+#~ msgstr "Gebruikers exporteren"
+
+#~ msgid "Export Attachments"
+#~ msgstr "Bijlagen exporteren"
+
+#~ msgid ""
+#~ "At least one event must be created to allow users to submit abstracts."
+#~ msgstr ""
+#~ "Er moet ten minste één evenement aangemaakt worden om gebruikers in staat "
+#~ "te stellen samenvattingen in te dienen."
+
+#~ msgid "Like us"
+#~ msgstr "Like ons"
+
+#~ msgid "on Facebook"
+#~ msgstr "op Facebook"
+
+#~ msgid "Email Admin on Submission"
+#~ msgstr "E-mail admin op indiening"
+
+#~ msgid "Email Author on Submission"
+#~ msgstr "E-mail auteur op indiening"
+
+#~ msgid "Email Author on Status Change"
+#~ msgstr "E-mail auteur op statuswijziging"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when their abstracts has been "
+#~ "approved or rejected (email is sent to submitter's email only)."
+#~ msgstr ""
+#~ "Schakel dit in om een e-mail te sturen naar auteurs wanneer hun "
+#~ "samenvattingen is goedgekeurd of afgewezen (e-mail wordt alleen verzonden "
+#~ "naar de e-mail van de inzender)."
+
+#~ msgid "Email Author on Review Submission"
+#~ msgstr "E-mail auteur nadat  inzending is beoordeeld"
+
+#~ msgid "Email Admin on Review Submission"
+#~ msgstr "E-mail beheerder nadat inzending is beoordeeld"
+
+#~ msgid "Login Configuration"
+#~ msgstr "Login configuratie"

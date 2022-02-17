@@ -1,0 +1,329 @@
+## 2.3.1 - 12-15-2021 ##
+* Fix - Excluded archived events submissions from assigned abstract on reviewer dashboard
+* Fix - Updated missing language translations
+* Fix - Resolved errors when activating plugin on PHP8
+* Fix - Resolved reviewers not seeing the updated attachments
+* Fix - Resolved issues where custom titles were not updating
+* Fix - Added fallback for missing fonts on PDF exports
+* Compatibility testing up to WP 5.8.2
+
+## 2.3.0 - 03-12-2020 ##
+* Feature - Added ability to include submission PDF to email notifications
+* Feature - Added ability to trigger email when a reviewer submits a review
+* Feature - Added ability export reports by event
+* Feature - Added ability to ignore user activation at login (when users are registered outside WP Abstracts)
+* Feature - Added ability to make attachments required or optional
+* Fix - Excluded archived events from csv exports
+* Fix - Corrected bug allowing reviewers to edit reviews by other reviewers
+* Fix - Corrected sql typo causing email templates not to display
+* Improvement - Added Portuguese (Portugal) translation (Thanks to Diogo Alves)
+* Improvement - Added check for GD library before using allowing Captcha
+* Improvement - Added sorting to reviewer dropdown when assigning reviewers
+* Improvement - Added event, topic and user info to review exports
+* Improvement - Added natural sort to ID column on admin Abstracts table
+* Improvement - Updated PDF generator (mPDF) to v8.0.x
+* Compatibility testing up to WP 5.3.2
+
+## 2.2.2 - 07-15-2019 ##
+* Fix - Corrected review attachment visibility for authors
+* Fix - Stripped slashes from abstract titles on dashboard
+* Improvement - Added new page include filters and custom titles
+* Compatibility testing up to WP 5.2.2
+
+## 2.2.1 - 06-27-2019 ##
+Fix - Corrected typo that broke redirect on login
+* Compatibility testing up to WP 5.2.2
+
+## 2.2.0 - 06-26-2019 ##
+* Feature - Added the ability to limit the amount of submissions per user
+* Feature - Added the ability for reviewers to attach a document to a review
+* Feature - Added the ability to set a default status for new submissions
+* Feature - Added read-only mode for submissions when not editable
+* Improvement - Added email validation on author and presenter emails
+* Improvement - Make user id and user email mandatory when exporting users
+* Improvement - Added {REVIEW_COMMENTS} to list of email shortcodes
+* Improvement - Added event and topic to reviews tab
+* Improvement - Added more customizable titles to settings->titles
+* Improvement - Now sending status update email on reviews if "Sync Review Status to Abstracts" is enabled 
+* Improvement - Added visibility flag on reviews to determine if review is visible to the author
+* Improvement - Added modified date to abstracts and reviews
+* Improvement - Moved Abstract settings to nested tab and added ability to customize abstract admin columns
+* Improvement - Added ability to combine first and last name as display name when syncing to Wordpress profile
+* Fix - Corrected faulty login redirect when there are multiple event shortcodes 
+* Fix - Stop admin abstracts revisions from updating the original abstract submission date
+* Fix - Corrected faulty user profile deletions that included deleted profiles in user exports
+* Compatibility testing up to WP 5.2.2
+
+## 2.1.0 - 02-08-2019 ##
+* Feature - Added captcha on registration form
+* Fix - Corrected Internet Explorer issues with registration, submission and editing user profiles
+* Fix - Corrected misleading error message when signing in with invalid captcha code
+* Fix - Corrected possible server 500 error when bulk downloading attachments
+* Improvement - Added Dutch (Netherlands) translation (Thanks to Bas van den Oever)
+* Compatibility testing up to WP 5.0.3
+
+## 2.0.1 - 01-03-2019 ##
+* Fix - Corrected permissions error when reviewers attempt to edit or delete a review
+* Compatibility testing up to WP 5.0.2
+
+## 2.0.0 - 12-27-2018 ##
+* Feature - Added the ability to sync form builder fields to wordpress user profile 
+* Feature - Added the ability to customize login, dashboard and submission headers, titles, labels and messages 
+* Feature - Added the ability to allow edits on a particular status
+* Feature - Added ability to auto activate user on registration
+* Feature - Added the ability to select events while submitting abstracts (also backward compatible)
+* Feature - Added the ability to archive events
+* Feature - Added customizable emails to admins, authors and assigned reviewers when submissions are revised
+* Fix - Removed buggy checkbox and radio group from form builder (use select instead)
+* Fix - Corrected validation error when saving abstracts with show description disabled
+* Fix - Automatically remove columns from user table when form field is deleted
+* Improvement - Deleting events now deletes submissions, reviews and attachment linked to that event.
+* Improvement - Added {ABSTRACT_KEYWORDS}, {ABSTRACT_TOPIC}, {SUBMITTER_NAME} and {SUBMITTER_EMAIL} shortcodes to email templates
+* Improvement - Added ability to reset attachment input file (not replace) while submitting abstracts
+* Improvement - Disable accesiblity to /?task=register if "user can register" is disabled 
+* Improvement - Added customizable subject line with shortcodes to registration email 
+* Improvement - Added stronger permissions checks to frontend dashboard when managing items
+* Improvement - Added keywords to exports
+* Compatibility testing up to WP 5.0.2
+
+## 1.9.0 - 09-15-2018 ##
+* Feature - Added multisite compatibility
+* Feature - Added advanced interaction controls (type-ahead all column search, filters, quicker pagination, and more) to all tables
+* Feature - Added ability to bulk assign reviewers to selected abstracts
+* Feature - Added ability to bulk download selected attachments
+* Feature - Added ability select which admin account(s) receives admin notifications
+* Improvement - Added ability to include email shortcodes in email subject
+* Improvement - Added search, sorting and pagination to author / reviewer dashboards
+* Improvement - Added event and topic columns and filters to attachments tab
+* Improvement - Included type requested and topic in reviewer dashboard
+* Improvement - Updated form validation to avoid theme conflicts
+* Improvement - Disabled WordPress edit page link from WP Abstracts Dashboard
+* Improvement - Updated and improved the word counter
+* Improvement - Added reviewer names and emails to csv exports 
+* Compatibility testing with WP 4.9.8
+
+## 1.8.2 - 07-26-2018 ##
+* Fix - Corrected bug where Event showed "Error: This event was removed" when editing Abstracts.
+* Fix - Removed parameter missing warning message when users are activating accounts.
+* Compatibility testing with WP 4.9.7
+
+## 1.8.1 - 07-24-2018 ##
+* Feature - Added ability for admins to manually activate users.
+* Fix - Corrected error when exporting users
+* Fix - Woocommerce users with an added subscriber role can now see the "New Abstract" button
+* Fix - Corrected warning message and bug in user exports
+* Improvement - Added ability to restore user registration form-builder default inputs
+* Improvement - Added date field to user registration form-builder input group.
+* Improvement - Added better UX for word counter
+* Improvement - Insisted User Id column and desc order in user exports
+* Compatibility testing with WP 4.9.7
+
+## 1.8.0 - 07-04-2018 ##
+* Feature - Added the ability to create unlimited statuses for Abstracts and Reviews
+* Feature - Create unlimited email templates to map to submission triggers, status changes and reviewer related events
+* Feature - Implemented shortcode for registration form. Use [wpabstracts_register] show the registration form
+* Feature - Implemented shortcode for login form. Use [wpabstracts_login] show the login form
+* Feature - Added the ability to add multiple presenters
+* Fix - Corrected issue where users intermittently displays under user tab
+* Fix - Corrected user form builder display issue when special characters are present in the form
+* Fix - Corrected issue with submission forms validation (events, abstracts and reviews) when other inputs are present on the page
+* Fix - Corrected typo in Shortcode copy to clipboard
+* Improvement - Removed special jQuery dependency from formbuilder
+* Improvement - Migrated Email related settings to Email Tab
+* Improvement - Improved and included FAQs under help tab
+* Compatibility testing with WP 4.9.6
+
+## 1.7.0 - 04-30-2018 ##
+* Feature - Added customizable user registration using form builder
+* Feature - Enable or disable forced redirection to author dashboard after login
+* Fix - Corrected pagination bug when filtering by presenter preference and performing actions
+* Improvement - Review reports now exports status description
+* Improvement - System will authenticate reviewers even if the user has multiple roles including editor
+* Improvement - Added event shortcode to events screen for copying to clipboard
+* Compatibility testing with WP 4.9.5
+
+## 1.6.1 - 01-24-2018 ##
+* Feature - Added Spanish (Chile) translation (Thanks to Cristian Nova Castillo)
+* Fix - Corrected issue that affected listings on plugin page and plugin details modal
+* Improvement - Login now checks for the presence of a the subscriber or editor role
+* Improvement - Adjusted file extension validation to be more inclusive.
+* Improvement - Added keywords to abstract info on review screens
+* Improvement - Added filters to email template shortcodes
+* Compatibility testing with WP 4.9.2
+
+## 1.6.0 - 01-04-2018 ##
+* Feature - Added ability to assign unlimited reviewers to abstracts
+* Fix - Corrected issue that affected uploading large attachments
+* Improvement - Validation, error messaging and performance improvements for attachment uploads
+* Improvement – Added ability for users to remove and add new attachments while editing abstracts
+* Improvement - Implemented license validation for automatic updates
+* Compatibility testing with WP 4.9.1
+
+## 1.5.1 - 10-27-2017 ##
+* Feature - Added Spanish (Argentina) translation (Thanks to Veronica Gomez)
+* Fix - Preserve ownership of abstract when reviewer edits the submission
+* Fix - Show correct list of users when managing ownership and "reviewer can submit" is enabled
+* Compatibility testing up to WP 4.8.2
+
+## 1.5.0 - 09-30-2017 ##
+* Feature - Enable / disable admin email notifications when reviews are submitted
+* Feature - Added new email template for admin notifications when reviews are submitted
+* Feature - Added a new abstract status and the ability to customize status descriptions
+* Feature - Added a new email template for 'Under Review' status
+* Feature - Added filter by presenter preference to abstracts list table
+* Feature - Added presenter preference to abstract / review Sync setting
+* Feature - Added author and user to abstract search fields
+* Feature - Added “keywords” and “affiliations” to PDF exports
+* Feature - Added Brazilian translation (Thanks to Gabriel Vieira)
+* Feature - Added German translation (Thanks to Wolfgang Saus)
+* Fix - Remove author and presenter fields when blind review is enabled
+* Fix - Upgraded PDF exporter for PHP7+ compatibility
+* Removed - Removed the Summary Tab (Summary can be obtained from Reports tab)
+* Compatibility testing up to WP 4.8.2
+
+## 1.4.0 - 06-10-2017 ##
+* Feature - Added optional security captcha to login
+* Feature - Added the ability use the 'add media' option on the text editor
+* Feature - Media/images can now be included in exported PDFs
+* Fix - Resolved intermittent error when exporting PDFs on PHP7
+* Improvement - Implemented login using AJAX (apart of roadmap for future development)
+* Improvement - Topics can now accepts commas
+* Compatibility testing up to WP 4.8
+
+## 1.3.0 - 03-26-2017 ##
+* Feature - Added the ability to turn off abstract description field
+* Fix - Remove back slash from abstract title when apostrophes are used.
+* Fix - Resolved issue with word count.
+* Fix - Resolved issue where review submission sometimes failed
+* Fix - Resolved sorting by topics error
+* Improvement - Facelift the login form and added Lost Password link
+* Compatibility testing up to WP 4.7.3
+
+## 1.2.0 - 04-30-2016 ##
+* Feature - Added the ability to turn off author fields
+* Feature - Added user's name to the csv abstracts exports under reports
+* Feature - Added status filter and search to Abstracts
+* Feature - Added user role/type filter and search to Users
+* Feature - Added ability to create and export a zip of all attachments
+* Feature - Added search option for attachment tab
+* Feature - Added abstract and attachment IDs to attachment tab
+* Feature - Added {PRESENTER_PREFERENCE} list of shortcodes for email templates
+* Feature - Added optional author email alerts on reviewer comments
+* Feature - Added optional keywords field to submission page and setting option
+* Feature - Added optional terms & conditions to submission page and setting option
+* Feature - Added optional setting to hide reviewer comments
+* Feature - Added optional setting to sync reviewer status choice to abstracts
+* Fix - Corrected email templates from being reset when plugin is re-activated
+* Fix - Corrected email template id when bulk action is used to Accept submissions
+* Fix - Corrected broken reviewer assignments when assigning additional reviewers to submission
+* Fix - Corrected broken attachment download issue on author's dashboard
+* Fix - Corrected glitch in changing topics while editing abstracts
+* Fix - Corrected event deadline to correctly compare current date and event deadline irrespective of the current wordpress datetime format
+* Fix - Corrected unwanted slashes in text editor when apostrophes are used.
+* Improvement - Included more wordpress filters for admin tabs, header, pages and frontend dashboard, get and edit views.
+* Improvement - Event is now automatically selected/set based on event ID from shortcode on the dashboard
+* Compatibility testing up to WP 4.5.2
+
+## 1.1.3 - 12/20/2015 ##
+* Feature - Added auto-updater to allow future updates from wordpress plugin's page
+* Feature - Added presenter preference and abstract Id shortcode for automated emails
+* Feature - Added the ability to turn off presenter preference
+* Feature - Added the ability to change abstract status back to pending
+* Feature - Added setting to allow reviewers to be authors
+* Feature - Added filter to reviewer list to exclude already assigned reviewers
+* Fix - Blocked reviewers from being assigned their own abstracts
+* Fix - Blocked direct downloads for abstracts, attachments and reports (security Fix)
+* Fix - Removed passed events from the drop down for new submissions
+* Fix - Corrected date on exported PDFs
+* Fix - Corrected remaining attachments allowed while in editing abstracts
+* Fix - Corrected pagination results on abstracts and attachment tabs
+* Fix - Corrected the show admin bar issue glitch
+* Tweak - Optimized abstracts and attachments tabs to handle large amounts of submissions
+* Tweak - Minor revamping of the admin panel
+* Compatibility testing up to WP 4.4
+
+## 1.1.2 - 06/07/2015 ##
+* Feature - Added email templates for status change - accepted and rejected
+* Feature - Added the ability to turn off attachment completely
+* Feature - Added the ability to unassign a reviewer
+* Fix - Exporting file name issue under Reports
+* Fix - Minor JS bug affecting abstracts submission
+* Fix - Author affiliations input field limitation issue
+
+## 1.1.1 - 03/13/2015 ##
+* Fix - Language and localization bug
+* Fix - Enabling blind review displayed author's name on reviewer's dashboard
+* Fix - Author instructions not saving
+* Fix - Auto-update error on WP plugin page
+* Fix - Reviewer submission setting affected author's dashboard
+
+## 1.1 - 03/03/2015 ##
+* Enhancement - Completely new Responsive front-end dashboard
+* Feature - Added Attachments Tab for fast and easier access to uploaded attachments
+* Feature - Added Ability to customize outgoing emails
+* Feature - Added submission deadline on events / conferences
+* Feature - Added Automatic Updates. Update to the latest version just like you would with other plugins
+* Feature - Added support for multiple events or conferences. Include the event ID in the shortcode E.g.[wpabstracts event_id##2]
+* Feature - Added option (under setting tab) to disable reviewer abstract editing privileges
+* Feature - Added option (under setting tab) to disable reviewer abstract submission privileges
+* Feature - Merged Author and Reviewers login area (now one dashboard login but backward compatible)
+* Tweak - Redesigned the user's manager area
+* Tweak - Partial transition to jQuery
+* Tweak - Minor admin area JS and CSS tweak
+* Compatibility testing up to WP 4.1
+
+## 1.0.4 - 08/15/2014 ##
+* Feature - Added limit for attachment uploads per submission
+* Feature - Added customizable instruction text for authors
+* Feature - Authors can now delete abstracts if still in pending mode
+* Feature - Ability to customize presenter preferences
+* Fix - Front-end HTML rendering issues on some templates (a work in progress)
+* Fix - Content sanitization issue while saving abstract description
+* Fix - Character count now changed to word count and rectified
+* Fix - Date error/warning while adding reviews
+* Fix - Only related topics are loaded on event change when editing abstracts
+* Tweak - Author's name now accepts commas
+* Tweak - Added event name on abstracts listing
+* Tweak - Added submissions count to events listing
+* Tweak - Proper chart labeling of y-axe under reports
+* Compatibility testing with WP 3.9.2
+
+## 1.0.3 - 05/15/2014 ##
+* Feature - Added language support (Thanks to Stergatou Eleni, CTI, Greece)
+* Feature - Added Greek translation (Again thanks to Stergatou Eleni)
+* Feature - Ability for blind reviews
+* Fix - Topics are now displayed to the reviewers in IE.
+* Fix - Abstract sorting error on reviews tab
+* Fix - PHP short tags
+* Fix - WP debug notices
+* Tweak - Added get_option('date_format') . ' ' . get_option('time_format') for abstracts display in admin pages
+* Tweak - Simplified shortcode to [wpabstracts] (backward compatibility kept)
+* Tweak - Added flick as jquery ui css theme
+* Tweak - Added Abstract ID column on Reviews tab
+* Tweak - Migrated HTML to separate location
+* Tweak - Partial transition from Javascript to jQuery
+* Compatibility testing with WP 3.9.1
+
+## 1.0.2 - 03/15/2014 ##
+* Feature - Reports tab with graphs and csv exports
+* Feature - Download Abstracts as PDF
+* Feature - Ability to add up to 3 reviewers
+* Feature - Setting to turn off 'change ownership' on submissions
+* Feature - Added Author Affiliation to submissions
+* Fix - Better HTML formatting abstracts description
+* Fix - Restrict removal of all authors
+* Fix - Error when email reviewer on assignment is enabled
+* Tweak - Added tooltips on settings page
+* Tweak - Partial transition from Javascript to jQuery
+
+## 1.0.1 - 02/15/2014 ##
+* Feature - Option to manage attachments from the edit screen.
+* Feature - Option to assign abstracts to existing users (change ownership).
+* Feature - Option for reviewers to submit abstracts
+* Feature - New column to show attachment count on submissions
+* Fix - possible "header() already sent" error while downloading attachments
+* Fix - bug on summary page where abstracts displayed wrong title
+* Tweak - Minor JS and CSS tweak
+
+## 1.0  – 01/15/2014 ##
+* Initial Release

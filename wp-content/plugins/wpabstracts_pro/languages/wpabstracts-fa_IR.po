@@ -1,0 +1,2676 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: wpabstracts\n"
+"POT-Creation-Date: 2021-12-01 08:02-0500\n"
+"PO-Revision-Date: 2021-12-01 08:06-0500\n"
+"Last-Translator: Kevon Adonis <email@kevonadonis.com>\n"
+"Language-Team: Kevon Adonis <support@wpabstracts.com>\n"
+"Language: fa_IR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-KeywordsList: _e;__\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPath-1: ..\n"
+
+#: ../abstracts/abstracts.classes.php:33 ../html/wpabstracts_dashboard.php:222
+msgid "View"
+msgstr "نمایش"
+
+#: ../abstracts/abstracts.classes.php:34 ../html/wpabstracts_dashboard.php:217 ../html/wpabstracts_dashboard.php:306
+#: ../html/wpabstracts_dashboard.php:377 ../inc/wpabstracts_classes.php:30 ../inc/wpabstracts_classes.php:360
+#: ../inc/wpabstracts_classes.php:514 ../inc/wpabstracts_classes.php:650
+msgid "Edit"
+msgstr "ویرایش"
+
+#: ../abstracts/abstracts.classes.php:35 ../abstracts/abstracts.classes.php:150 ../abstracts/abstracts.manage.php:329
+#: ../wpabstracts_pro.php:1168
+msgid "Change Status"
+msgstr "تغییر وضعیت"
+
+#: ../abstracts/abstracts.classes.php:36 ../abstracts/abstracts.classes.php:149
+msgid "Assign Reviewer"
+msgstr "اختصاص دادن بازبین"
+
+#: ../abstracts/abstracts.classes.php:37 ../inc/wpabstracts_downloads.php:209 ../settings/settings.titles.php:386
+#: ../wpabstracts_pro.php:45 ../wpabstracts_pro.php:203
+msgid "Reviews"
+msgstr "بازبینی"
+
+#: ../abstracts/abstracts.classes.php:38
+msgid "Export PDF"
+msgstr "بیرون ریزی پی دی اف"
+
+#: ../abstracts/abstracts.classes.php:39 ../abstracts/abstracts.classes.php:151 ../abstracts/abstracts.manage.php:196
+#: ../html/wpabstracts_dashboard.php:218 ../html/wpabstracts_dashboard.php:378 ../inc/wpabstracts_classes.php:31
+#: ../inc/wpabstracts_classes.php:143 ../inc/wpabstracts_classes.php:215 ../inc/wpabstracts_classes.php:270
+#: ../inc/wpabstracts_classes.php:361 ../inc/wpabstracts_classes.php:438 ../inc/wpabstracts_classes.php:515
+#: ../inc/wpabstracts_classes.php:651 ../inc/wpabstracts_classes.php:688 ../users/admin.classes.php:33
+#: ../users/admin.classes.php:112 ../wpabstracts_pro.php:1193
+msgid "Delete"
+msgstr "حذف"
+
+#: ../abstracts/abstracts.classes.php:49
+msgid "Event Not Found"
+msgstr "رویدادی یافت نشد"
+
+#: ../abstracts/abstracts.classes.php:79
+msgid "Not Assigned"
+msgstr "اختصاص داده نشده"
+
+#: ../abstracts/abstracts.classes.php:110 ../html/wpabstracts_editAbstract.php:93
+msgid "User not found"
+msgstr "کاربر یافت نشد"
+
+#: ../abstracts/abstracts.classes.php:162
+msgid "Filter by Status"
+msgstr "فیلتر بر اساس وضعیت"
+
+#: ../abstracts/abstracts.classes.php:164 ../abstracts/abstracts.classes.php:179
+msgid "All"
+msgstr "همگی"
+
+#: ../abstracts/abstracts.classes.php:177
+msgid "Filter by Preference"
+msgstr "انتخاب اولویت"
+
+#: ../abstracts/abstracts.manage.php:89 ../abstracts/abstracts.manage.php:99 ../emails/admin.templates.php:78
+#: ../wpabstracts_events.php:145 ../wpabstracts_reviews.php:174
+msgid "Could not locate this resource. Please try again."
+msgstr "ما هنوز می تواند مراجعه در این زمان انجام دهد. لطفا بعدا مجددا امتحان نمایید."
+
+#: ../abstracts/abstracts.manage.php:191
+msgid "Assign Reviewers"
+msgstr "اختصاص داوران"
+
+#: ../abstracts/abstracts.manage.php:195
+msgid "Notify"
+msgstr "اعلام کردن"
+
+#: ../abstracts/abstracts.manage.php:199
+msgid "No Reviewers Assigned"
+msgstr "بدون هیچ بازبین اختصاص داده"
+
+#: ../abstracts/abstracts.manage.php:225 ../abstracts/abstracts.manage.php:243
+msgid "Select Reviewer"
+msgstr "انتخاب داور"
+
+#: ../abstracts/abstracts.manage.php:333
+msgid "Select a status"
+msgstr "انتخاب وضعیت"
+
+#: ../abstracts/abstracts.manage.php:373
+msgid "Status was updated successfully."
+msgstr "وضعیت با موفقیت به روز شد."
+
+#: ../abstracts/abstracts.manage.php:387 ../abstracts/abstracts.manage.php:405
+msgid "Abstract Id "
+msgstr "شناسه انتزاعی "
+
+#: ../abstracts/abstracts.manage.php:387 ../abstracts/abstracts.manage.php:405 ../wpabstracts_reviews.php:235
+msgid " was successfully deleted."
+msgstr " با موفقیت حذف شد."
+
+#: ../abstracts/abstracts.manage.php:407
+msgid "The selected Abstracts were successfully deleted."
+msgstr "خلاصه انتخاب شده با موفقیت حذف شد."
+
+#: ../abstracts/abstracts.manage.php:414 ../inc/wpabstracts_downloads.php:163 ../wpabstracts_pro.php:44
+#: ../wpabstracts_pro.php:202
+msgid "Abstracts"
+msgstr "چکیده ها"
+
+#: ../abstracts/abstracts.manage.php:414 ../emails/admin.templates.php:86 ../wpabstracts_events.php:204
+#: ../wpabstracts_reviews.php:243
+msgid "Add New"
+msgstr "افزودن مورد جدید"
+
+#: ../abstracts/abstracts.settings.php:69 ../emails/admin.settings.php:34 ../users/admin.settings.php:84
+#: ../wpabstracts_abstracts.php:30 ../wpabstracts_emails.php:23 ../wpabstracts_pro.php:50 ../wpabstracts_pro.php:211
+#: ../wpabstracts_users.php:30
+msgid "Settings"
+msgstr "تنظیمات"
+
+#: ../abstracts/abstracts.settings.php:69 ../emails/admin.settings.php:34 ../settings/settings.general.php:47
+#: ../settings/settings.titles.php:97 ../users/admin.settings.php:84
+msgid "Save Changes"
+msgstr "ذخیره تغییرات"
+
+#: ../abstracts/abstracts.settings.php:75
+msgid "Abstracts Configuration"
+msgstr "پیکربندی چکیده ها"
+
+#: ../abstracts/abstracts.settings.php:80
+msgid "Show Abstract Description"
+msgstr "توضیخات مربوط به مقالات نمایش داده شود"
+
+#: ../abstracts/abstracts.settings.php:81
+msgid "Use this setting to hide the decription area completely from the submission page."
+msgstr "این تنظیمات برای مخفی کردن منطقه decription به طور کامل از صفحه ارسال استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:84 ../abstracts/abstracts.settings.php:95 ../abstracts/abstracts.settings.php:106
+#: ../abstracts/abstracts.settings.php:117 ../abstracts/abstracts.settings.php:128 ../abstracts/abstracts.settings.php:139
+#: ../abstracts/abstracts.settings.php:150 ../abstracts/abstracts.settings.php:161 ../abstracts/abstracts.settings.php:278
+#: ../emails/admin.settings.php:43 ../emails/admin.settings.php:105 ../emails/admin.settings.php:181
+#: ../emails/admin.settings.php:272 ../emails/admin.settings.php:334 ../settings/settings.general.php:64
+#: ../settings/settings.general.php:75 ../settings/settings.general.php:86 ../settings/settings.general.php:97
+#: ../settings/settings.general.php:108 ../settings/settings.general.php:119 ../settings/settings.general.php:130
+#: ../settings/settings.general.php:152 ../settings/settings.general.php:163 ../settings/settings.general.php:174
+#: ../settings/settings.general.php:185 ../settings/settings.general.php:196 ../users/admin.settings.php:105
+#: ../users/admin.settings.php:116 ../users/admin.settings.php:127 ../users/admin.settings.php:138
+#: ../users/admin.settings.php:151 ../users/admin.settings.php:223 ../users/admin.settings.php:234
+#: ../users/admin.settings.php:245 ../users/admin.settings.php:256
+msgid "Yes"
+msgstr "آری"
+
+#: ../abstracts/abstracts.settings.php:85 ../abstracts/abstracts.settings.php:96 ../abstracts/abstracts.settings.php:107
+#: ../abstracts/abstracts.settings.php:118 ../abstracts/abstracts.settings.php:129 ../abstracts/abstracts.settings.php:140
+#: ../abstracts/abstracts.settings.php:151 ../abstracts/abstracts.settings.php:162 ../abstracts/abstracts.settings.php:279
+#: ../emails/admin.settings.php:44 ../emails/admin.settings.php:106 ../emails/admin.settings.php:182
+#: ../emails/admin.settings.php:273 ../emails/admin.settings.php:335 ../settings/settings.general.php:65
+#: ../settings/settings.general.php:76 ../settings/settings.general.php:87 ../settings/settings.general.php:98
+#: ../settings/settings.general.php:109 ../settings/settings.general.php:120 ../settings/settings.general.php:131
+#: ../settings/settings.general.php:153 ../settings/settings.general.php:164 ../settings/settings.general.php:175
+#: ../settings/settings.general.php:186 ../settings/settings.general.php:197 ../users/admin.settings.php:106
+#: ../users/admin.settings.php:117 ../users/admin.settings.php:128 ../users/admin.settings.php:139
+#: ../users/admin.settings.php:152 ../users/admin.settings.php:224 ../users/admin.settings.php:235
+#: ../users/admin.settings.php:246 ../users/admin.settings.php:257
+msgid "No"
+msgstr "خیر"
+
+#: ../abstracts/abstracts.settings.php:90
+msgid "Allow Editor Media"
+msgstr "رسانه های ویرایشگر اجازه می دهد"
+
+#: ../abstracts/abstracts.settings.php:91
+msgid "Use this setting to hide or show the Add Media button on the submission text editor."
+msgstr "این تنظیمات برای مخفی کردن یا نمایش دکمه افزودن رسانه در ثبت متن ویرایشگر استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:101
+msgid "Show Author Fields"
+msgstr "نمایش گزینه های نویسنده"
+
+#: ../abstracts/abstracts.settings.php:102
+msgid "Use this setting to hide the author area completely from the submission page."
+msgstr "از این گزینه برای مخفی سازی کامل «قاب نویسنده» از برگۀ ارسال استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:112
+msgid "Show Attachment Uploads"
+msgstr "نمایش ضمائم بارگذاری شده"
+
+#: ../abstracts/abstracts.settings.php:113
+msgid "Use this setting to hide the attachment area completely from the submission page."
+msgstr "از این گزینه برای مخفی سازی کامل قاب ضمائم از برگۀ ارسال استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:123
+msgid "Make Attachment Required"
+msgstr "ایجاد پیوست مورد نیاز"
+
+#: ../abstracts/abstracts.settings.php:124
+msgid "Use this setting to make attachments required or optional."
+msgstr "از این تنظیم برای ایجاد پیوست های مورد نیاز یا اختیاری استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:134
+msgid "Show Presenter Fields"
+msgstr "نمایش زمینه های مجری"
+
+#: ../abstracts/abstracts.settings.php:135
+msgid "Use this setting to hide the presenter area completely from the submission and edit pages."
+msgstr "از این گزینه برای مخفی سازی کامل قاب اولویت های ارائه دهنده از برگۀ ارسال و ویرایش استفاده کنید."
+
+#: ../abstracts/abstracts.settings.php:145
+msgid "Show Abstract Keywords"
+msgstr "نمایش کلیدواژگان چکیده"
+
+#: ../abstracts/abstracts.settings.php:146
+msgid "Enable this to display the keywords input on the submission page. Enabling this makes keywords required."
+msgstr "برای نمایش ورودی کلیدواژگان در برگۀ ثبت، این گزینه را فعال کنید. با فعالسازی این گزینه، ورود کلیدواژگان ضروری خواهد بود."
+
+#: ../abstracts/abstracts.settings.php:156
+msgid "Show Terms & Conditions"
+msgstr "نمایش شرایط و ضوابط"
+
+#: ../abstracts/abstracts.settings.php:157
+msgid "Enable this to display your terms and conditions on the submission page. Enabling this makes the checkbox required."
+msgstr ""
+"برای نمایش شرایط و ضوابط شما در برگۀ ثبت، این گزینه را فعال کنید. با فعالسازی این گزینه، پذیرش شرایط و ضوابط، ضروری خواهد بود."
+
+#: ../abstracts/abstracts.settings.php:167
+msgid "Maximum User Submissions"
+msgstr "حداکثر ارسالی کاربر"
+
+#: ../abstracts/abstracts.settings.php:168
+msgid "Set the maximum submissions allowed per user."
+msgstr "حداکثر ارسالی مجاز برای هر کاربر را تنظیم کنید."
+
+#: ../abstracts/abstracts.settings.php:175
+msgid "Maximum Word Count"
+msgstr "حداکثر تعداد کلمات"
+
+#: ../abstracts/abstracts.settings.php:176
+msgid "Maximum character count allowed in a submission."
+msgstr "حداکثر تعداد کلماتی که در یک ثبت چکیده، مجاز است."
+
+#: ../abstracts/abstracts.settings.php:183
+msgid "Maximum Attachments"
+msgstr "حداکثر ضمائم"
+
+#: ../abstracts/abstracts.settings.php:184
+msgid "Set the maximum attachment upload allowed per submission."
+msgstr "تعداد حداکثر پرونده های ضمیمه را در هر ثبت چکیده تعیین کنید."
+
+#: ../abstracts/abstracts.settings.php:191
+msgid "Maximum Attachment Size"
+msgstr "حداکثر اندازۀ پروندۀ ضمیمه"
+
+#: ../abstracts/abstracts.settings.php:192
+msgid "Maxmium size allowed for attachments (in bytes)."
+msgstr "حداکثر اندازۀ مجاز برای پرونده های ضمیمه (برحسب بایت.)"
+
+#: ../abstracts/abstracts.settings.php:199
+msgid "Permitted Attachments"
+msgstr "ضمائم مجاز"
+
+#: ../abstracts/abstracts.settings.php:200
+msgid "File extentions allowed for uploading (separate extentions with a comma)."
+msgstr "پسوندهای مجاز برای پرونده های بارگذاری شده (پسوندها را با ویرگول لاتین «,» از هم جدا کنید)."
+
+#: ../abstracts/abstracts.settings.php:207
+msgid "Set Presenter Preferences"
+msgstr "* تنظیم اولویت های ارائه دهنده"
+
+#: ../abstracts/abstracts.settings.php:208
+msgid "Set the types of presentation allowed (separated by commas), Eg. Poster, Panel, Round Table"
+msgstr "تنظیم نوع ارائه های مجاز (با ویرگول لاتین جدا کنید). برای مثال پوستر , تابلو , میزگرد"
+
+#: ../abstracts/abstracts.settings.php:222
+msgid "Abstract Status"
+msgstr "وضعیت انتزاعی"
+
+#: ../abstracts/abstracts.settings.php:228
+msgid "Abstracts Status Description"
+msgstr "خلاصه وضعیت توضیحات"
+
+#: ../abstracts/abstracts.settings.php:229
+msgid "Describe the four statuses Abstracts may be in."
+msgstr "چهار وضعیت چکیده مقالات ممکن است در توضیح دهید."
+
+#: ../abstracts/abstracts.settings.php:247
+msgid "Status that allow Revision"
+msgstr "وضعیتی که اجازه ویرایش را می دهد"
+
+#: ../abstracts/abstracts.settings.php:248
+msgid "Select the status when authors are allowed to edit their submission."
+msgstr "وضعیت را انتخاب کنید که نویسندگان مجاز به ویرایش پرونده خود باشند."
+
+#: ../abstracts/abstracts.settings.php:260
+msgid "Default Submission Status"
+msgstr "وضعیت تسلیم پیش فرض"
+
+#: ../abstracts/abstracts.settings.php:261
+msgid "Select the default status of newly submitted abstracts."
+msgstr "وضعیت پیش فرض چکیده های تازه ارسال شده را انتخاب کنید."
+
+#: ../abstracts/abstracts.settings.php:273
+msgid "Sync Review Status to Abstracts"
+msgstr "بررسی وضعیت همگام سازی به خلاصه مقالات"
+
+#: ../abstracts/abstracts.settings.php:274
+msgid ""
+"Enable this to allow reviewer status selection to update the abstract status. This works best when one reviewer is assigned to "
+"the abstract. If more than one reviews are submitted the last one wins."
+msgstr ""
+"این را فعال کنید تا اجازه وضعیت بررسی کننده را برای به روزرسانی وضعیت انتزاعی فعال کنید. این بهترین کار ممکن است زمانی که یکی "
+"از داوران به انتزاع اختصاص یابد. اگر بیش از یک بررسی ارسال شود، آخرین برنده منتقل می شود."
+
+#: ../abstracts/abstracts.settings.php:288 ../users/admin.settings.php:267
+msgid "Admin Columns"
+msgstr "ستون‌های مدیریت"
+
+#: ../abstracts/abstracts.settings.php:289
+msgid "Select columns to display on manage abstracts tab."
+msgstr "ستون ها را برای نمایش در زبانه مدیریت چکیده ها انتخاب کنید."
+
+#: ../emails/admin.settings.php:41
+msgid "Enable Submission Triggers"
+msgstr "فعال کردن باعث ارسال"
+
+#: ../emails/admin.settings.php:46
+msgid "Enable or disable all submission email trigger."
+msgstr "فعال کردن باعث ارسال"
+
+#: ../emails/admin.settings.php:55 ../emails/admin.settings.php:117 ../emails/admin.settings.php:193
+msgid "Admin Notification"
+msgstr "اعلان مدیر"
+
+#: ../emails/admin.settings.php:57
+msgid "Select a template to email the site admin on submissions of new abstracts."
+msgstr "الگو به ایمیل مدیر سایت در ارائه مقالات جدید را انتخاب کنید."
+
+#: ../emails/admin.settings.php:64 ../emails/admin.settings.php:78 ../emails/admin.settings.php:126
+#: ../emails/admin.settings.php:140 ../emails/admin.settings.php:154 ../emails/admin.settings.php:202
+#: ../emails/admin.settings.php:216 ../emails/admin.settings.php:230 ../emails/admin.settings.php:244
+#: ../emails/admin.settings.php:292
+msgid "-Do not send email-"
+msgstr "-ایمیل - ارسال"
+
+#: ../emails/admin.settings.php:69 ../emails/admin.settings.php:131 ../emails/admin.settings.php:221
+msgid "Author Notification"
+msgstr "اطلاع رسانی نویسنده"
+
+#: ../emails/admin.settings.php:71
+msgid "Enable this to send an email to authors when they submit an abstract (email is sent to Author's email)."
+msgstr ""
+"این گزینه را جهت ارسال رایانامه به نویسنده وقتی که چکیده را ثبت می کند، فعال کنید. (رایانامه به نشانی رایانامۀ نویسنده ارسال "
+"می شود)"
+
+#: ../emails/admin.settings.php:88 ../emails/admin.settings.php:164 ../emails/admin.settings.php:254
+#: ../emails/admin.settings.php:304 ../wpabstracts_pro.php:52 ../wpabstracts_pro.php:213
+msgid "Help"
+msgstr "راهنما"
+
+#: ../emails/admin.settings.php:92
+msgid "Select the email template for notifications when an abstract is submitted."
+msgstr "هنگام ارسال یک انتزاع، قالب ایمیل برای اطلاعیه ها را انتخاب کنید."
+
+#: ../emails/admin.settings.php:93
+msgid ""
+"Use the master enable / disable option to turn off all submitted related notification. Select - Do not send email - to disable "
+"a notification on a particular destination email."
+msgstr ""
+"از گزینه master enable / disable برای خاموش کردن همه اعلان مربوط به بررسی کننده استفاده کنید. انتخاب کنید - ایمیل را ارسال "
+"نکنید - برای غیر فعال کردن اعلان در تغییر وضعیت خاص."
+
+#: ../emails/admin.settings.php:103
+msgid "Enable Revision Triggers"
+msgstr "فعال کردن باعث ارسال"
+
+#: ../emails/admin.settings.php:108
+msgid "Enable or disable all edit email triggers."
+msgstr "فعال یا غیر فعال"
+
+#: ../emails/admin.settings.php:119
+msgid "Select a template to email the site admin owhen an abstract is edited."
+msgstr "الگو به ایمیل مدیر سایت در ارائه مقالات جدید را انتخاب کنید."
+
+#: ../emails/admin.settings.php:133
+msgid "Enable this to send an email to authors when they edit an abstract (email is sent to Author's email)."
+msgstr ""
+"این گزینه را جهت ارسال رایانامه به نویسنده وقتی که چکیده را ثبت می کند، فعال کنید. (رایانامه به نشانی رایانامۀ نویسنده ارسال "
+"می شود)"
+
+#: ../emails/admin.settings.php:145 ../emails/admin.settings.php:207
+msgid "Reviewer Notification"
+msgstr "اطلاع رسانی بازبین"
+
+#: ../emails/admin.settings.php:147
+msgid ""
+"Enable this to send an email to assigned reviewers when an abstract is edited (email is sent to all reviewers on submission)."
+msgstr ""
+"این گزینه را جهت ارسال رایانامه به نویسنده هنگامیکه چکیده اش بازبینی می شود، فعال کنید. (این رایانامه فقط به نشانی رایانامۀ "
+"ثبت کننده ارسال می شود)"
+
+#: ../emails/admin.settings.php:168
+msgid "Select the email template for notifications when an abstract is edited."
+msgstr "هنگام ارسال یک انتزاع، قالب ایمیل برای اطلاعیه ها را انتخاب کنید."
+
+#: ../emails/admin.settings.php:169
+msgid ""
+"Use the master enable / disable option to turn off all edit related notification. Select - Do not send email - to disable a "
+"notification on a particular destination email."
+msgstr ""
+"از گزینه master enable / disable برای خاموش کردن همه اعلان مربوط به بررسی کننده استفاده کنید. انتخاب کنید - ایمیل را ارسال "
+"نکنید - برای غیر فعال کردن اعلان در تغییر وضعیت خاص."
+
+#: ../emails/admin.settings.php:179
+msgid "Enable Reviewer Triggers"
+msgstr "فعال کردن تکرار کننده ها"
+
+#: ../emails/admin.settings.php:184
+msgid "Enable or disable all reviewer email trigger."
+msgstr "فعال کردن تکرار کننده ها"
+
+#: ../emails/admin.settings.php:195
+msgid "Enable this to send an email to administrators when a review was submitted."
+msgstr "فعال کردن این را به ارسال ایمیل به مدیران بررسی ارسال شده است."
+
+#: ../emails/admin.settings.php:209
+msgid "Enable this to send an email to the reviewer when he/she submits a review."
+msgstr "این کار را فعال کنید تا زمانی که یک بررسی را ارائه می دهد، ایمیلی برای بازبین ارسال کند."
+
+#: ../emails/admin.settings.php:223
+msgid "Enable this to send an email to authors when their abstracts has been reviewed (email is sent to submitter's email only)."
+msgstr ""
+"این گزینه را جهت ارسال رایانامه به نویسنده هنگامیکه چکیده اش بازبینی می شود، فعال کنید. (این رایانامه فقط به نشانی رایانامۀ "
+"ثبت کننده ارسال می شود)"
+
+#: ../emails/admin.settings.php:235
+msgid "Reviewer Assignment Notification"
+msgstr "اعلان واگذاری بازبین"
+
+#: ../emails/admin.settings.php:237
+msgid "Select a template to send to reviewers when they have been assigned a submission."
+msgstr "یک الگو برای فرستادن به متخصصان هنگامی که یک تسلیم اختصاص داده شده انتخاب کنید."
+
+#: ../emails/admin.settings.php:258
+msgid ""
+"Select reviewer related templates for admin and author notification when reviews are submitted and when an abstract is "
+"assigned to a reviewer."
+msgstr ""
+"قالب های مربوط به بررسی کننده را برای اطلاع مدیر و نویسنده در زمان ارسال بررسی و زمانی که انتزاعی به یک بررسی کننده اختصاص "
+"داده می شود، انتخاب کنید."
+
+#: ../emails/admin.settings.php:259 ../emails/admin.settings.php:309
+msgid ""
+"Use the master enable / disable option to turn off all reviewer related notification. Select - Do not send email - to disable "
+"a notification on a particular status change."
+msgstr ""
+"از گزینه فعال سازی آری/خیر برای روشن یا خاموش کردن همه اعلانهای مربوط به بررسی کننده استفاده کنید. میتوانید ارسال اعلانها را "
+"فعال و یا غیر فعال نمایید. "
+
+#: ../emails/admin.settings.php:270
+msgid "Enable Status Change Triggers"
+msgstr "فعال کردن تغییر حالت تغییر وضعیت"
+
+#: ../emails/admin.settings.php:275
+msgid "Enable or disable all status change email trigger."
+msgstr "فعال کردن تغییر حالت تغییر وضعیت"
+
+#: ../emails/admin.settings.php:285
+msgid "Select the email template for this status change notification"
+msgstr "قالب ایمیل برای این اعلان تغییر وضعیت را انتخاب کنید"
+
+#: ../emails/admin.settings.php:308
+msgid "Select the email template for when the status is changed on Abstracts."
+msgstr "قالب ایمیل را برای هنگامی که وضعیت در خلاصه تغییر را انتخاب کنید."
+
+#: ../emails/admin.settings.php:320
+msgid "Admin Notification Recipients"
+msgstr "مدیریت گیرندگان اعلان"
+
+#: ../emails/admin.settings.php:321
+msgid "Enable or disable admin notications for admin users."
+msgstr "فعال یا غیر فعال"
+
+#: ../emails/admin.templates.php:86
+msgid "Email Templates"
+msgstr "قالب‌های ایمیل"
+
+#: ../html/wpabstracts_addAbstract.php:8
+msgid "Abstract submission for this event has past"
+msgstr "زمان ثبت نام و ارسال مقاله به اتمام رسیده است"
+
+#: ../html/wpabstracts_addAbstract.php:12
+msgid "You have reached the maximum amount of submissions allowed per user."
+msgstr "شما به حداکثر مقدار ارسالی مجاز برای هر کاربر رسیده است."
+
+#: ../html/wpabstracts_addAbstract.php:18 ../html/wpabstracts_dashboard.php:113 ../html/wpabstracts_dashboard.php:117
+#: ../inc/wpabstracts_functions.php:1080 ../settings/settings.titles.php:251
+msgid "New Abstract"
+msgstr "چکیده جدید"
+
+#: ../html/wpabstracts_addAbstract.php:19 ../html/wpabstracts_addEmailTemplate.php:4 ../html/wpabstracts_addEvent.php:11
+#: ../html/wpabstracts_addReview.php:4 ../html/wpabstracts_editAbstract.php:16 ../html/wpabstracts_editEmailTemplate.php:4
+#: ../html/wpabstracts_editEvent.php:11 ../html/wpabstracts_editReview.php:4 ../users/profile.php:40
+msgid "Submit"
+msgstr "ارسال"
+
+#: ../html/wpabstracts_addAbstract.php:26 ../html/wpabstracts_addReview.php:11 ../html/wpabstracts_editAbstract.php:23
+#: ../html/wpabstracts_editReview.php:13 ../html/wpabstracts_viewAbstract.php:9 ../inc/wpabstracts_functions.php:1082
+#: ../settings/settings.titles.php:261
+msgid "Abstract Information"
+msgstr "اطلاعات چکیده"
+
+#: ../html/wpabstracts_addAbstract.php:30 ../inc/wpabstracts_functions.php:1083 ../settings/settings.titles.php:266
+msgid "Enter Title"
+msgstr "عنوان را وارد کنید"
+
+#: ../html/wpabstracts_addAbstract.php:42 ../html/wpabstracts_editAbstract.php:40
+#, php-format
+msgid "Words Used: %s"
+msgstr "کلمات استفاده می شود: %s"
+
+#: ../html/wpabstracts_addAbstract.php:43 ../html/wpabstracts_editAbstract.php:41
+#, php-format
+msgid "Words Remaining: %s"
+msgstr "واژه های باقیمانده: %s"
+
+#: ../html/wpabstracts_addAbstract.php:51 ../html/wpabstracts_addReview.php:25 ../html/wpabstracts_editReview.php:26
+#: ../html/wpabstracts_viewAbstract.php:23 ../inc/wpabstracts_downloads.php:130 ../inc/wpabstracts_functions.php:1084
+#: ../inc/wpabstracts_functions.php:1285 ../settings/settings.titles.php:271 ../wpabstracts_pro.php:481
+msgid "Keywords"
+msgstr "لغات کلیدی"
+
+#: ../html/wpabstracts_addAbstract.php:52 ../html/wpabstracts_editAbstract.php:49 ../inc/wpabstracts_functions.php:1086
+#: ../settings/settings.titles.php:281
+msgid "Enter comma separated keywords"
+msgstr "کلماتی را وارد کنید. برای جدا کردن آن ها از ویرگول لاتین (,) استفاده کنید."
+
+#: ../html/wpabstracts_addAbstract.php:61 ../html/wpabstracts_addReview.php:93 ../html/wpabstracts_dashboard.php:166
+#: ../html/wpabstracts_dashboard.php:276 ../html/wpabstracts_editAbstract.php:237 ../html/wpabstracts_editReview.php:91
+#: ../inc/wpabstracts_functions.php:1087 ../settings/settings.titles.php:286 ../wpabstracts_attachments.php:35
+#: ../wpabstracts_pro.php:46 ../wpabstracts_pro.php:204 ../wpabstracts_pro.php:478
+msgid "Attachments"
+msgstr "ضمائم"
+
+#: ../html/wpabstracts_addAbstract.php:67 ../html/wpabstracts_editAbstract.php:245 ../inc/wpabstracts_functions.php:1089
+msgid "Use this form to upload your images, photos or tables."
+msgstr "از این برگه برای بارگذاری تصاویر، عکس ها و جداول استفاده کنید."
+
+#: ../html/wpabstracts_addAbstract.php:68 ../html/wpabstracts_addReview.php:132 ../html/wpabstracts_editAbstract.php:246
+#: ../html/wpabstracts_editReview.php:130 ../inc/wpabstracts_functions.php:1090 ../settings/settings.titles.php:301
+msgid "Supported formats"
+msgstr "قالبهای قابل قبول پرونده"
+
+#: ../html/wpabstracts_addAbstract.php:69 ../html/wpabstracts_addReview.php:133 ../html/wpabstracts_editAbstract.php:247
+#: ../html/wpabstracts_editReview.php:131 ../inc/wpabstracts_functions.php:1091 ../settings/settings.titles.php:306
+msgid "Maximum attachment size"
+msgstr "حداکثر اندازۀ پروندۀ ضمیمه"
+
+#: ../html/wpabstracts_addAbstract.php:89 ../inc/wpabstracts_functions.php:1092 ../settings/settings.general.php:243
+#: ../settings/settings.titles.php:311
+msgid "Terms and Conditions"
+msgstr "شرایط و ضوابط"
+
+#: ../html/wpabstracts_addAbstract.php:106 ../html/wpabstracts_addEvent.php:19 ../html/wpabstracts_editAbstract.php:108
+#: ../html/wpabstracts_editEvent.php:18 ../html/wpabstracts_editEvent.php:31 ../html/wpabstracts_viewAbstract.php:54
+#: ../inc/wpabstracts_functions.php:1093 ../settings/settings.titles.php:316
+msgid "Event Information"
+msgstr "اطلاعات رویداد"
+
+#: ../html/wpabstracts_addAbstract.php:114 ../html/wpabstracts_addAbstract.php:131 ../html/wpabstracts_addReview.php:227
+#: ../html/wpabstracts_editAbstract.php:115 ../html/wpabstracts_editReview.php:239 ../html/wpabstracts_viewAbstract.php:60
+#: ../inc/wpabstracts_classes.php:119 ../inc/wpabstracts_classes.php:248 ../inc/wpabstracts_functions.php:1094
+#: ../inc/wpabstracts_functions.php:1280 ../settings/settings.titles.php:321 ../wpabstracts_pro.php:471
+msgid "Event"
+msgstr "رویداد"
+
+#: ../html/wpabstracts_addAbstract.php:116 ../html/wpabstracts_editAbstract.php:117 ../inc/wpabstracts_functions.php:1095
+#: ../settings/settings.titles.php:326 ../wpabstracts_reports.php:121 ../wpabstracts_reports.php:125
+msgid "Select an Event"
+msgstr "یک رویداد را انتخاب کنید"
+
+#: ../html/wpabstracts_addAbstract.php:123 ../html/wpabstracts_addAbstract.php:136 ../html/wpabstracts_addReview.php:228
+#: ../html/wpabstracts_dashboard.php:273 ../html/wpabstracts_editAbstract.php:130 ../html/wpabstracts_editReview.php:240
+#: ../html/wpabstracts_viewAbstract.php:64 ../inc/wpabstracts_classes.php:120 ../inc/wpabstracts_classes.php:249
+#: ../inc/wpabstracts_downloads.php:129 ../inc/wpabstracts_downloads.php:177 ../inc/wpabstracts_functions.php:1096
+#: ../inc/wpabstracts_functions.php:1281 ../settings/settings.titles.php:331 ../wpabstracts_pro.php:472
+msgid "Topic"
+msgstr "موضوع"
+
+#: ../html/wpabstracts_addAbstract.php:125 ../html/wpabstracts_addAbstract.php:138 ../html/wpabstracts_editAbstract.php:132
+#: ../inc/wpabstracts_functions.php:1097 ../settings/settings.titles.php:336
+msgid "Select a Topic"
+msgstr "یک موضوع را انتخاب کنید"
+
+#: ../html/wpabstracts_addAbstract.php:154 ../html/wpabstracts_addReview.php:41 ../html/wpabstracts_editAbstract.php:151
+#: ../html/wpabstracts_editReview.php:41 ../html/wpabstracts_viewAbstract.php:80 ../inc/wpabstracts_functions.php:1098
+#: ../settings/settings.titles.php:341
+msgid "Author Information"
+msgstr "اطلاعات نویسنده"
+
+#: ../html/wpabstracts_addAbstract.php:163 ../html/wpabstracts_editAbstract.php:167 ../inc/wpabstracts_downloads.php:132
+#: ../inc/wpabstracts_functions.php:1099 ../settings/settings.titles.php:346
+msgid "Author Name"
+msgstr "نام نویسنده"
+
+#: ../html/wpabstracts_addAbstract.php:166 ../html/wpabstracts_editAbstract.php:170 ../inc/wpabstracts_downloads.php:133
+#: ../inc/wpabstracts_functions.php:1100 ../settings/settings.titles.php:351
+msgid "Author Email"
+msgstr "رایانامه نویسنده"
+
+#: ../html/wpabstracts_addAbstract.php:169 ../html/wpabstracts_editAbstract.php:173 ../inc/wpabstracts_downloads.php:134
+#: ../inc/wpabstracts_functions.php:1101 ../settings/settings.titles.php:356
+msgid "Author Affiliation"
+msgstr "محل کار نویسنده"
+
+#: ../html/wpabstracts_addAbstract.php:184 ../html/wpabstracts_addReview.php:68 ../html/wpabstracts_editAbstract.php:193
+#: ../html/wpabstracts_editReview.php:66 ../html/wpabstracts_viewAbstract.php:122 ../inc/wpabstracts_functions.php:1102
+#: ../settings/settings.titles.php:361
+msgid "Presenter Information"
+msgstr "اطلاعات ارائه دهنده"
+
+#: ../html/wpabstracts_addAbstract.php:190 ../html/wpabstracts_addReview.php:56 ../html/wpabstracts_addReview.php:83
+#: ../html/wpabstracts_editAbstract.php:207 ../html/wpabstracts_editReview.php:56 ../html/wpabstracts_editReview.php:81
+#: ../html/wpabstracts_viewAbstract.php:95 ../html/wpabstracts_viewAbstract.php:136
+msgid "Name"
+msgstr "نام"
+
+#: ../html/wpabstracts_addAbstract.php:195 ../html/wpabstracts_addReview.php:57 ../html/wpabstracts_addReview.php:84
+#: ../html/wpabstracts_editAbstract.php:212 ../html/wpabstracts_editReview.php:57 ../html/wpabstracts_editReview.php:82
+#: ../html/wpabstracts_viewAbstract.php:99 ../html/wpabstracts_viewAbstract.php:140 ../users/admin.formbuilder.php:178
+#: ../users/admin.formbuilder.php:179 ../users/register.html.php:190
+msgid "Email"
+msgstr "رایانامه"
+
+#: ../html/wpabstracts_addAbstract.php:200 ../html/wpabstracts_editAbstract.php:217 ../html/wpabstracts_viewAbstract.php:144
+#: ../inc/wpabstracts_downloads.php:137 ../inc/wpabstracts_functions.php:1105 ../settings/settings.titles.php:376
+msgid "Presenter Preference"
+msgstr "انتخاب روش ارائه توسط ارائه دهنده"
+
+#: ../html/wpabstracts_addAbstract.php:202
+msgid "Select Preference"
+msgstr "انتخاب اولویت"
+
+#: ../html/wpabstracts_addEmailTemplate.php:3
+msgid "New Template"
+msgstr "الگوی جدید"
+
+#: ../html/wpabstracts_addEmailTemplate.php:11 ../html/wpabstracts_editEmailTemplate.php:11
+msgid "Template Information"
+msgstr "اطلاعات کاور"
+
+#: ../html/wpabstracts_addEmailTemplate.php:15 ../html/wpabstracts_editEmailTemplate.php:15
+msgid "Template Name"
+msgstr "نام قالب"
+
+#: ../html/wpabstracts_addEmailTemplate.php:19 ../html/wpabstracts_editEmailTemplate.php:19 ../inc/wpabstracts_classes.php:675
+#: ../users/admin.settings.php:327
+msgid "From Name"
+msgstr "از نام"
+
+#: ../html/wpabstracts_addEmailTemplate.php:23 ../html/wpabstracts_editEmailTemplate.php:23 ../inc/wpabstracts_classes.php:676
+#: ../users/admin.settings.php:335
+msgid "From Email"
+msgstr "از ایمیل"
+
+#: ../html/wpabstracts_addEmailTemplate.php:27 ../html/wpabstracts_editEmailTemplate.php:27 ../users/admin.settings.php:343
+msgid "Email Subject"
+msgstr "موضوع ایمیل"
+
+#: ../html/wpabstracts_addEmailTemplate.php:31 ../html/wpabstracts_editEmailTemplate.php:31
+msgid "Email Body"
+msgstr "بدنه ایمیل"
+
+#: ../html/wpabstracts_addEmailTemplate.php:52 ../html/wpabstracts_editEmailTemplate.php:41
+msgid "Include Submission as Attachment"
+msgstr "شامل تسلیم به عنوان پیوست"
+
+#: ../html/wpabstracts_addEmailTemplate.php:61 ../html/wpabstracts_editEmailTemplate.php:50 ../users/admin.settings.php:360
+msgid "Available Shortcodes"
+msgstr "کد کوتاه موجود"
+
+#: ../html/wpabstracts_addEvent.php:10
+msgid "New Event"
+msgstr "رویداد جدید"
+
+#: ../html/wpabstracts_addEvent.php:22
+msgid "Event Title"
+msgstr "عنوان رویداد"
+
+#: ../html/wpabstracts_addEvent.php:32
+msgid "Event Details"
+msgstr "جزئیات رویداد"
+
+#: ../html/wpabstracts_addEvent.php:36 ../html/wpabstracts_dashboard.php:163 ../html/wpabstracts_dashboard.php:344
+#: ../html/wpabstracts_editEvent.php:35 ../inc/wpabstracts_classes.php:571 ../inc/wpabstracts_downloads.php:131
+#: ../inc/wpabstracts_downloads.php:185 ../wpabstracts_pro.php:475 ../wpabstracts_reports.php:14 ../wpabstracts_reports.php:35
+msgid "Status"
+msgstr "وضعیت"
+
+#: ../html/wpabstracts_addEvent.php:38 ../html/wpabstracts_editEvent.php:37
+msgid "Active"
+msgstr ""
+"این به سادگی به این معنی که مهلت برای رویداد خود را گذرانده است. اگر این رویداد به سادگی هنوز هم فعال است رفتن به تب رویدادها "
+"در حوزه مدیریت و گسترش تاريخ مهلت این رویداد."
+
+#: ../html/wpabstracts_addEvent.php:41 ../html/wpabstracts_editEvent.php:41 ../inc/wpabstracts_classes.php:572
+msgid "Host"
+msgstr "صاحب امتیاز"
+
+#: ../html/wpabstracts_addEvent.php:44 ../html/wpabstracts_editEvent.php:44
+msgid "Location"
+msgstr "مکان"
+
+#: ../html/wpabstracts_addEvent.php:47 ../html/wpabstracts_editEvent.php:47 ../inc/wpabstracts_classes.php:574
+msgid "Start Date"
+msgstr "زمان شروع"
+
+#: ../html/wpabstracts_addEvent.php:50 ../html/wpabstracts_editEvent.php:50 ../inc/wpabstracts_classes.php:575
+msgid "End Date"
+msgstr "زمان پایان"
+
+#: ../html/wpabstracts_addEvent.php:53 ../html/wpabstracts_editEvent.php:53 ../inc/wpabstracts_classes.php:576
+msgid "Deadline"
+msgstr "ضرب العجل"
+
+#: ../html/wpabstracts_addEvent.php:60 ../html/wpabstracts_editEvent.php:60 ../inc/wpabstracts_classes.php:573
+msgid "Topics"
+msgstr "موضوعات"
+
+#: ../html/wpabstracts_addEvent.php:67 ../html/wpabstracts_editEvent.php:70
+msgid "add topic"
+msgstr "افزودن موضوع"
+
+#: ../html/wpabstracts_addEvent.php:68 ../html/wpabstracts_editEvent.php:71
+msgid "delete topic"
+msgstr "حذف موضوع"
+
+#: ../html/wpabstracts_addReview.php:3 ../inc/wpabstracts_functions.php:1107 ../settings/settings.titles.php:392
+#: ../wpabstracts_pro.php:1085
+msgid "New Review"
+msgstr "نظر جدید"
+
+#: ../html/wpabstracts_addReview.php:14 ../html/wpabstracts_dashboard.php:159 ../html/wpabstracts_dashboard.php:269
+#: ../html/wpabstracts_dashboard.php:342 ../html/wpabstracts_editReview.php:16 ../html/wpabstracts_viewAbstract.php:13
+#: ../inc/wpabstracts_downloads.php:126
+msgid "Title"
+msgstr "عنوان"
+
+#: ../html/wpabstracts_addReview.php:16 ../html/wpabstracts_editReview.php:18 ../html/wpabstracts_viewAbstract.php:18
+#: ../inc/wpabstracts_downloads.php:127
+msgid "Description"
+msgstr "توضیحات"
+
+#: ../html/wpabstracts_addReview.php:32 ../html/wpabstracts_editReview.php:33 ../inc/wpabstracts_functions.php:1085
+#: ../settings/settings.titles.php:276
+msgid "No keywords found"
+msgstr "بدون کلمات کلیدی"
+
+#: ../html/wpabstracts_addReview.php:58 ../html/wpabstracts_editReview.php:58 ../html/wpabstracts_viewAbstract.php:103
+msgid "Affiliation"
+msgstr "وابستگی (افیلیشن)"
+
+#: ../html/wpabstracts_addReview.php:85 ../html/wpabstracts_dashboard.php:164 ../html/wpabstracts_dashboard.php:274
+#: ../html/wpabstracts_dashboard.php:347 ../html/wpabstracts_editReview.php:83 ../wpabstracts_pro.php:474
+msgid "Preference"
+msgstr "انتخاب روش ارائه"
+
+#: ../html/wpabstracts_addReview.php:97 ../html/wpabstracts_editReview.php:95 ../inc/wpabstracts_functions.php:1088
+#: ../settings/settings.titles.php:291
+msgid "No Attachments submitted"
+msgstr "هیچ پیوست ارسال شده"
+
+#: ../html/wpabstracts_addReview.php:111 ../html/wpabstracts_editReview.php:109 ../inc/wpabstracts_functions.php:1109
+#: ../settings/settings.titles.php:402 ../wpabstracts_pro.php:1083
+msgid "Add Comments"
+msgstr "افزودن دیدگاه"
+
+#: ../html/wpabstracts_addReview.php:125 ../html/wpabstracts_editReview.php:123
+msgid "Reviewer Attachment"
+msgstr "پیوست داوران"
+
+#: ../html/wpabstracts_addReview.php:131 ../html/wpabstracts_editReview.php:129 ../inc/wpabstracts_functions.php:1111
+#: ../wpabstracts_pro.php:1080
+msgid "Use this option to upload a document to this review."
+msgstr "از این گزینه برای آپلود یک سند در این بررسی استفاده کنید."
+
+#: ../html/wpabstracts_addReview.php:148 ../html/wpabstracts_dashboard.php:345 ../html/wpabstracts_editReview.php:160
+#: ../inc/wpabstracts_classes.php:75 ../inc/wpabstracts_classes.php:404 ../inc/wpabstracts_downloads.php:181
+msgid "Relevance"
+msgstr "ارتباط با موضوع"
+
+#: ../html/wpabstracts_addReview.php:153 ../html/wpabstracts_addReview.php:175 ../html/wpabstracts_editReview.php:165
+#: ../html/wpabstracts_editReview.php:187
+msgid "Excellent"
+msgstr "عالی"
+
+#: ../html/wpabstracts_addReview.php:156 ../html/wpabstracts_addReview.php:178 ../html/wpabstracts_editReview.php:168
+#: ../html/wpabstracts_editReview.php:190
+msgid "Good"
+msgstr "خوب"
+
+#: ../html/wpabstracts_addReview.php:159 ../html/wpabstracts_addReview.php:181 ../html/wpabstracts_editReview.php:171
+#: ../html/wpabstracts_editReview.php:193
+msgid "Average"
+msgstr "متوسط"
+
+#: ../html/wpabstracts_addReview.php:162 ../html/wpabstracts_addReview.php:184 ../html/wpabstracts_editReview.php:174
+#: ../html/wpabstracts_editReview.php:196
+msgid "Poor"
+msgstr "ضعیف"
+
+#: ../html/wpabstracts_addReview.php:170 ../html/wpabstracts_dashboard.php:346 ../html/wpabstracts_editReview.php:182
+#: ../inc/wpabstracts_classes.php:76 ../inc/wpabstracts_classes.php:405 ../inc/wpabstracts_downloads.php:182
+msgid "Quality"
+msgstr "کیفیت"
+
+#: ../html/wpabstracts_addReview.php:192 ../html/wpabstracts_editReview.php:204 ../inc/wpabstracts_functions.php:1112
+#: ../settings/settings.titles.php:417 ../wpabstracts_pro.php:1087
+msgid "Suggest Type"
+msgstr "نوع پیشنهاد"
+
+#: ../html/wpabstracts_addReview.php:196 ../html/wpabstracts_editReview.php:208
+msgid "Request"
+msgstr "درخواست"
+
+#: ../html/wpabstracts_addReview.php:208 ../html/wpabstracts_editReview.php:220 ../inc/wpabstracts_functions.php:1113
+#: ../settings/settings.titles.php:421 ../wpabstracts_pro.php:1088
+msgid "Suggest Status"
+msgstr "نشان می دهد وضعیت"
+
+#: ../html/wpabstracts_addReview.php:222 ../html/wpabstracts_editReview.php:234 ../inc/wpabstracts_functions.php:1114
+#: ../settings/settings.titles.php:425 ../wpabstracts_pro.php:1084
+msgid "Additional Information"
+msgstr "اطلاعات اضافی"
+
+#: ../html/wpabstracts_addReview.php:226 ../html/wpabstracts_editReview.php:238 ../inc/wpabstracts_functions.php:1115
+#: ../inc/wpabstracts_functions.php:1279 ../settings/settings.titles.php:429
+msgid "Submitted"
+msgstr "ثبت شده"
+
+#: ../html/wpabstracts_dashboard.php:21
+msgid ""
+"You're logged in as an administrator, please use WordPress admin area to manage abstracts or use another browser to view your "
+"dashboard as author or reviewer."
+msgstr ""
+"شما به عنوان مدیر وارد حساب, لطفا با استفاده از بخش مدیریت وردپرس برای مدیریت خلاصه مقالات و یا استفاده از مرورگر دیگری برای "
+"مشاهده صفحه خود را به عنوان نویسنده و یا داور."
+
+#: ../html/wpabstracts_dashboard.php:27
+msgid "You do not have permissions to manage this resource."
+msgstr "شما اجازه دسترسی به ویرایش این مشتری ندارید"
+
+#: ../html/wpabstracts_dashboard.php:89
+msgid "Your account is not setup to view this dashboard. Please contact your site admin."
+msgstr "حساب شما نصب برای مشاهده این صفحه نیست. تماس با مدیریت سایت"
+
+#: ../html/wpabstracts_dashboard.php:96 ../inc/wpabstracts_functions.php:1132 ../settings/settings.titles.php:194
+msgid "Welcome back"
+msgstr "خوش آمدید"
+
+#: ../html/wpabstracts_dashboard.php:106 ../inc/wpabstracts_functions.php:1131 ../settings/settings.titles.php:183
+#: ../settings/settings.titles.php:189 ../users/login.php:11
+msgid "Dashboard"
+msgstr "پیشخوان"
+
+#: ../html/wpabstracts_dashboard.php:126 ../inc/wpabstracts_functions.php:1134 ../settings/settings.titles.php:204
+msgid "My Profile"
+msgstr "پروفایل من"
+
+#: ../html/wpabstracts_dashboard.php:131 ../inc/wpabstracts_functions.php:1133 ../settings/settings.titles.php:199
+#: ../users/login.php:12
+msgid "Logout"
+msgstr "خروج"
+
+#: ../html/wpabstracts_dashboard.php:150 ../inc/wpabstracts_functions.php:1135 ../settings/settings.titles.php:209
+msgid "My Abstracts"
+msgstr "چکیده های من"
+
+#: ../html/wpabstracts_dashboard.php:158 ../html/wpabstracts_dashboard.php:268 ../html/wpabstracts_dashboard.php:341
+msgid "ID"
+msgstr "شناسه"
+
+#: ../html/wpabstracts_dashboard.php:161
+msgid "Review"
+msgstr "بازبینی"
+
+#: ../html/wpabstracts_dashboard.php:165 ../html/wpabstracts_dashboard.php:275
+msgid "Submit Date"
+msgstr "تاریخ ارسال"
+
+#: ../html/wpabstracts_dashboard.php:167 ../html/wpabstracts_dashboard.php:277 ../html/wpabstracts_dashboard.php:349
+msgid "Action"
+msgstr "اقدام"
+
+#: ../html/wpabstracts_dashboard.php:174
+msgid "You have NOT submitted any abstracts."
+msgstr "شما هیچ چکیده ای ثبت نکرده اید."
+
+#: ../html/wpabstracts_dashboard.php:197
+msgid "No reviews as yet."
+msgstr "هیچ نظری نوشته نشده"
+
+#: ../html/wpabstracts_dashboard.php:203 ../inc/wpabstracts_functions.php:1140 ../settings/settings.titles.php:234
+#: ../wpabstracts_pro.php:1097
+msgid "Document"
+msgstr "سند"
+
+#: ../html/wpabstracts_dashboard.php:261 ../inc/wpabstracts_functions.php:1136 ../settings/settings.titles.php:214
+msgid "Assigned Abstracts"
+msgstr "خلاصه شده"
+
+#: ../html/wpabstracts_dashboard.php:271 ../inc/wpabstracts_classes.php:250 ../wpabstracts_pro.php:473
+msgid "Author"
+msgstr "نویسنده"
+
+#: ../html/wpabstracts_dashboard.php:285
+msgid "You have NO newly assigned abstracts"
+msgstr "شما هیچ تازه اختصاص چکیده مقالات"
+
+#: ../html/wpabstracts_dashboard.php:308
+msgid "Add Review"
+msgstr "اضافه کردن نظر"
+
+#: ../html/wpabstracts_dashboard.php:334 ../inc/wpabstracts_functions.php:1137 ../settings/settings.titles.php:219
+msgid "My Reviews"
+msgstr "نظرات من"
+
+#: ../html/wpabstracts_dashboard.php:343 ../inc/wpabstracts_classes.php:121 ../inc/wpabstracts_classes.php:418
+#: ../inc/wpabstracts_downloads.php:183
+msgid "Comments"
+msgstr "نظرات"
+
+#: ../html/wpabstracts_dashboard.php:348
+msgid "Reviewed"
+msgstr "بررسی شده"
+
+#: ../html/wpabstracts_dashboard.php:357
+msgid "You have no COMPLETED reviews"
+msgstr "شما بدون بررسی پایان یافته است"
+
+#: ../html/wpabstracts_editAbstract.php:9
+msgid "You are not allowed to edit this submission at this time."
+msgstr "شما مجاز به ویرایش در این ارسال در این زمان."
+
+#: ../html/wpabstracts_editAbstract.php:15 ../inc/wpabstracts_functions.php:1081 ../settings/settings.titles.php:256
+msgid "Edit Abstract"
+msgstr "ویرایش چکیده"
+
+#: ../html/wpabstracts_editAbstract.php:27
+msgid "Enter title"
+msgstr "عنوان را وارد کنید"
+
+#: ../html/wpabstracts_editAbstract.php:57 ../html/wpabstracts_viewAbstract.php:31
+msgid "Manage Attachments"
+msgstr "مدیریت ضمائم"
+
+#: ../html/wpabstracts_editAbstract.php:62 ../html/wpabstracts_viewAbstract.php:36
+msgid "No Attachments uploaded"
+msgstr "هیچ ضمیمه ای بارگذاری نشده است"
+
+#: ../html/wpabstracts_editAbstract.php:68
+msgid "Remove"
+msgstr "حذف"
+
+#: ../html/wpabstracts_editAbstract.php:78
+msgid "Manage Ownership"
+msgstr "مدیریت مالکیت"
+
+#: ../html/wpabstracts_editAbstract.php:81
+msgid "Use this box to assign a new user / owner of this submission"
+msgstr "از این قاب برای اختصاص یک کاربر/مالک جدید به این مورد ثبت شده، استفاده کنید"
+
+#: ../html/wpabstracts_editAbstract.php:249
+msgid "You have used all your attachment slots allowed."
+msgstr "شما از تمامی ظرفیت بارگذاری ضمائم خود، استفاده کرده اید."
+
+#: ../html/wpabstracts_editEmailTemplate.php:3
+msgid "Edit Template"
+msgstr "ویرایش قالب اسلاید"
+
+#: ../html/wpabstracts_editEvent.php:10
+msgid "Edit Event"
+msgstr "ویرایش رویداد"
+
+#: ../html/wpabstracts_editEvent.php:21
+msgid "Event title"
+msgstr "عنوان رویداد"
+
+#: ../html/wpabstracts_editEvent.php:38
+msgid "Archived"
+msgstr "آرشیو شده"
+
+#: ../html/wpabstracts_editReview.php:3 ../inc/wpabstracts_functions.php:1108 ../settings/settings.titles.php:397
+#: ../wpabstracts_pro.php:1086
+msgid "Edit Review"
+msgstr "ویرایش نظر"
+
+#: ../html/wpabstracts_viewAbstract.php:3
+msgid "View Abstract"
+msgstr "مشاهده چکیده"
+
+#: ../inc/wpabstracts_classes.php:50 ../inc/wpabstracts_classes.php:376
+msgid "User deleted"
+msgstr "کاربر حذف شد"
+
+#: ../inc/wpabstracts_classes.php:53 ../inc/wpabstracts_classes.php:379
+msgid "Reviewed by"
+msgstr "بررسی شده توسط"
+
+#: ../inc/wpabstracts_classes.php:61 ../inc/wpabstracts_classes.php:142
+msgid "Hide"
+msgstr "مخفی"
+
+#: ../inc/wpabstracts_classes.php:66 ../inc/wpabstracts_classes.php:141
+msgid "Show"
+msgstr "نمایش"
+
+#: ../inc/wpabstracts_classes.php:110
+msgid ""
+"If Sync Review Status is not enabled then the suggested status here is only a recommendation, administrators have the final "
+"decision to accept or reject submissions."
+msgstr ""
+"اگر بررسی وضعیت همگام سازی فعال نیست پس وضعیت پیشنهاد شده در اینجا تنها توصیه مدیران باید تصمیم نهایی را به قبول و یا رد مطالب "
+"ارسالی."
+
+#: ../inc/wpabstracts_classes.php:118 ../inc/wpabstracts_classes.php:247 ../inc/wpabstracts_classes.php:416
+#: ../inc/wpabstracts_downloads.php:175
+msgid "Abstract Title"
+msgstr "عنوان چکیده"
+
+#: ../inc/wpabstracts_classes.php:122
+msgid "Visible"
+msgstr "قابل رویت"
+
+#: ../inc/wpabstracts_classes.php:123 ../inc/wpabstracts_classes.php:419
+msgid "Criteria"
+msgstr "شاخص"
+
+#: ../inc/wpabstracts_classes.php:124 ../inc/wpabstracts_classes.php:420
+msgid "Suggested Type"
+msgstr "پیشنهاد شده"
+
+#: ../inc/wpabstracts_classes.php:125 ../inc/wpabstracts_classes.php:421
+msgid "Suggested Status"
+msgstr "وضعیت پیشنهادی"
+
+#: ../inc/wpabstracts_classes.php:126 ../inc/wpabstracts_classes.php:422
+msgid "Date Reviewed"
+msgstr "بررسی شده"
+
+#: ../inc/wpabstracts_classes.php:214 ../inc/wpabstracts_classes.php:253 ../inc/wpabstracts_classes.php:269
+msgid "Download"
+msgstr "دریافت"
+
+#: ../inc/wpabstracts_classes.php:246
+msgid "Attachment Name"
+msgstr "نام پیوست"
+
+#: ../inc/wpabstracts_classes.php:251
+msgid "File Type"
+msgstr "نوع پرونده"
+
+#: ../inc/wpabstracts_classes.php:252
+msgid "File Size"
+msgstr "اندازۀ پرونده"
+
+#: ../inc/wpabstracts_classes.php:292 ../users/admin.classes.php:150
+msgid "Search"
+msgstr "جستجو"
+
+#: ../inc/wpabstracts_classes.php:299
+msgid "Download All"
+msgstr "دانلود همه "
+
+#: ../inc/wpabstracts_classes.php:348
+msgid "review"
+msgstr "بازبینی"
+
+#: ../inc/wpabstracts_classes.php:349
+msgid "reviews"
+msgstr "بازبینی ها"
+
+#: ../inc/wpabstracts_classes.php:417
+msgid "Event / Topic"
+msgstr "رویداد / موضوع"
+
+#: ../inc/wpabstracts_classes.php:518 ../inc/wpabstracts_classes.php:589
+msgid "Archive"
+msgstr "آرشیو"
+
+#: ../inc/wpabstracts_classes.php:521 ../inc/wpabstracts_classes.php:590
+msgid "Unarchive"
+msgstr "خروج از بایگانی"
+
+#: ../inc/wpabstracts_classes.php:533
+msgid "Copy"
+msgstr "رونوشت"
+
+#: ../inc/wpabstracts_classes.php:569 ../inc/wpabstracts_downloads.php:128 ../inc/wpabstracts_downloads.php:176
+msgid "Event Name"
+msgstr "نام رویداد"
+
+#: ../inc/wpabstracts_classes.php:570
+msgid "Shortcode"
+msgstr "کد کوتاه"
+
+#: ../inc/wpabstracts_classes.php:577 ../settings/settings.titles.php:245
+msgid "Submissions"
+msgstr "موارد ثبت شده"
+
+#: ../inc/wpabstracts_classes.php:673
+msgid "Email Template"
+msgstr "قالب ایمیل"
+
+#: ../inc/wpabstracts_classes.php:674
+msgid "Subject"
+msgstr "موضوع"
+
+#: ../inc/wpabstracts_downloads.php:125 ../inc/wpabstracts_downloads.php:174 ../inc/wpabstracts_downloads.php:375
+#: ../inc/wpabstracts_functions.php:1278
+msgid "Abstract ID"
+msgstr "آی دی مقاله"
+
+#: ../inc/wpabstracts_downloads.php:135 ../inc/wpabstracts_functions.php:1103 ../settings/settings.titles.php:366
+msgid "Presenter Name"
+msgstr "نام مجری"
+
+#: ../inc/wpabstracts_downloads.php:136 ../inc/wpabstracts_functions.php:1104 ../settings/settings.titles.php:371
+msgid "Presenter Email"
+msgstr "ارائه دهنده ایمیل"
+
+#: ../inc/wpabstracts_downloads.php:138 ../inc/wpabstracts_downloads.php:178
+msgid "User ID"
+msgstr "شناسه کاربر"
+
+#: ../inc/wpabstracts_downloads.php:139
+msgid "User"
+msgstr "کاربر"
+
+#: ../inc/wpabstracts_downloads.php:140 ../inc/wpabstracts_downloads.php:180
+msgid "User Email"
+msgstr "ایمیل کاربر "
+
+#: ../inc/wpabstracts_downloads.php:141 ../inc/wpabstracts_downloads.php:186
+msgid "Reviewer ID"
+msgstr "بازبین"
+
+#: ../inc/wpabstracts_downloads.php:142 ../wpabstracts_pro.php:476
+msgid "Reviewers"
+msgstr "* بازبین ها مجاز به ثبت چکیده ها هستند"
+
+#: ../inc/wpabstracts_downloads.php:143 ../wpabstracts_pro.php:477
+msgid "Date Submitted"
+msgstr "تاریخ ارسال"
+
+#: ../inc/wpabstracts_downloads.php:166
+msgid "All-Abstracts"
+msgstr "همه چکیده ها"
+
+#: ../inc/wpabstracts_downloads.php:173
+msgid "Review ID"
+msgstr "شناسه نقد و بررسی"
+
+#: ../inc/wpabstracts_downloads.php:179
+msgid "User Name"
+msgstr "نام کاربری"
+
+#: ../inc/wpabstracts_downloads.php:184
+msgid "Recommendation"
+msgstr "توصیه"
+
+#: ../inc/wpabstracts_downloads.php:187
+msgid "Reviewer Name"
+msgstr "نام نظردهنده"
+
+#: ../inc/wpabstracts_downloads.php:188
+msgid "Reviewer Email"
+msgstr "بررسی ایمیل"
+
+#: ../inc/wpabstracts_downloads.php:189
+msgid "Review Date"
+msgstr "تاریخ دیدگاه"
+
+#: ../inc/wpabstracts_downloads.php:212
+msgid "All-Reviews"
+msgstr "همه نظرات"
+
+#: ../inc/wpabstracts_downloads.php:232
+msgid "All Users"
+msgstr "همه کاربران"
+
+#: ../inc/wpabstracts_downloads.php:375
+msgid "Auto-Generated"
+msgstr "تولید خودکار"
+
+#: ../inc/wpabstracts_emailer.php:109 ../users/register.php:100
+msgid "From:"
+msgstr "از:"
+
+#: ../inc/wpabstracts_functions.php:421
+msgid "There are no active events. Please ensure an event exists with a deadline later than yesterday."
+msgstr "رویدادی وجود ندارد. لطفا مطمئن شوید که یک رویداد با ضرب العجلی که به اتمام نرسیده باشد، وجود داشته باشد."
+
+#: ../inc/wpabstracts_functions.php:639 ../inc/wpabstracts_functions.php:1125 ../settings/settings.titles.php:151
+msgid "Don't have an account? "
+msgstr "شما حساب کاربری دارید؟ "
+
+#: ../inc/wpabstracts_functions.php:641
+msgid "Sign Up"
+msgstr "ثبت نام"
+
+#: ../inc/wpabstracts_functions.php:643 ../inc/wpabstracts_functions.php:1124 ../settings/settings.titles.php:146
+msgid "Create an Account"
+msgstr "ایجاد یک حساب کاربری"
+
+#: ../inc/wpabstracts_functions.php:651
+msgid "Forgot Password? "
+msgstr "رمز عبور جدید؟"
+
+#: ../inc/wpabstracts_functions.php:653 ../inc/wpabstracts_functions.php:655 ../inc/wpabstracts_functions.php:1123
+#: ../settings/settings.titles.php:141
+msgid "Reset"
+msgstr "تنظیم مجدد"
+
+#: ../inc/wpabstracts_functions.php:681 ../inc/wpabstracts_functions.php:684
+msgid "Invalid username or password. Please try again."
+msgstr "نام کاربری یا رمز عبور نامعتبر. لطفا دوباره امتحان کنید."
+
+#: ../inc/wpabstracts_functions.php:687 ../inc/wpabstracts_functions.php:901
+msgid "Invalid security code. Please try again."
+msgstr "کد امنیتی نامعتبر. لطفا دوباره امتحان کنید."
+
+#: ../inc/wpabstracts_functions.php:701
+msgid "Your account has not been activated. Please check your Inbox (including spam folder) for your activation link."
+msgstr "حساب شما فعال شده است. لطفا با صندوق (از جمله پوشه اسپم) لینک فعال سازی خود را بررسی کنید."
+
+#: ../inc/wpabstracts_functions.php:705 ../inc/wpabstracts_functions.php:711
+msgid "Sign in successful."
+msgstr "موفق وارد شوید."
+
+#: ../inc/wpabstracts_functions.php:726 ../inc/wpabstracts_functions.php:778
+msgid "Hmm, your nonce is not valid."
+msgstr "Hmm، شما فعلا معتبر نیست."
+
+#: ../inc/wpabstracts_functions.php:741
+msgid "There is no user registered with that username or email address."
+msgstr "کاربر ثبت نام شده ای با این ایمیل وجود ندارد."
+
+#: ../inc/wpabstracts_functions.php:747
+msgid "Hi,"
+msgstr "سلام،"
+
+#: ../inc/wpabstracts_functions.php:748
+msgid "Someone requested a password reset for "
+msgstr "کسی درخواست رمز عبور برای تنظیم مجدد"
+
+#: ../inc/wpabstracts_functions.php:749
+msgid "If this was a mistake, simply ignore this email and nothing will happen."
+msgstr "اگر این یک اشتباه بود است، این ایمیل را نادیده بگیرید و هیچ اتفاقی نخواهد افتاد."
+
+#: ../inc/wpabstracts_functions.php:750
+msgid "To reset your password, visit the following link:"
+msgstr "برای بازیابی رمزعبورتان ، لینک زیر را باز کنید:"
+
+#: ../inc/wpabstracts_functions.php:753
+msgid "Password Reset for "
+msgstr "فرمت کردن پسورد"
+
+#: ../inc/wpabstracts_functions.php:759
+msgid "Your request was successful. Please check your e-mail for more instructions."
+msgstr "درخواست شما با موفقیت انجام شد. لطفا ایمیل خود را برای دستورالعمل های بیشتر."
+
+#: ../inc/wpabstracts_functions.php:762
+msgid "The e-mail could not be sent. Please contact support."
+msgstr "پست فرستاده نشد. لطفا با پشتیبانی تماس بگیرید."
+
+#: ../inc/wpabstracts_functions.php:790
+msgid "Password is required field."
+msgstr "رمز عبور اجباری است."
+
+#: ../inc/wpabstracts_functions.php:797
+msgid "The passwords do not match."
+msgstr "رمزعبور مطابقت ندارد"
+
+#: ../inc/wpabstracts_functions.php:806
+msgid "Invalid password reset key. Please request a new password reset."
+msgstr "کلید بازنشانی رمز عبور نامعتبر است لطفا درخواست بازنشانی رمز عبور جدید را درخواست کنید."
+
+#: ../inc/wpabstracts_functions.php:810
+msgid "Your password has been reset."
+msgstr "رمز عبور شما بازیابی شد."
+
+#: ../inc/wpabstracts_functions.php:876 ../inc/wpabstracts_functions.php:1126 ../settings/settings.titles.php:156
+msgid "Enter security code (required)"
+msgstr "ورود کد امنیتی (مورد نیاز)"
+
+#: ../inc/wpabstracts_functions.php:890
+msgid ""
+"PHP GD library is NOT installed on your web server. Please install GD on your server or disable captcha from your settings."
+msgstr ""
+"کتابخانه پی اچ پی GD بر روی وب سرور شما نصب نشده است. لطفاً GD را روی سرور خود نصب کنید یا captcha را از تنظیمات خود غیرفعال "
+"کنید."
+
+#: ../inc/wpabstracts_functions.php:913
+msgid "<strong>ERROR</strong>: Please enter a valid security code."
+msgstr "خطا <strong>:</strong>لطفا یک کد امنیتی معتبر وارد کنید."
+
+#: ../inc/wpabstracts_functions.php:990
+msgid "We could not perform your WP Abstracts license validation at this time."
+msgstr "ما خود اعتبار مجوز وپ چکیده مقاله ها در این زمان می تواند انجام."
+
+#: ../inc/wpabstracts_functions.php:1010 ../wpabstracts_abstracts.php:19 ../wpabstracts_emails.php:46
+#: ../wpabstracts_settings.php:39 ../wpabstracts_users.php:19
+msgid "Sorry, the tab you selected does not exist."
+msgstr "با عرض پوزش، برگه انتخاب کرده اید وجود ندارد."
+
+#: ../inc/wpabstracts_functions.php:1044
+msgid "User Id "
+msgstr "شناسه کاربر"
+
+#: ../inc/wpabstracts_functions.php:1053
+msgid "Successfully deleted user ID "
+msgstr "شناسه کاربر با موفقیت حذف شده"
+
+#: ../inc/wpabstracts_functions.php:1110 ../settings/settings.titles.php:407 ../wpabstracts_pro.php:1079
+msgid "Review Attachments"
+msgstr "پیوست های بازبینی"
+
+#: ../inc/wpabstracts_functions.php:1117 ../settings/settings.titles.php:111 ../users/login.php:20
+msgid "Please sign in for your conference participation"
+msgstr "لطفا ثبت خود شرکت در کنفرانس"
+
+#: ../inc/wpabstracts_functions.php:1118 ../settings/settings.titles.php:116 ../users/login.php:25
+msgid "Sign In"
+msgstr "ورود"
+
+#: ../inc/wpabstracts_functions.php:1119 ../settings/settings.titles.php:105 ../settings/settings.titles.php:121
+#: ../users/login.php:56
+msgid "Login"
+msgstr "ورود"
+
+#: ../inc/wpabstracts_functions.php:1120 ../settings/settings.titles.php:126 ../users/login.php:62
+msgid "Remember Me"
+msgstr "مرا به خاطر داشته باش"
+
+#: ../inc/wpabstracts_functions.php:1121 ../settings/settings.titles.php:131 ../users/lostpassword.php:6
+msgid "Forgot Password"
+msgstr "فراموشی رمز عبور"
+
+#: ../inc/wpabstracts_functions.php:1122 ../settings/settings.titles.php:136 ../users/lostpassword.php:24
+msgid "Get New Password"
+msgstr "دریافت رمز عبور جدید"
+
+#: ../inc/wpabstracts_functions.php:1128 ../settings/settings.titles.php:171 ../users/admin.formbuilder.php:174
+#: ../users/register.html.php:185 ../wpabstracts_pro.php:1081
+msgid "Login Information"
+msgstr "اطلاعات ورود"
+
+#: ../inc/wpabstracts_functions.php:1129 ../settings/settings.titles.php:175 ../users/admin.formbuilder.php:197
+#: ../users/register.html.php:212 ../wpabstracts_pro.php:1082
+msgid "Account Information"
+msgstr "اطلاعات حساب کاربری"
+
+#: ../inc/wpabstracts_functions.php:1138 ../settings/settings.titles.php:224 ../users/admin.classes.php:30
+#: ../users/profile.php:39
+msgid "Edit Profile"
+msgstr "ویرایش پروفایل"
+
+#: ../inc/wpabstracts_functions.php:1139 ../settings/settings.titles.php:229 ../users/profile.php:47
+msgid "Profile Information"
+msgstr "اطلاعات پروفایل"
+
+#: ../settings/settings.general.php:40
+msgid "Awesome! Your settings updated."
+msgstr "محشره! تنظیمات خود را بروز رسانی."
+
+#: ../settings/settings.general.php:47 ../users/admin.settings.php:94
+msgid "General Settings"
+msgstr "تنظیمات عمومی"
+
+#: ../settings/settings.general.php:53
+msgid "Reviewers Configuration"
+msgstr "پیکربندی بازبین ها"
+
+#: ../settings/settings.general.php:59
+msgid "Reviewers can Submit Abstracts"
+msgstr "* بازبین ها مجاز به ثبت چکیده ها هستند"
+
+#: ../settings/settings.general.php:60
+msgid "Enable this to allow reviewers to submit new abstracts."
+msgstr "این گزینه را جهت دادن اجازۀ ثبت چکیده های جدید به بازبین ها فعال کنید."
+
+#: ../settings/settings.general.php:70
+msgid "Reviewers can Edit Abstracts"
+msgstr "* بازبین ها مجاز به ویرایش چکیده ها هستند"
+
+#: ../settings/settings.general.php:71
+msgid "Enable this to allow reviewers to edit abstracts they are assigned."
+msgstr "این گزینه را جهت دادن اجازۀ ویرایش چکیده های اختصاص یافته به بازبین ها فعال کنید."
+
+#: ../settings/settings.general.php:81
+msgid "Reviewers can Change Ownership"
+msgstr "داوران می تواند تغییر مالکیت"
+
+#: ../settings/settings.general.php:82
+msgid ""
+"Enable this to allow reviewers to change ownership (the author) of a submission (useful if a reviewer submits an abstract on "
+"behalf of an author but the option above to enable reviewers to edit abstracts must be enabled for this to work)."
+msgstr ""
+"برای اینکه بازبین ها امکان تغییر مالکیت (نویسنده) یک مورد ثبت شده را داشته باشند، این گزینه را فعال کنید. این گزینه وقتی "
+"کارایی دارد که از طرف یک نویسنده، موردی امکان ثبت داشته باشد. لازم است گزینۀ «بازبین ها مجاز به ویرایش چکیده ها هستند» فعال "
+"باشد تا این گزینه کار کند."
+
+#: ../settings/settings.general.php:92
+msgid "Enable Blind Reviews"
+msgstr "* بازبینی گمنام"
+
+#: ../settings/settings.general.php:93
+msgid "Enable this to hide author information from reviewers (does not apply to admin)."
+msgstr "این گزینه را برای مخفی سازی اطلاعات نویسنده از بازبین ها (شامل مدیر نمی شود) فعال کنید."
+
+#: ../settings/settings.general.php:103
+msgid "Show Reviewer Comments"
+msgstr "* نمایش نظرات بازبین"
+
+#: ../settings/settings.general.php:104
+msgid "Disable this to hide reviewer comments from Authors."
+msgstr "این گزینه را جهت مخفی کردن نظرات بازبین ها از نویسنده ها غیرفعال کنید."
+
+#: ../settings/settings.general.php:114
+msgid "Default Review Visibility"
+msgstr "دید نقد و بررسی پیش فرض"
+
+#: ../settings/settings.general.php:115
+msgid "Should reviews be visible to authors by default?"
+msgstr "آیا بررسی ها باید به طور پیش فرض برای نویسندگان قابل مشاهده باشد؟"
+
+#: ../settings/settings.general.php:125
+msgid "Allow Review Attachments"
+msgstr "اجازه دهید پیوست های بازبینی"
+
+#: ../settings/settings.general.php:126
+msgid "Enable reviewers to upload an attachment on accompany a review."
+msgstr "فعال کردن داوران برای آپلود پیوست در همراهی یک بررسی."
+
+#: ../settings/settings.general.php:141
+msgid "Frontend Dashboard Configuration"
+msgstr "پیکربندی پیشخوان بیرونی"
+
+#: ../settings/settings.general.php:147
+msgid "Enable WP Abstracts Registration"
+msgstr "وپ خلاصه مقالات ثبت نام"
+
+#: ../settings/settings.general.php:148
+msgid "Use WP Abstracts User registration module instead of WordPress's default registration."
+msgstr "با استفاده از وپ چکیده مقاله کاربر ثبت نام ماژول به جای ثبت نام پیش فرض وردپرس است."
+
+#: ../settings/settings.general.php:158
+msgid "Allow WordPress Admin Access"
+msgstr "اجازه دسترسی Admin وردپرس"
+
+#: ../settings/settings.general.php:159
+msgid "Disables users from accessing Wordpress Admin dashboard. Enable this if you want to allow frontend access only."
+msgstr "جلوگیری از دسترسی کاربران به پیشخوان مدیریتی وردپرس. برای محدود کردن دسترسی به پیشخوان بیرونی این گزینه را فعال کنید."
+
+#: ../settings/settings.general.php:169
+msgid "Show WordPress Admin Bar"
+msgstr "نوار مدیریت وردپرس"
+
+#: ../settings/settings.general.php:170
+msgid "Disables users from seeing the Wordpress Admin Bar after sign in."
+msgstr "عدم نمایش نوار مدیریت وردپرس به کاربران پس از ورود به سامانه."
+
+#: ../settings/settings.general.php:180
+msgid "Enable Captcha (recommended)"
+msgstr "فعال کردن Captcha (توصیه می شود)"
+
+#: ../settings/settings.general.php:181
+msgid "Enable this to require users to enter a captcha code at login."
+msgstr "فعال کردن این نیاز کاربران را به وارد کردن کد امنیتی را در ورود به."
+
+#: ../settings/settings.general.php:191
+msgid "Redirect on Login"
+msgstr "تغییر مسیر در ورود به سیستم"
+
+#: ../settings/settings.general.php:192
+msgid "Enable this to redirect users to the dashboard on login from anywhere."
+msgstr ""
+"این را فعال کنید تا کاربران را از طریق هر جایی به کاربران خود هدایت کنید.\n"
+"‬"
+
+#: ../settings/settings.general.php:206
+msgid "Captcha Secret"
+msgstr "کد امنیتی کپچا"
+
+#: ../settings/settings.general.php:210
+msgid "Refresh Captcha Secret (Optional)"
+msgstr "تازه کردن Captcha راز (اختیاری)"
+
+#: ../settings/settings.general.php:211
+msgid "As as entra layer of security reset your captcha secret."
+msgstr "به عنوان به عنوان entra لایه امنیتی ریست راز captcha."
+
+#: ../settings/settings.general.php:226
+msgid "Author Instructions"
+msgstr "تذکرات به نویسنده"
+
+#: ../settings/settings.general.php:227
+msgid "Enter specific instructions for authors to follow for submissions"
+msgstr "تذکرات اختصاصی برای نویسنده ها که برای ثبت مقالات باید در نظر داشته باشند را وارد کنید"
+
+#: ../settings/settings.general.php:244
+msgid "Enter your terms and contitions for authors to agree."
+msgstr "شرایط و ضوابطی که نویسندگان باید آن را قبول کنند وارد کنید"
+
+#: ../settings/settings.titles.php:97
+msgid "Custom Titles"
+msgstr "عناوین دلخواه"
+
+#: ../settings/settings.titles.php:98
+msgid "Reset Defaults"
+msgstr "بازگردانی به پیشفرض"
+
+#: ../settings/settings.titles.php:165 ../users/admin.formbuilder.php:205 ../users/register.html.php:227
+msgid "Register"
+msgstr "ثبت نام"
+
+#: ../settings/settings.titles.php:296
+msgid "Use this form to upload your images, photos or tables"
+msgstr "از این برگه برای بارگذاری تصاویر، عکس ها و جداول استفاده کنید."
+
+#: ../settings/settings.titles.php:412
+msgid "Use this option to upload a document to this review"
+msgstr "استفاده از این گزینه برای آپلود یک سند در این بررسی"
+
+#: ../users/activate.php:7
+msgid "Oops, you are already logged in. Activation is only for new accounts."
+msgstr "اوه، شما قبلا وارد سیستم شده اید. فعال سازی فقط برای حساب های جدید است."
+
+#: ../users/activate.php:12
+msgid "Oops, you're got an invalid link. Please check your email and copy and paste the full link."
+msgstr "نه، شما کردم لینک غیر معتبر. لطفا چک کردن ایمیل و کپی و چسباندن لینک کامل."
+
+#: ../users/activate.php:24
+msgid "Your account was activated already. Please login."
+msgstr "حساب شما در حال حاضر فعال است. لطفا وارد شوید."
+
+#: ../users/activate.php:31
+msgid "Your account was successfully activated."
+msgstr "حساب کاربری با موفقیت فعال شد"
+
+#: ../users/activate.php:34
+msgid "Oops, your activation key do not match our records for you. Please try again or contact support."
+msgstr "اوه, کلید فعال سازی نیستند اطلاعات ما برای شما. لطفا دوباره سعی کنید یا با پشتیبانی تماس بگیرید."
+
+#: ../users/activate.php:38
+msgid "Oops, we could not find this user. Please try again or contact support"
+msgstr "اوه، ما این کاربر پیدا کند. لطفا دوباره سعی کنید یا با پشتیبانی تماس بگیرید"
+
+#: ../users/admin.classes.php:31 ../users/admin.classes.php:111
+msgid "Activate"
+msgstr "فعال سازی"
+
+#: ../users/admin.classes.php:32
+msgid "Change Password"
+msgstr "تغییر رمز عبور"
+
+#: ../users/admin.classes.php:70
+msgid "--not entered--"
+msgstr "--وارد نشده است--"
+
+#: ../users/admin.classes.php:123
+msgid "users were "
+msgstr "کاربران"
+
+#: ../users/admin.classes.php:123
+msgid "user was "
+msgstr "کاربر بود"
+
+#: ../users/admin.classes.php:124
+msgid " successfully activated."
+msgstr "با موفقیت فعال شد"
+
+#: ../users/admin.classes.php:133
+msgid " successfully deleted."
+msgstr "موفقیت پاک شد."
+
+#: ../users/admin.classes.php:149 ../users/login.php:38 ../users/lostpassword.php:20
+msgid "Username or Email"
+msgstr "نام کاربری یا ایمیل"
+
+#: ../users/admin.classes.php:157
+msgid "Download CSV"
+msgstr "دانلود با فرمت اکسل"
+
+#: ../users/admin.classes.php:176
+msgid "You have WordPress users with no WP Abstracts profiles, do you want to sync users? "
+msgstr "شما کاربران وردپرس با پروفیل چکیده مقاله وپ هیچ، می خواهید همگام سازی کاربران است؟"
+
+#: ../users/admin.classes.php:177
+msgid "Sync Users"
+msgstr "همگام سازی کاربران"
+
+#: ../users/admin.formbuilder.php:7
+msgid "Your registration from was successfully restored."
+msgstr "ثبت نام خود را از با موفقیت بازیابی شد."
+
+#: ../users/admin.formbuilder.php:166
+msgid "Drag input elements from the left to create your user registration form"
+msgstr "کشیدن عناصر ورودی از سمت چپ برای ایجاد فرم ثبت نام کاربر"
+
+#: ../users/admin.formbuilder.php:166
+msgid "Restore Form"
+msgstr "بازگردانی"
+
+#: ../users/admin.formbuilder.php:180 ../users/register.html.php:193
+msgid "Please enter a valid email address."
+msgstr "لطفا یک آدرس ایمیل معتبر وارد کنید."
+
+#: ../users/admin.formbuilder.php:183 ../users/admin.formbuilder.php:184 ../users/login.php:43 ../users/register.html.php:196
+msgid "Password"
+msgstr "رمز عبور"
+
+#: ../users/admin.formbuilder.php:185 ../users/register.html.php:199
+msgid "Please enter a password."
+msgstr "لطفا یک رمز عبور وارد کنید"
+
+#: ../users/admin.formbuilder.php:188 ../users/admin.formbuilder.php:189 ../users/register.html.php:202
+msgid "Repeat Password"
+msgstr "تکرار رمز عبور"
+
+#: ../users/admin.formbuilder.php:190 ../users/register.html.php:205
+msgid "Please repeat your password."
+msgstr "لطفاً رمز عبور را دوباره وارد نمائید."
+
+#: ../users/admin.formbuilder.php:197
+msgid "Form Preview"
+msgstr "پیش نمایش فرم"
+
+#: ../users/admin.settings.php:86
+msgid "Sync User Meta"
+msgstr "کاربر متا"
+
+#: ../users/admin.settings.php:100
+msgid "Show Registration Thank You"
+msgstr "ثبت نام از شما به خاطر نشان دادن"
+
+#: ../users/admin.settings.php:101
+msgid "Set whether to show a thank you message or not after registration."
+msgstr "مجموعه ای در مورد اینکه آیا پیام تشکر یا نه پس از ثبت نام نشان می دهد."
+
+#: ../users/admin.settings.php:111
+msgid "Send Registration Confirmation"
+msgstr "ارسال تاییدیه ثبت نام"
+
+#: ../users/admin.settings.php:112
+msgid "Set whether to send a confirmation email to the user with next steps or not after registration"
+msgstr "در مورد اینکه آیا ارسال یک ایمیل تایید برای کاربر با مراحل بعدی و یا بعد از ثبت نام مجموعه"
+
+#: ../users/admin.settings.php:122
+msgid "Activate Users Automatically"
+msgstr "فعال کردن کاربران به صورت خودکار"
+
+#: ../users/admin.settings.php:123
+msgid "Set whether to activate users on registration or not (not recommended)."
+msgstr "مجموعه ای در مورد اینکه آیا کاربران در ثبت نام فعال کردن یا نه (توصیه نمی شود)."
+
+#: ../users/admin.settings.php:133
+msgid "Ignore User Activation at Login"
+msgstr "نادیده گرفتن فعال سازی کاربر در ورود"
+
+#: ../users/admin.settings.php:134
+msgid "Whether or not to check for user activation at login. Used mainly when users are registered outside of WP Abstracts."
+msgstr ""
+"آیا یا نه برای فعال سازی کاربر در ورود به سیستم بررسی کنید. استفاده می شود عمدتا زمانی که کاربران در خارج از چکیده WP ثبت نام."
+
+#: ../users/admin.settings.php:146
+msgid "Sync WP Fields"
+msgstr "همگام سازی زمینه وپ"
+
+#: ../users/admin.settings.php:147
+msgid "Set whether to sync WP Abstracts Profile fields to Wordpress meta data."
+msgstr "تعیین که آیا زمینه های سنکرون وپ در خلاصه مقالات نمایه به وردپرس داده."
+
+#: ../users/admin.settings.php:160
+msgid "Display Name"
+msgstr "نام نمایشی"
+
+#: ../users/admin.settings.php:161
+msgid "Select the field or fields you would like to use as display name for all users."
+msgstr "زمینه یا زمینه های که می خواهید استفاده کنید به عنوان نام برای تمام کاربران نمایش را انتخاب کنید."
+
+#: ../users/admin.settings.php:172
+msgid "First & Last Name"
+msgstr "نام و نام خانوادگی"
+
+#: ../users/admin.settings.php:173
+msgid "Last & First Name"
+msgstr "Last & First Name"
+
+#: ../users/admin.settings.php:184
+msgid "Password Rules"
+msgstr "قوانین رمز عبور"
+
+#: ../users/admin.settings.php:190
+msgid "Minimum Password Length"
+msgstr "حداقل طول کلمه عبور"
+
+#: ../users/admin.settings.php:191
+msgid "Enter the minimum amount of character for a password"
+msgstr "حداقل تعداد کاراکتر برای یک رمز عبور را وارد کنید"
+
+#: ../users/admin.settings.php:195
+msgid "5"
+msgstr "5"
+
+#: ../users/admin.settings.php:196
+msgid "6"
+msgstr "6"
+
+#: ../users/admin.settings.php:197
+msgid "7"
+msgstr "7"
+
+#: ../users/admin.settings.php:198
+msgid "8"
+msgstr "8"
+
+#: ../users/admin.settings.php:199
+msgid "9"
+msgstr "9"
+
+#: ../users/admin.settings.php:204
+msgid "Maximum Password Length"
+msgstr "حداکثر طول"
+
+#: ../users/admin.settings.php:205
+msgid "Enter the maximum amount of character for a password"
+msgstr "حداکثر کاراکتر برای رمز عبور را وارد کنید"
+
+#: ../users/admin.settings.php:209
+msgid "10"
+msgstr "10"
+
+#: ../users/admin.settings.php:210
+msgid "11"
+msgstr "11"
+
+#: ../users/admin.settings.php:211
+msgid "12"
+msgstr "12"
+
+#: ../users/admin.settings.php:212
+msgid "13"
+msgstr "13"
+
+#: ../users/admin.settings.php:213
+msgid "14"
+msgstr "14"
+
+#: ../users/admin.settings.php:218
+msgid "At least one number"
+msgstr "حداقل یک عدد"
+
+#: ../users/admin.settings.php:219
+msgid "Require passwords to have at least one number"
+msgstr "نیاز به کلمه عبور باید حداقل یک شماره"
+
+#: ../users/admin.settings.php:229
+msgid "At least one uppercase"
+msgstr "حداقل یک عدد بزرگ"
+
+#: ../users/admin.settings.php:230
+msgid "Require passwords to have at least one uppercase"
+msgstr "نیاز به کلمه عبور به حداقل یک بزرگ"
+
+#: ../users/admin.settings.php:240
+msgid "At least one lowercase"
+msgstr "حداقل یک کوچک"
+
+#: ../users/admin.settings.php:241
+msgid "Require passwords to have at least one lowercase"
+msgstr "نیاز به کلمه عبور به حروف کوچک حداقل یک"
+
+#: ../users/admin.settings.php:251
+msgid "At least one special character"
+msgstr "حداقل یکی از شخصیت های ویژه"
+
+#: ../users/admin.settings.php:252
+msgid "Require passwords to have at least one special character"
+msgstr "نیاز به کلمه عبور باید حداقل یکی از شخصیت های ویژه"
+
+#: ../users/admin.settings.php:268
+msgid "Select up to six (6) column fields to display when managing users."
+msgstr "تا شش (6) ستون های نمایش زمانی که مدیریت کاربران را انتخاب کنید."
+
+#: ../users/admin.settings.php:298
+msgid "Registration Thank you Message"
+msgstr "ثبت نام پیام تشکر"
+
+#: ../users/admin.settings.php:299
+msgid "Enter a thank you message that shows after the registration form has been submitted"
+msgstr "پیام تشکر است که نشان می دهد پس از فرم ثبت نام ارسال شده را وارد کنید"
+
+#: ../users/admin.settings.php:318
+msgid "Registration Confirmation Email"
+msgstr "ثبت نام ایمیل تایید"
+
+#: ../users/admin.settings.php:319
+msgid "Create an email template used for sending the confirmation message to the user."
+msgstr "ایجاد قالب ایمیل برای ارسال پیام تایید به کاربر استفاده می شود."
+
+#: ../users/admin.settings.php:328 ../users/admin.settings.php:336
+msgid "Enter the email of the administrator to be notified when a user registers."
+msgstr "ایمیل مدیر را وارد کنید تا در زمانی که یک کاربر ثبت می شود مطلع شود."
+
+#: ../users/admin.settings.php:344
+msgid "Enter the subject for the email sent when a user registers."
+msgstr "موضوعی را برای ایمیل فرستاده شده در هنگام ثبت نام کاربر وارد کنید"
+
+#: ../users/lostpassword.php:8
+msgid "Please enter your email address and we will send you instructions to reset your password."
+msgstr "لطفا آدرس ایمیل خود را وارد کنید و ما را به شما دستورالعمل برای تنظیم مجدد رمز عبور خود را ارسال."
+
+#: ../users/profile.php:19
+msgid "Profile updated successfully."
+msgstr "نمایه با موفقیت انجام شد"
+
+#: ../users/register.php:9
+msgid "Registration is currently not allowed for this site. Please contact your site admin."
+msgstr "ثبت نام در حال حاضر برای این سایت مجاز نیست لطفا با مدیر سایت خود تماس بگیرید"
+
+#: ../users/register.php:28
+msgid "You have entered an invalid captcha code. Please try again."
+msgstr "شما یک کد captcha نامعتبر وارد کرده اند. لطفا دوباره امتحان کنید."
+
+#: ../users/register.php:78
+msgid "You're currently logged in. Please sign out to register for an account."
+msgstr "شما در حال حاضر به سیستم وارد کنید. لطفا برای ثبت نام برای یک حساب خارج شوید."
+
+#: ../users/resetpassword.php:6 ../users/resetpassword.php:30
+msgid "Reset Password"
+msgstr "بازیابی رمز عبور"
+
+#: ../users/resetpassword.php:8
+msgid "Please enter your new password below."
+msgstr "لطفاً ، اسم رمز خود را در زیر وارد کنید."
+
+#: ../wpabstracts_abstracts.php:28
+msgid "Manage Abstracts"
+msgstr "مدیریت چکیده ها"
+
+#: ../wpabstracts_emails.php:22
+msgid "Templates"
+msgstr "نمونه"
+
+#: ../wpabstracts_events.php:197
+msgid "Error!"
+msgstr "خطا!"
+
+#: ../wpabstracts_events.php:204 ../wpabstracts_pro.php:43 ../wpabstracts_pro.php:201
+msgid "Events"
+msgstr "رویدادها"
+
+#: ../wpabstracts_help.php:10
+msgid "Quick Start"
+msgstr "شروع سریع"
+
+#: ../wpabstracts_help.php:14
+msgid "Get setup and running in three simple steps"
+msgstr "برای شروع فقط کافیست سه گام بردارید"
+
+#: ../wpabstracts_help.php:16
+msgid ""
+"Create an event (make a note of the event ID for step 2). This may be the name of a conference or anything relating to the "
+"submission of abstracts."
+msgstr "ایجاد یک رویداد (را یادداشت شناسه رویداد برای مرحله 2). اين نام کنفرانس یا هر چیزی مربوط به ارسال چکیده مقالات می باشد."
+
+#: ../wpabstracts_help.php:17
+msgid ""
+"Create a wordpress page and add [wpabstracts event_id=\"EVENT_ID_HERE\"] and link this page to your site menu to allow "
+"frontend access."
+msgstr ""
+"یک صفحه وردپرس ایجاد کنید و [wpabstracts event_id=\"EVENT_ID_HERE\"] را اضافه کنید و این صفحه را به منوی سایت خود پیوند دهید "
+"تا اجازه دسترسی به frontend را دهید."
+
+#: ../wpabstracts_help.php:18
+msgid ""
+"Visit the settings page and choose your preference for the plugin. Also ensure your wordpress permanent links are set to post-"
+"name or custom."
+msgstr ""
+"به برگۀ تنظیمات بروید و تنظیمات افزونه را وارد کنید. همچنین تنظیمات «پیوندهای یکتای» وردپرس را بر «دلخواه» یا «نام نوشته» "
+"تنظیم کنید."
+
+#: ../wpabstracts_help.php:25
+msgid "Frequently Asked Questions"
+msgstr "پرسش و پاسخ های متداول و منابع آنلاین"
+
+#: ../wpabstracts_help.php:29 ../wpabstracts_help.php:31 ../wpabstracts_help.php:33 ../wpabstracts_help.php:35
+#: ../wpabstracts_help.php:37 ../wpabstracts_help.php:39 ../wpabstracts_help.php:41 ../wpabstracts_help.php:43
+#: ../wpabstracts_help.php:45
+msgid "Question"
+msgstr "از ما بپرسید!"
+
+#: ../wpabstracts_help.php:29
+msgid "Do I have to create accounts for authors and reviewers?"
+msgstr "آیا من باید برای نویسندگان و داوران حساب کاربری ایجاد کنم؟"
+
+#: ../wpabstracts_help.php:30 ../wpabstracts_help.php:32 ../wpabstracts_help.php:34 ../wpabstracts_help.php:36
+#: ../wpabstracts_help.php:38 ../wpabstracts_help.php:40 ../wpabstracts_help.php:42 ../wpabstracts_help.php:44
+#: ../wpabstracts_help.php:46
+msgid "Answer"
+msgstr "جواب"
+
+#: ../wpabstracts_help.php:30
+msgid ""
+"Authors and reviewers need an account on your site to access the dashboard and take part in your conference. Users may self "
+"register on your website or the admin may create accounts for users and forward the credentials to the user."
+msgstr ""
+"نویسندگان و داوران نیاز به یک حساب کاربری در سایت خود برای دسترسی به داشبورد و شرکت در کنفرانس شما دارند. کاربران ممکن است خود "
+"را در وب سایت خود ثبت کنند یا مدیر ممکن است حساب کاربری را برای کاربران ایجاد کند و اعتبار را به کاربر منتقل کند."
+
+#: ../wpabstracts_help.php:31
+msgid "I cannot find the registration area, how do authors or reviewers register?"
+msgstr "منطقه ثبت شده را پیدا کند، چگونه ثبت نام کنید نویسنده یا داوران?"
+
+#: ../wpabstracts_help.php:32
+msgid ""
+"The registration link (Create an Account) is located on the Login page. Authors and Reviewers may self-register on your "
+"website. To enable this, go to your WordPress Settings -> General tab and check the box that says “Any can Register”."
+msgstr ""
+"لینک ثبت نام (ایجاد یک حساب) در صفحه ورود به سیستم قرار دارد. نویسندگان و داوران در website خود ثبت نام ممکن است. برای فعال "
+"کردن این, برو به تنظیمات وردپرس-> زبانه عمومی و جعبه که می گوید \"هر می تواند ثبت نام\"."
+
+#: ../wpabstracts_help.php:33
+msgid "After signing in to the dashboard I see \"You do not have permission to access this page\". What is happening?"
+msgstr "پس از ورود به داشبورد می بینم \"شما اجازه دسترسی به این صفحه ندارید\". چه خبر است?"
+
+#: ../wpabstracts_help.php:34
+msgid ""
+"This error message is common when the user accessing the dashboard is not permitted. At the moment only two user types can "
+"access the dashboard; Authors which maps to the \"Subscriber\" user role and \"Reviewers\" which maps to the \"Editor\" user "
+"role. You may also see this message is you are visiting the front-end dashboard while currently signed in as the Administrator."
+msgstr ""
+"هنگامی که کاربر دسترسی به صفحه وجود ندارد این پیام خطا مشترک است. در حال حاضر تنها دو نوع کاربر می تواند دسترسی به صفحه; "
+"نویسندگان که نقشه ها به نقش کاربر \"مشترک\" و \"داوران\" که نقشه ها به نقش کاربر \"ویرایشگر\". شما همچنین ممکن است مشاهده این "
+"پیام شما در حال دیدن صفحه جلویی در حالی که در حال حاضر به عنوان مدیر سیستم وارد است."
+
+#: ../wpabstracts_help.php:35
+msgid "How do I specify the types of abstract submissions (poster, panel etc) for my conference?"
+msgstr "چه نوع نفيسي (پوستر، پانل و غیره) را برای من کنفرانس مشخص?"
+
+#: ../wpabstracts_help.php:36
+msgid ""
+"Simply go to WP Abstracts Settings Tab and enter the types you want to allow for presenters. Submission types are comma "
+"separated."
+msgstr ""
+"به سادگی رفتن به زبانه تنظیمات چکیده مقاله وپ و انواع برای presenters خواهید را وارد کنید. ارسال توسط کاما از هم جدا است."
+
+#: ../wpabstracts_help.php:37
+msgid "When clicking “New Abstracts” I get the following message “Abstract submission for this event has past”. What can I do?"
+msgstr ""
+"هنگام کلیک کردن روی \"خلاصه مقالات جدید\" به من دریافت پیام زیر \"ارسال مقاله برای این رویداد گذشته است\". چه می توانم انجام "
+"دهم؟"
+
+#: ../wpabstracts_help.php:38
+msgid ""
+"This simply means that the deadline for your event has passed. If the event is still active simply go to the events tab in the "
+"admin area and extend the deadline date of the event."
+msgstr ""
+"این به سادگی به این معنی که مهلت برای رویداد خود را گذرانده است. اگر این رویداد به سادگی هنوز هم فعال است رفتن به تب رویدادها "
+"در حوزه مدیریت و گسترش تاريخ مهلت این رویداد."
+
+#: ../wpabstracts_help.php:39
+msgid "How do I setup Authors and Reviewers?"
+msgstr "چگونه نویسندگان و داوران را نصب کنید؟"
+
+#: ../wpabstracts_help.php:40
+msgid ""
+"Authors are equivalent to Wordpress subscriber user role while reviewers are the editor user roles. Users may self register as "
+"authors and the site admin can then upgrade subscriber account to editor thus making that user a reviewer."
+msgstr ""
+"در حالی که داوران نقش های کاربر ویرایشگر نویسنده معادل نقش کاربر مشترک وردپرس است. کاربران ممکن است ثبت نام خود را به عنوان "
+"نویسنده و مدیر سایت سپس حساب مشترک به ویرایشگر نتیجه گیری آن کاربر بازبین ارتقا دهید."
+
+#: ../wpabstracts_help.php:41
+msgid "How do I upgrade from the Free to the Pro version?"
+msgstr "چگونه من از رایگان به نسخه حرفه ای ارتقا انجام?"
+
+#: ../wpabstracts_help.php:42
+msgid ""
+"Upload WP Abstracts Pro from the your plugins admin page then simply deactivate the free version and activate WP Abstracts Pro."
+msgstr "ارسال وپ خلاصه مقالات حرفه ای از صفحه مدیریت پلاگین سپس به سادگی نسخه رایگان غیر فعال و فعال وپ چکیده مقاله نرم افزار."
+
+#: ../wpabstracts_help.php:43
+msgid "When are automated emails triggered in WP Abstracts?"
+msgstr "هنگامی که ایمیل های خودکار در چکیده مقاله وپ باعث?"
+
+#: ../wpabstracts_help.php:44
+msgid ""
+"Automated emails may be triggered on abstract submission, abstract status changes, reviewer assignments and review submissions."
+msgstr "خودکار ایمیل در ارسال مقاله خلاصه وضعیت تغییرات بازبین تکالیف و بررسی ارسالی باعث ممکن است."
+
+#: ../wpabstracts_help.php:45
+msgid "Can I edit or customize the templates for automated email notifications?"
+msgstr "آیا می توانید من ویرایش یا سفارشی کردن قالب برای اطلاع رسانی خودکار"
+
+#: ../wpabstracts_help.php:46
+msgid "Yes. All email notification templates are customizable using various shortcode pertaining to the submission and event."
+msgstr "بله. تمام قالب های هشدار از طریق ایمیل قابل تنظیم با استفاده از shortcode های مختلف مربوط به ثبت و رویداد است."
+
+#: ../wpabstracts_help.php:56
+msgid "Shortcodes"
+msgstr "شورت کدها"
+
+#: ../wpabstracts_help.php:59
+msgid "[wpabstracts event_id=\"x\"] renders the user dashboard"
+msgstr "[wpabstracts event_id = \"x\"] صفحهٔ کاربری را ارائه می"
+
+#: ../wpabstracts_help.php:60
+msgid "[wpabstracts_register] renders the user registration form"
+msgstr "[wpabstracts_register] ارائه فرم ثبت نام کاربر"
+
+#: ../wpabstracts_help.php:61
+msgid "[wpabstracts_login] renders the user login screen"
+msgstr "[wpabstracts_login] ارائه صفحه ورود به سیستم کاربر"
+
+#: ../wpabstracts_help.php:67
+msgid "Email Notifications"
+msgstr "اعلان های ایمیل"
+
+#: ../wpabstracts_help.php:70
+msgid ""
+"Use the Email tab to create various email templates then set those templates for various email triggers. Current email "
+"triggers includes abstract submission, all abstract status change, reviewer assignments and review submissions."
+msgstr ""
+"زبانه ایمیل برای ایجاد ایمیل مختلف و سپس این قالب های مختلف پست الکترونیک باعث تنظیم استفاده کنید. باعث ایمیل فعلی شامل چکیده "
+"تمام تغییر وضعیت چكيده بازبین تکالیف و بررسی ارسالی."
+
+#: ../wpabstracts_help.php:76
+msgid "Help us Improve"
+msgstr "به ما در ارتقاء این افزونه کمک کنید"
+
+#: ../wpabstracts_help.php:79
+msgid "Rate"
+msgstr "امتیاز"
+
+#: ../wpabstracts_help.php:79
+msgid "the plugin 5 stars on WordPress.org"
+msgstr "5 به این افزونه در WordPress.org بدهید."
+
+#: ../wpabstracts_license.php:23
+msgid "We could not perform the activation at this time. Please try again later."
+msgstr "ما فعال سازی در این زمان می تواند انجام. لطفا بعدا مجددا امتحان نمایید."
+
+#: ../wpabstracts_license.php:35
+msgid "Activation failed: "
+msgstr "فعال‌سازی با شکست مواجه شد:"
+
+#: ../wpabstracts_license.php:56
+msgid "We could not perform the deactivation at this time. Please try again later."
+msgstr "ما بی اثر سازی در این زمان می تواند انجام. لطفا بعدا مجددا امتحان نمایید."
+
+#: ../wpabstracts_license.php:68
+msgid "Deactivation failed: "
+msgstr "خطای غیر فعال‌سازی"
+
+#: ../wpabstracts_license.php:88
+msgid "We could not perform the lookup at this time. Please try again later."
+msgstr "ما هنوز می تواند مراجعه در این زمان انجام دهد. لطفا بعدا مجددا امتحان نمایید."
+
+#: ../wpabstracts_license.php:115
+msgid "Activate License"
+msgstr "فعالسازی لایسنس"
+
+#: ../wpabstracts_license.php:118
+msgid "Please enter your license key. You were given a license key in your order confirmation email."
+msgstr "لطفا کلید مجوز خود را وارد کنید. شما یک کلید مجوز را در پست الکترونیکی تایید سفارش داده شد."
+
+#: ../wpabstracts_license.php:120 ../wpabstracts_updates.php:117
+msgid "renew license"
+msgstr "زمان دادن پروانه"
+
+#: ../wpabstracts_license.php:127
+msgid "Please enter a valid license key."
+msgstr "لطفا یک کد لایسنس درست وارد کنید"
+
+#: ../wpabstracts_license.php:132 ../wpabstracts_updates.php:124
+#, php-format
+msgid "Your license has expired. For continued support and updates please %1$s."
+msgstr "شما مجوز منقضی شده است. پشتیبانی و به روز رسانی لطفا %1$s ادامه یافت."
+
+#: ../wpabstracts_license.php:148
+msgid "Lost your key?"
+msgstr "کلید خود را گم کرده اید؟"
+
+#: ../wpabstracts_license.php:152
+msgid "If you can't find your license key, we're are happy to resend it to you."
+msgstr "اگر کلید مجوز خود را پیدا نکردید ما خوشحال به آن را مجددا به شما هستند."
+
+#: ../wpabstracts_license.php:168
+msgid "Frequently Asked Questions?"
+msgstr "سوالات متداول"
+
+#: ../wpabstracts_license.php:172 ../wpabstracts_license.php:174
+msgid "Q: "
+msgstr "سوال:"
+
+#: ../wpabstracts_license.php:172
+msgid "Why do I need to activate WP Abstracts?"
+msgstr "چرا من نیاز به فعال کردن چکیده مقاله وپ"
+
+#: ../wpabstracts_license.php:173 ../wpabstracts_license.php:175
+msgid "A: "
+msgstr "A:"
+
+#: ../wpabstracts_license.php:173
+msgid "Activating allows you to stay up to date with the latest releases and bug fixes."
+msgstr "فعال کردن اجازه می دهد تا به شما برای اقامت تا تاریخ با آخرین نسخه و رفع اشکال."
+
+#: ../wpabstracts_license.php:174
+msgid "Do I need to renew my license?"
+msgstr "من نیاز به تمدید مجوز"
+
+#: ../wpabstracts_license.php:175
+msgid "Renewing your license allows continued access to support and important releases."
+msgstr "تجدید مجوز شما اجازه می دهد تا دسترسی مستمر به پشتیبانی و منابع مهم."
+
+#: ../wpabstracts_pro.php:40
+msgid "WP Abstracts Pro"
+msgstr "سامانه ارسال مقاله"
+
+#: ../wpabstracts_pro.php:47 ../wpabstracts_pro.php:205
+msgid "Users"
+msgstr "کاربران"
+
+#: ../wpabstracts_pro.php:48 ../wpabstracts_pro.php:206
+msgid "Emails"
+msgstr "رایانامه ها"
+
+#: ../wpabstracts_pro.php:49 ../wpabstracts_pro.php:207
+msgid "Reports"
+msgstr "گزارش ها"
+
+#: ../wpabstracts_pro.php:51 ../wpabstracts_pro.php:212
+msgid "License"
+msgstr "لایسنس"
+
+#: ../wpabstracts_pro.php:120
+msgid "Customization"
+msgstr "سفارشی سازی"
+
+#: ../wpabstracts_pro.php:121
+msgid "Support"
+msgstr "پشتیبانی"
+
+#: ../wpabstracts_pro.php:479
+msgid "Submit By"
+msgstr "ارسال توسط"
+
+#: ../wpabstracts_pro.php:480
+msgid "Date Modified"
+msgstr "تاریخ ویرایش"
+
+#: ../wpabstracts_pro.php:1033
+msgid "There was an update to the WP Abstracts email notification workflow. Please visit the <a href="
+msgstr "به روز رسانی به گردش کار چکیده مقاله وپ هشدار از طریق ایمیل است. لطفا-href ="
+
+#: ../wpabstracts_pro.php:1159
+msgid "Do you really want to delete this abstract, its reviews and all its attachments?"
+msgstr "آیا می خواهید این چکیده و تمامی ضمائم آن را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1160
+msgid "Do you really want to delete the selected abstracts, their reviews and all their attachments?"
+msgstr "آیا واقعا میخواهید خلاصه های انتخابی، بررسی آنها و تمام پیوست های آنها را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1161
+msgid ""
+"Are you sure you want to delete this event? Deleting this event will delete all submissions, reviews and attachments related "
+"to this event. This cannot be undone. Type DELETE to confirm."
+msgstr ""
+"آیا شما مطمئن هستید که میخواهید این رویداد را حذف کنید؟ حذف این رویداد همه ارسال ها، بررسی ها و پیوست های مربوط به این رویداد "
+"را حذف خواهد کرد. این قابل بازگشت نیست. تایید DELETE را تایید کنید"
+
+#: ../wpabstracts_pro.php:1162
+msgid "Do you really want to delete this email template?"
+msgstr "آیا شما واقعا می خواهید این قالب را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1163
+msgid "Do you really want to delete this review?"
+msgstr "آیا می خواهید این بازبینی را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1164
+msgid "Do you really want to delete this attachment?"
+msgstr "آیا می خواهید این ضمیمه را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1165
+msgid "Are you sure you want to delete this user?"
+msgstr "آیا می خواهید این کاربر را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1166
+msgid "Please enter a username and password to sign in."
+msgstr "لطفاً ، یک نام کاربر و اسم رمز وارد کنید"
+
+#: ../wpabstracts_pro.php:1167
+msgid "Please enter a the security code."
+msgstr "لطفا کد امنیتی را وارد کنید."
+
+#: ../wpabstracts_pro.php:1169
+msgid "Please select a status"
+msgstr "لطفا وضعیت را انتخاب کنید"
+
+#: ../wpabstracts_pro.php:1170
+msgid "Please fill in all required fields."
+msgstr "لطفا تمامی قاب های ضروری را وارد نمایید."
+
+#: ../wpabstracts_pro.php:1171
+msgid "Please add your abstract description"
+msgstr "لطفا توضیحات چكيده خود را اضافه کنید"
+
+#: ../wpabstracts_pro.php:1172
+msgid "You have exceeded the maximum words allowed for this submission."
+msgstr "کلمات حداکثر مجاز برای ثبت این را فراتر رفته اید."
+
+#: ../wpabstracts_pro.php:1173
+msgid "One or more of your file extension is not supported."
+msgstr "یک یا چند فرمت پرونده حمایت نشده است."
+
+#: ../wpabstracts_pro.php:1174
+msgid "One or more of your files exceeds the maximum file size allowed."
+msgstr "یک یا چند پرونده های فایل حداکثر اندازه مجاز فراتر است."
+
+#: ../wpabstracts_pro.php:1177
+msgid "No Attachments Uploaded"
+msgstr "هیچ ضمیمه ای بارگذاری نشده است"
+
+#: ../wpabstracts_pro.php:1178
+msgid "Please enter the email address used for the order."
+msgstr "لطفا آدرس ایمیل استفاده می شود برای سفارش را وارد کنید."
+
+#: ../wpabstracts_pro.php:1179
+msgid "Successfully updated user registration form."
+msgstr "فرم ثبت نام کاربر با موفقیت به روز شده."
+
+#: ../wpabstracts_pro.php:1180
+msgid "Failed to save register form fields."
+msgstr "زمینه های فرم ثبت نام ذخیره نشد."
+
+#: ../wpabstracts_pro.php:1181
+msgid "Successfully copied to clipboard."
+msgstr "متن با موفقیت به کلیپ بورد کپی شد."
+
+#: ../wpabstracts_pro.php:1182
+msgid "Failed to copy text to clipboard."
+msgstr "متن به کلیپ بورد کپی نشد."
+
+#: ../wpabstracts_pro.php:1183
+msgid "Submissions with this status will no longer have a status. Do you really want to delete this status?"
+msgstr "مقاله با این وضعیت دیگر وضعیت داشته باشد. شما واقعا می خواهید به این وضعیت را حذف کنید؟"
+
+#: ../wpabstracts_pro.php:1184
+msgid "At least one status is required."
+msgstr "وضعیت حداقل یک مورد نیاز است."
+
+#: ../wpabstracts_pro.php:1185
+msgid "At least one topic is required."
+msgstr "حداقل یک موضوع مورد نیاز است."
+
+#: ../wpabstracts_pro.php:1186
+msgid "Are you sure you want to restore this form to the default inputs? This cannot be undone."
+msgstr "شما می خواهید برای بازگرداندن این فرم در ورودی پیش فرض شود؟ این قابل برگشت نیست."
+
+#: ../wpabstracts_pro.php:1187
+msgid "Are you sure you want to restore your default titles?"
+msgstr "شما می خواهید به عنوان پیش فرض خود را بازیابی کنید؟"
+
+#: ../wpabstracts_pro.php:1188
+msgid ""
+"Are you sure you want to SYNC profile data from WP Abstracts to Wordpress user profiles? This cannot be undone. Type SYNC to "
+"confirm."
+msgstr ""
+"خواهید شما را به همگام سازی داده های نمایه از چکیده مقاله وپ به پروفایل کاربر وردپرس شود؟ این قابل برگشت نیست. نوع همگام سازی "
+"برای تایید."
+
+#: ../wpabstracts_pro.php:1189
+msgid "One or more of your email address seems invalid."
+msgstr "یک یا چند آدرس ایمیل شما نامعتبر به نظر می رسد."
+
+#: ../wpabstracts_pro.php:1190
+msgid "Confirmation"
+msgstr "تائیدیه"
+
+#: ../wpabstracts_pro.php:1191
+msgid "OK"
+msgstr "تایید"
+
+#: ../wpabstracts_pro.php:1192
+msgid "Cancel"
+msgstr "لغو"
+
+#: ../wpabstracts_reports.php:24 ../wpabstracts_reports.php:45
+msgid "STATUS"
+msgstr "وضعیت"
+
+#: ../wpabstracts_reports.php:25 ../wpabstracts_reports.php:46
+msgid "COUNT"
+msgstr "شمردن "
+
+#: ../wpabstracts_reports.php:100 ../wpabstracts_reports.php:135
+msgid "Abstracts by Status"
+msgstr "خلاصه با وضعیت"
+
+#: ../wpabstracts_reports.php:109 ../wpabstracts_reports.php:142
+msgid "Reviews by Status"
+msgstr "بررسی ها بر اساس وضعیت"
+
+#: ../wpabstracts_reviews.php:189 ../wpabstracts_reviews.php:235
+msgid "Review Id "
+msgstr "نقد و بررسی شناسه "
+
+#: ../wpabstracts_reviews.php:189
+msgid " is now "
+msgstr " در حال حاضر "
+
+#: ../wpabstracts_reviews.php:189
+msgid " to the author."
+msgstr " به نویسنده."
+
+#: ../wpabstracts_reviews.php:242
+msgid "Reviews for Abstract ID"
+msgstr "بررسی شناسه های انتزاعی"
+
+#: ../wpabstracts_reviews.php:244
+msgid "All Reviews"
+msgstr "همه بررسی ها "
+
+#: ../wpabstracts_settings.php:15
+msgid "General"
+msgstr "عمومی"
+
+#: ../wpabstracts_settings.php:16
+msgid "Titles"
+msgstr "عنوان ها"
+
+#: ../wpabstracts_updates.php:85
+msgid ""
+"An Unexpected HTTP Error occurred during the API request.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return "
+"false;\">Try again</a>"
+msgstr ""
+"یک خطای غیرمنتظره HTTP در طول درخواست API رخ داده است.</p> <p><a href=\"?\" onclick=\"document.location.reload(); return false;"
+"\">دوباره امتحان کنید</a>"
+
+#: ../wpabstracts_updates.php:114
+msgid "enter your license key"
+msgstr "کلید مجوز خود را وارد کنید"
+
+#: ../wpabstracts_updates.php:115
+msgid "update license key"
+msgstr "به‌روزرسانی مجوز"
+
+#: ../wpabstracts_updates.php:116
+msgid "purchase one"
+msgstr "اکنون خرید کنید"
+
+#: ../wpabstracts_updates.php:121
+#, php-format
+msgid "To complete activation %1$s. If you don't have a license key, you may %2$s."
+msgstr "برای تکمیل فعالساز٪%1$s اگر کلید مجوز ندارید، ممکن است%2$s داشته باشید."
+
+#: ../wpabstracts_updates.php:127
+#, php-format
+msgid "Your license key is invalid. For continued support and updates please %1$s."
+msgstr "کلید مجوز شما نامعتبر است برای پشتیبانی مداوم و به روزرسانی لطفا%1$s."
+
+#: ../wpabstracts_updates.php:130
+msgid "We could not perform your license validation at this time."
+msgstr "در حال حاضر نمیتوانیم تأیید مجوز شما را انجام دهیم."
+
+#: ../wpabstracts_users.php:28
+msgid "Manage Users"
+msgstr "مدیریت کاربران"
+
+#: ../wpabstracts_users.php:29
+msgid "Form Builder"
+msgstr "فرم ساز"
+
+#~ msgid "Admin Email"
+#~ msgstr "ایمیل مدیریت"
+
+#~ msgid "Locked"
+#~ msgstr "قفل"
+
+#~ msgid "Abstract"
+#~ msgstr "چکیده"
+
+#~ msgid "Type"
+#~ msgstr "نوع"
+
+#~ msgid "Abstracts-All"
+#~ msgstr "خلاصه همه"
+
+#~ msgid "Excellent Reviews"
+#~ msgstr "بررسی عالی"
+
+#~ msgid "Good Reviews"
+#~ msgstr "دیدگاه ها"
+
+#~ msgid "Average Reviews"
+#~ msgstr "بررسی متوسط"
+
+#~ msgid "Poor Reviews"
+#~ msgstr "دیدگاه ها"
+
+#~ msgid "The email or password you entered is incorrect. Please try again."
+#~ msgstr "گذر واژه که شما وارد کرده اید نادرست است. لطفا دوباره تلاش کنید."
+
+#~ msgid "Login & Dashboard"
+#~ msgstr "ورود & داشبورد"
+
+#~ msgid "Submission Form"
+#~ msgstr "فرم تاییدیه"
+
+#~ msgid "ABSTRACTS BY STATUS"
+#~ msgstr "خلاصه با وضعیت"
+
+#~ msgid "SUBMITTED"
+#~ msgstr "ثبت شده"
+
+#~ msgid "REVIEWS BY RELEVANCE"
+#~ msgstr "بررسی اساس ارتباط"
+
+#~ msgid "RELEVANCE"
+#~ msgstr "ارتباط با موضوع"
+
+#~ msgid "Reviews by Relevance"
+#~ msgstr "بررسی اساس ارتباط"
+
+#~ msgid "Abstracts - Export by status"
+#~ msgstr "چکیده مقالات - صادرات توسط وضعیت"
+
+#~ msgid "Export CSV"
+#~ msgstr "خروجی CSV"
+
+#~ msgid "Reviews - Export by relevance"
+#~ msgstr "بررسی - صادرات توسط ارتباط"
+
+#~ msgid "user"
+#~ msgstr "گروه کاربران"
+
+#~ msgid " "
+#~ msgstr " "
+
+#~ msgid "Select - Do not send email - to disable a notification on a submission email trigger."
+#~ msgstr "را انتخاب کنید - ایمیل - برای غیر فعال کردن هشدار از طریق ارسال ایمیل ماشه را بفرستید."
+
+#~ msgid "Registration Settings"
+#~ msgstr "تنظیمات ثبت نام"
+
+#~ msgid "Admin Name"
+#~ msgstr "نام مدیر"
+
+#~ msgid "Please add a valid event ID to the wpabstracts shortcode on this page."
+#~ msgstr "لطفا شناسه رویداد معتبر به shortcode wpabstracts در این صفحه اضافه کنید."
+
+#~ msgid "The shortcode in this page should be similar to [wpabstracts event_id=ID] (grab the ID from your Events tab)."
+#~ msgstr "کد کوتاه در این صفحه باید شبیه به [wpabstracts event_id = ID] باشد (از شناسه خود از برگه رویدادهای خود بکشید)."
+
+#~ msgid "Do you really want to delete this event?"
+#~ msgstr "آیا می خواهید این رویداد را حذف کنید؟"
+
+#~ msgid "Profile"
+#~ msgstr "پروفایل"
+
+#~ msgid "Closed"
+#~ msgstr "بسته شد"
+
+#~ msgid "Type Request"
+#~ msgstr "درخواست"
+
+#~ msgid "Edit Email Template"
+#~ msgstr "ویرایش قالب ایمیل"
+
+#~ msgid "File Name [ID]"
+#~ msgstr "نام پرونده [ID]"
+
+#~ msgid "Uploaded to [ID]"
+#~ msgstr "آپلود شده در [ID]"
+
+#~ msgid "Email Group"
+#~ msgstr "گروه ایمیل"
+
+#~ msgid "Full Name"
+#~ msgstr "نام کامل"
+
+#~ msgid "Username"
+#~ msgstr "نام کاربری"
+
+#~ msgid "Username:"
+#~ msgstr "نام کاربری:"
+
+#~ msgid "Export Users"
+#~ msgstr "استخراج کاربران"
+
+#~ msgid "You do not have permission to delete abstracts."
+#~ msgstr "شما اجازه حذف چکیده ها را ندارید."
+
+#~ msgid "Export Attachments"
+#~ msgstr "صادرات پیوست"
+
+#~ msgid "At least one event must be created to allow users to submit abstracts."
+#~ msgstr "حداقل باید یک <strong>رویداد</strong> ایجاد شود تا کاربران بتوانند چکیده ارسال کنند."
+
+#~ msgid "Like us"
+#~ msgstr "ما را لایک کنید"
+
+#~ msgid "on Facebook"
+#~ msgstr "در Facebook"
+
+#~ msgid "Email Admin on Submission"
+#~ msgstr "هنگام ثبت چکیده، به مدیر رایانامه ارسال کن"
+
+#~ msgid "Email Author on Submission"
+#~ msgstr "هنگام ثبت چکیده، به نویسنده رایانامه ارسال کن"
+
+#~ msgid "Email Author on Status Change"
+#~ msgstr "هنگام تغییر وضعیت، به نویسنده رایانامه ارسال کن"
+
+#~ msgid ""
+#~ "Enable this to send an email to authors when their abstracts has been approved or rejected (email is sent to submitter's "
+#~ "email only)."
+#~ msgstr ""
+#~ "این گزینه را جهت ارسال رایانامه به نویسنده هنگامیکه چکیده اش پذیرفته یا رد می شود، فعال کنید. (این رایانامه فقط به نشانی "
+#~ "رایانامۀ ثبت کننده ارسال می شود)"
+
+#~ msgid "Email Author on Review Submission"
+#~ msgstr "هنگام ثبت بازبینی، به نویسنده رایانامه ارسال کن"
+
+#~ msgid "Email Admin on Review Submission"
+#~ msgstr "هنگام ثبت چکیده، به مدیر رایانامه ارسال کن"
+
+#~ msgid "Login Configuration"
+#~ msgstr "ورود پیکربندی"
+
+#~ msgid "Save Event"
+#~ msgstr "ذخیره سازی رویداد"
+
+#~ msgid "Please login to submit abstracts"
+#~ msgstr "برای ثبت چکیده، لطفا وارد سایت شوید"
+
+#~ msgid "%s"
+#~ msgstr "%s"
+
+#~ msgid "Pending"
+#~ msgstr "منتظر بررسی"
+
+#~ msgid "Accept"
+#~ msgstr "قبول"
+
+#~ msgid "Assign"
+#~ msgstr "اختصاص"
+
+#~ msgid "Go"
+#~ msgstr "برو"
+
+#~ msgid "<a href=\"?page=wpabstracts&tab=reviews&task=edit&id=%s\">Edit</a>"
+#~ msgstr "<a href=\"?page=wpabstracts&tab=reviews&task=edit&id=%s\">ویرایش</a>"
+
+#~ msgid "<a href=\"javascript:confirm_review_delete(%s)\">Delete</a>"
+#~ msgstr "<a href=\"javascript:confirm_review_delete(%s)\">حذف</a>"
+
+#~ msgid "%1$s<br><span style=\"color:silver\">Reviewed by: %2$s | %3$s</span>"
+#~ msgstr "%1$s<br><span style=\"color:silver\">بازبینی توسط: %2$s | %3$s</span>"
+
+#~ msgid "Abstracts & Manuscripts Summary"
+#~ msgstr "خلاصۀ چکیده ها و نوشته ها"
+
+#~ msgid "Summary"
+#~ msgstr "خلاصه"
+
+#~ msgid "Events / Conference"
+#~ msgstr "رویدادها / کنفرانس"
+
+#~ msgid "Get Pro"
+#~ msgstr "نسخه حرفه ای"
+
+#~ msgid "hosted by"
+#~ msgstr "صاحب امتیاز"
+
+#~ msgid "Review Alert"
+#~ msgstr "هشدار بازبینی"
+
+#~ msgid "Need more features?"
+#~ msgstr "امکانات بیشتری نیاز دارید؟"
+
+#~ msgid "Abstract Updated"
+#~ msgstr "چکیده بروزرسانی شد"
+
+#~ msgid "This and more reviewing features are available in the WPAbstracts Pro."
+#~ msgstr "این امکان و بیش از این، در نسخۀ حرفه ای وجود دارد."
+
+#~ msgid ""
+#~ "For more help on questions and issues please visit the <a href=\"http://www.wpabstracts.com/support\" target=\"_blank"
+#~ "\">support forums</a> or <a href=\"mailto:support@wpabstracts.com\">email us</a>. We would be happy to hear form you."
+#~ msgstr ""
+#~ "برای راهنمایی و سوالات خود به<a href=\"http://www.wpabstracts.com/support\" target=\"_blank\"> تالارهای گفتگوی پشتیبانی</a> "
+#~ "مراجعه کنید یا به ما <a href=\"mailto:support@wpabstracts.com\">رایانامه ارسال کنید</a>."
+
+#~ msgid "features"
+#~ msgstr "امکانات"
+
+#~ msgid "on"
+#~ msgstr "در"
+
+#~ msgid ""
+#~ "Create a dashboard page, add [wpabstracts] to the page and link it to your menu to allow front end user management.\n"
+#~ "                                                                                                                       Both "
+#~ "reviewers (PRO version) and authors (subscribers) use the front-end dashboard to submit and review abstracts. Enjoy!"
+#~ msgstr ""
+#~ "یک برگۀ پیشخوان ایجاد کنید و [wpabstracts] را در آن وارد کنید. سپس پیوندی به آن در منو ایجاد کنید تا کاربران به آن دسترسی "
+#~ "داشته باشند. \n"
+#~ "بازبین ها (مربوط به نسخۀ حرفه ای) و نویسندگان(مشترکین) از پیشخوان بیرونی سایت برای ثبت و بازبینی استفاده خواهند کرد."
+
+#~ msgid "* Show Presenter Preferences"
+#~ msgstr "* نمایش اولویت های ارائه دهنده"
+
+#~ msgid "Recent Abstracts"
+#~ msgstr "آخرین چکیده ها"
+
+#~ msgid "Date"
+#~ msgstr "تاریخ"
+
+#~ msgid "Analytics"
+#~ msgstr "آمار"
+
+#~ msgid "Total Abstracts"
+#~ msgstr "مجموع چکیده ها"
+
+#~ msgid "Approved"
+#~ msgstr "پذیرفته شده ها"
+
+#~ msgid "Rejected"
+#~ msgstr "رد شده ها"
+
+#~ msgid "the plugin 5 stars on WordPress.org."
+#~ msgstr "5 ستاره به این افزونه در WordPress.org بدهید."
+
+#~ msgid "http://www.wpabstracts.com"
+#~ msgstr "http://www.wpabstracts.com"
+
+#~ msgid ""
+#~ "Use WPAbstracts to allow and manage Abstracts and Manuscripts submissions on your site. Create events, set topics and "
+#~ "accept submissions."
+#~ msgstr ""
+#~ "از چکیده های وردپرس جهت ارسال و مدیریت چکیده ها و نوشته ها جهت پذیرش یا رد در سایتتان استفاده کنید. رویدادهایی ایجاد کنید و "
+#~ "موضوعاتی اختصاص دهید و موارد ثبت شده را قبول کنید."
+
+#~ msgid "Kevon Adonis"
+#~ msgstr "کیوان آدونیس"
+
+#~ msgid "http://www.kevonadonis.com"
+#~ msgstr "http://www.kevonadonis.com"

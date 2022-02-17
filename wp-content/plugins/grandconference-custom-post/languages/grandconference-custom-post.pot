@@ -1,0 +1,719 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-10-14 09:11+0700\n"
+"PO-Revision-Date: 2017-01-29 17:09+0700\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;gettext;gettext_noop;_e;_n;esc_html__;esc_html_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../gallery/tg-gallery.php:59
+msgid "Gallery Images"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:101
+msgid "Allowed Files"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:124
+msgid "Upload Image"
+msgstr ""
+
+#: ../gallery/tg-gallery.php:125
+msgid "Delete All Images"
+msgstr ""
+
+#: ../grandconference-custom-post.php:33
+msgid "Galleries"
+msgstr ""
+
+#: ../grandconference-custom-post.php:34
+msgid "Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:35 ../grandconference-custom-post.php:36
+msgid "Add New Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:37
+msgid "Edit Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:38
+msgid "New Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:39
+msgid "View Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:40
+msgid "Search Gallery"
+msgstr ""
+
+#: ../grandconference-custom-post.php:41
+msgid "No Gallery found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:42
+msgid "No Gallery found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:62
+msgid "Gallery Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:63
+msgid "Gallery Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:64
+msgid "Search Gallery Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:65
+msgid "All Gallery Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:66
+msgid "Parent Gallery Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:67
+msgid "Parent Gallery Category:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:68
+msgid "Edit Gallery Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:69
+msgid "Update Gallery Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:70
+msgid "Add New Gallery Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:71
+msgid "New Gallery Category Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:93
+msgid "Sessions"
+msgstr ""
+
+#: ../grandconference-custom-post.php:94
+msgid "Session"
+msgstr ""
+
+#: ../grandconference-custom-post.php:95 ../grandconference-custom-post.php:96
+msgid "Add New Session"
+msgstr ""
+
+#: ../grandconference-custom-post.php:97
+msgid "Edit Session"
+msgstr ""
+
+#: ../grandconference-custom-post.php:98
+msgid "New Session"
+msgstr ""
+
+#: ../grandconference-custom-post.php:99
+msgid "View Session"
+msgstr ""
+
+#: ../grandconference-custom-post.php:100
+msgid "Search Sessions"
+msgstr ""
+
+#: ../grandconference-custom-post.php:101
+msgid "No Session found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:102
+msgid "No Session found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:122
+msgid "Schedule Days"
+msgstr ""
+
+#: ../grandconference-custom-post.php:123
+msgid "Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:124
+msgid "Search  Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:125
+msgid "All Schedule Days"
+msgstr ""
+
+#: ../grandconference-custom-post.php:126
+msgid "Parent Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:127
+msgid "Parent Schedule Day:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:128
+msgid "Edit Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:129
+msgid "Update Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:130
+msgid "Add New Schedule Day"
+msgstr ""
+
+#: ../grandconference-custom-post.php:131
+msgid "New Schedule Day Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:148
+msgid "Session Topics"
+msgstr ""
+
+#: ../grandconference-custom-post.php:149
+msgid "Session Topic"
+msgstr ""
+
+#: ../grandconference-custom-post.php:150
+msgid "Search Session Topics"
+msgstr ""
+
+#: ../grandconference-custom-post.php:151
+msgid "All Session Topics"
+msgstr ""
+
+#: ../grandconference-custom-post.php:152
+msgid "Parent Session Topic"
+msgstr ""
+
+#: ../grandconference-custom-post.php:153
+msgid "Parent Session Topic:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:154
+msgid "Edit Session Topic"
+msgstr ""
+
+#: ../grandconference-custom-post.php:155
+msgid "Update Session Topic"
+msgstr ""
+
+#: ../grandconference-custom-post.php:156
+msgid "Add New Session Topic"
+msgstr ""
+
+#: ../grandconference-custom-post.php:157
+msgid "New Session Topic Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:189
+msgid "Speakers"
+msgstr ""
+
+#: ../grandconference-custom-post.php:190
+msgid "Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:191
+#: ../grandconference-custom-post.php:192
+msgid "Add New Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:193
+msgid "Edit Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:194
+msgid "New Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:195
+msgid "View Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:196
+msgid "Search Speaker"
+msgstr ""
+
+#: ../grandconference-custom-post.php:197
+msgid "No Speaker found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:198
+msgid "No Speaker found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:218
+msgid "Speakers Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:219
+msgid "Speaker Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:220
+msgid "Search Speaker Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:221
+msgid "All Speaker Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:222
+msgid "Parent Speaker Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:223
+msgid "Parent Speaker Category:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:224
+msgid "Edit Speaker Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:225
+msgid "Update Speaker Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:226
+msgid "Add New Speaker Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:227
+msgid "New Speaker Category Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:248
+msgid "Testimonials"
+msgstr ""
+
+#: ../grandconference-custom-post.php:249
+msgid "Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:250
+#: ../grandconference-custom-post.php:251
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:252
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:253
+msgid "New Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:254
+msgid "View Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:255
+msgid "Search Testimonial"
+msgstr ""
+
+#: ../grandconference-custom-post.php:256
+msgid "No Testimonial found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:257
+msgid "No Testimonial found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:277
+msgid "Testimonial Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:278
+msgid "Testimonial Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:279
+msgid "Search Testimonial Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:280
+msgid "All Testimonial Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:281
+msgid "Parent Testimonial Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:282
+msgid "Parent Testimonial Category:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:283
+msgid "Edit Testimonial Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:284
+msgid "Update Testimonial Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:285
+msgid "Add New Testimonial Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:286
+msgid "New Testimonial Category Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:308
+msgid "Team Members"
+msgstr ""
+
+#: ../grandconference-custom-post.php:309
+msgid "Team Member"
+msgstr ""
+
+#: ../grandconference-custom-post.php:310
+#: ../grandconference-custom-post.php:311
+msgid "Add New Team Member"
+msgstr ""
+
+#: ../grandconference-custom-post.php:312
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../grandconference-custom-post.php:313
+msgid "New Team Member"
+msgstr ""
+
+#: ../grandconference-custom-post.php:314
+msgid "View Team Member"
+msgstr ""
+
+#: ../grandconference-custom-post.php:315
+msgid "Search Team Members"
+msgstr ""
+
+#: ../grandconference-custom-post.php:316
+msgid "No Team Member found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:317
+msgid "No Team Member found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:337
+msgid "Team Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:338
+msgid "Team Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:339
+msgid "Team Service Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:340
+msgid "All Team Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:341
+msgid "Parent Team Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:342
+msgid "Parent Team Category:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:343
+msgid "Edit Team Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:344
+msgid "Update Team Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:345
+msgid "Add New Team Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:346
+msgid "New Team Category Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:367
+#: ../grandconference-custom-post.php:368
+msgid "Ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:369
+#: ../grandconference-custom-post.php:370
+msgid "Add New Ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:371
+msgid "Edit Ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:372
+msgid "New Ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:373
+msgid "View Ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:374
+msgid "Search Tickets"
+msgstr ""
+
+#: ../grandconference-custom-post.php:375
+msgid "No Ticket found"
+msgstr ""
+
+#: ../grandconference-custom-post.php:376
+msgid "No Ticket found in Trash"
+msgstr ""
+
+#: ../grandconference-custom-post.php:396
+#: ../grandconference-custom-post.php:398
+msgid "Ticket Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:397
+msgid "Ticket Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:399
+msgid "All Ticket Categories"
+msgstr ""
+
+#: ../grandconference-custom-post.php:400
+msgid "Parent Ticket Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:401
+msgid "Parent Ticket Category:"
+msgstr ""
+
+#: ../grandconference-custom-post.php:402
+msgid "Edit Ticket Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:403
+msgid "Update Ticket Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:404
+msgid "Add New Ticket Category"
+msgstr ""
+
+#: ../grandconference-custom-post.php:405
+msgid "New Ticket Category Name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:426
+msgid "Thumbnail"
+msgstr ""
+
+#: ../grandconference-custom-post.php:597
+msgid "Speakers(s)"
+msgstr ""
+
+#: ../grandconference-custom-post.php:605
+msgid "Start Time"
+msgstr ""
+
+#: ../grandconference-custom-post.php:606
+msgid "Enter start time for this session (format HH:MM ex. 09:00)"
+msgstr ""
+
+#: ../grandconference-custom-post.php:612
+msgid "End Time"
+msgstr ""
+
+#: ../grandconference-custom-post.php:613
+msgid "Enter end time for this session (format HH:MM ex. 09:00)"
+msgstr ""
+
+#: ../grandconference-custom-post.php:619
+msgid "Location (Optional)"
+msgstr ""
+
+#: ../grandconference-custom-post.php:620
+msgid "Enter location for this session ex. building name, room name"
+msgstr ""
+
+#: ../grandconference-custom-post.php:719
+msgid "Booking Method"
+msgstr ""
+
+#: ../grandconference-custom-post.php:730
+msgid "Woocommerce Product"
+msgstr ""
+
+#: ../grandconference-custom-post.php:738
+msgid "Booking URL"
+msgstr ""
+
+#: ../grandconference-custom-post.php:739
+msgid "Enter booking URL for this ticket"
+msgstr ""
+
+#: ../grandconference-custom-post.php:923 ../tg-filter.php:126
+msgid "Title"
+msgstr ""
+
+#: ../grandconference-custom-post.php:956
+msgid "Add another"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1063
+msgid "Purchase"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1104
+msgid "Load more"
+msgstr ""
+
+#: ../tg-contentbuilder.php:1116 ../tg-shortcode.php:1635
+msgid "Empty gallery item. Please make sure you have upload image to it or check the short code."
+msgstr ""
+
+#: ../tg-contentbuilder.php:3464 ../tg-contentbuilder.php:3771
+#: ../tg-contentbuilder.php:4083
+msgid "All Topics"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3477 ../tg-contentbuilder.php:3784
+#: ../tg-contentbuilder.php:4096
+msgid "Expand All +"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3603 ../tg-contentbuilder.php:3908
+#: ../tg-contentbuilder.php:4232
+msgid "By"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3660 ../tg-contentbuilder.php:3965
+#: ../tg-contentbuilder.php:4289
+msgid "Where"
+msgstr ""
+
+#: ../tg-contentbuilder.php:3675 ../tg-contentbuilder.php:3980
+#: ../tg-contentbuilder.php:4304
+msgid "We haven't found any session that matches you're criteria"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4495 ../tg-contentbuilder.php:4671
+msgid "We haven't found any speaker that matches you're criteria"
+msgstr ""
+
+#: ../tg-contentbuilder.php:4843
+msgid "Read More"
+msgstr ""
+
+#: ../tg-contentbuilder.php:5127
+msgid "Recommended"
+msgstr ""
+
+#: ../tg-contentbuilder.php:5179
+msgid "Please wait..."
+msgstr ""
+
+#: ../tg-contentbuilder.php:6186 ../tg-contentbuilder.php:6248
+msgid "Rate"
+msgstr ""
+
+#: ../tg-filter.php:49
+msgid "Edit in Content Builder"
+msgstr ""
+
+#: ../tg-filter.php:50
+msgid "Edit in Classic Editor"
+msgstr ""
+
+#: ../tg-filter.php:111
+msgid "Update"
+msgstr ""
+
+#: ../tg-filter.php:113
+msgid "Cancel"
+msgstr ""
+
+#: ../tg-filter.php:127
+msgid "Enter Title for this content"
+msgstr ""
+
+#: ../tg-filter.php:280
+msgid "top"
+msgstr ""
+
+#: ../tg-filter.php:283
+msgid "bottom"
+msgstr ""
+
+#: ../tg-filter.php:286
+msgid "left"
+msgstr ""
+
+#: ../tg-filter.php:289
+msgid "right"
+msgstr ""
+
+#: ../tg-filter.php:383 ../tg-filter.php:399
+msgid "Content"
+msgstr ""
+
+#: ../tg-filter.php:384 ../tg-filter.php:400
+msgid "You can enter text, HTML for its content"
+msgstr ""
+
+#: ../tg-filter.php:717
+msgid "Preview"
+msgstr ""
+
+#: ../tg-filter.php:718
+msgid "Close"
+msgstr ""
+
+#: ../tg-shortcode.php:276
+msgid "Share On"
+msgstr ""
+
+#: ../tg-shortcode.php:1080
+msgid "Go to top"
+msgstr ""
+
+#, fuzzy
+#~ msgid "Add New Event"
+#~ msgstr "Add New Gallery"
+
+#, fuzzy
+#~ msgid "Add New Event Category"
+#~ msgstr "Add New Gallery"
+
+#~ msgid "Remove"
+#~ msgstr "Remove"
+
+#, fuzzy
+#~ msgid "Leave A Reply"
+#~ msgstr "Leave a Reply"
+
+#, fuzzy
+#~ msgid "Cancel Reply"
+#~ msgstr "Leave a Reply"

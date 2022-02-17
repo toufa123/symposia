@@ -1,0 +1,37 @@
+<wpml-config>
+    <admin-texts>
+        <key name="eventalk">
+            <key name="header_buttontext" />
+            <key name="header_buttonUrl" />
+            <key name="phone" />
+            <key name="email" />
+            <key name="address" />
+            <key name="copyright_color" />
+            <key name="error_title" />
+            <key name="error_text1" />
+            <key name="error_text2" />
+            <key name="error_buttontext" />
+        </key>
+    </admin-texts>
+    <custom-types>
+        <custom-type translate="1">eventalk_speaker</custom-type>       
+        <custom-type translate="1">eventalk_event</custom-type>
+        <custom-type translate="1">eventalk_gallrey</custom-type>
+    </custom-types>
+    <taxonomies>
+        <taxonomy translate="1">eventalk_speaker_category</taxonomy>
+        <taxonomy translate="1">eventalk_event_category</taxonomy>
+        <taxonomy translate="1">eventalk_gallrey_category</taxonomy>       
+    </taxonomies>
+    <custom-fields>
+       <custom-field action="translate">eventalk_speaker_designation</custom-field>
+       <custom-field action="translate">eventalk_speaker_other</custom-field>
+       <custom-field action="translate">eventalk_speaker_skill</custom-field>
+       <custom-field action="translate">eventalk_event_start_date</custom-field>
+       <custom-field action="translate">eventalk_event_start_time</custom-field>
+       <custom-field action="translate">eventalk_event_end_date</custom-field>
+       <custom-field action="translate">eventalk_event_location</custom-field>
+       <custom-field action="translate">eventalk_event_ext_link</custom-field>
+       <custom-field action="translate">eventalk_event_schedule</custom-field>      
+   </custom-fields>
+</wpml-config>

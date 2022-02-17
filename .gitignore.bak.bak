@@ -1,0 +1,12 @@
+﻿/app/var/*
+/app/test/*
+
+#idea folder
+.idea/
+###< symfony/framework-bundle ###
+
+#dat
+/db_data
+
+
+

@@ -1,0 +1,137 @@
+
+---Downloaded files---
+The import files for: Classic Conference were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://symposia.local
+Data file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.xml
+Widget file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.wie
+Customizer file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.dat
+Redux files:
+not defined!
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+------
+New AJAX call!
+[WARNING] Failed to import product_visibility exclude-from-catalog
+[WARNING] Failed to import product_visibility exclude-from-search
+[WARNING] Failed to import product_type external
+[WARNING] Failed to import product_visibility featured
+[WARNING] Failed to import product_type grouped
+[WARNING] Failed to import product_visibility outofstock
+[WARNING] Failed to import product_visibility rated-1
+[WARNING] Failed to import product_visibility rated-2
+[WARNING] Failed to import product_visibility rated-3
+[WARNING] Failed to import product_visibility rated-4
+[WARNING] Failed to import product_visibility rated-5
+[WARNING] Failed to import product_type simple
+[WARNING] Failed to import product_cat Uncategorized
+[WARNING] Failed to import product_type variable
+[WARNING] Failed to import "": Invalid post type mc4wp-form
+
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect to Us - Imported
+Tag Cloud - No Title - Imported
+
+Blog Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Single Post Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Archives Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Category Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Search Sidebar : 
+
+Custom Recent Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Tag Sidebar : 
+
+Custom Category Posts - No Title - Imported
+Custom Social Profiles - Connect with Us - Imported
+Tag Cloud - No Title - Imported
+
+Footer Sidebar : 
+
+Text - No Title - Imported
+Custom Flickr - Flickr - Imported
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+FAQ Sidebar : 
+
+Text - Can&#039;t Find Answer? Ask Us - Imported
+Text - For More Informations - Imported
+
+Schedule Sidebar : 
+
+Custom Recent Posts - No Title - Imported
+Custom Social Profiles - Connect to Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

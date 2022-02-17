@@ -1,0 +1,81 @@
+
+---Downloaded files---
+The import files for: Classic Conference were successfully downloaded!
+Initial max execution time = 600
+Files info:
+Site URL = http://symposia.local
+Data file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.xml
+Widget file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.wie
+Customizer file = /var/www/html/wp-content/themes/grandconference/cache/demos/xml/demo1/1.dat
+Redux files:
+not defined!
+
+---ocdi/before_widgets_import---
+
+
+---Importing widgets---
+Page Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect to Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Blog Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Single Post Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Archives Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Category Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Search Sidebar : 
+
+Custom Recent Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Tag Sidebar : 
+
+Custom Category Posts - No Title - Widget already exists
+Custom Social Profiles - Connect with Us - Widget already exists
+Tag Cloud - No Title - Widget already exists
+
+Footer Sidebar : 
+
+Text - No Title - Widget already exists
+Custom Flickr - Flickr - Widget already exists
+mc4wp_form_widget - Newsletter - Site does not support widget
+
+FAQ Sidebar : 
+
+Text - Can&#039;t Find Answer? Ask Us - Imported
+Text - For More Informations - Imported
+
+Schedule Sidebar : 
+
+Custom Recent Posts - No Title - Imported
+Custom Social Profiles - Connect to Us - Imported
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---ocdi/after_import---
+

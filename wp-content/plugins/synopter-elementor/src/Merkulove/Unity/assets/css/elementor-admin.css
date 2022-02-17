@@ -1,0 +1,27 @@
+/**
+ * Synopter for Elementor
+ * Weekly, Daily and Hourly weather forecast for Elementor
+ * Exclusively on https://1.envato.market/synopter-elementor
+ *
+ * @encoding        UTF-8
+ * @version         1.1.1
+ * @copyright       (C) 2018 - 2021 Merkulove ( https://merkulov.design/ ). All rights reserved.
+ * @license         Envato License https://1.envato.market/KYbje
+ * @contributors    Vitaliy Nemirovskiy (nemirovskiyvitaliy@gmail.com), Dmitry Merkulov (dmitry@merkulov.design)
+ * @support         help@merkulov.design
+ **/
+.icon .mdp-synopter-elementor-widget-icon {
+  width: 100%;
+  height: 29px;
+  display: block; }
+
+.elementor-navigator__element__element-type .mdp-synopter-elementor-widget-icon {
+  width: 12px;
+  height: 12px; }
+
+.icon .mdp-synopter-elementor-widget-icon,
+.elementor-navigator__element__element-type .mdp-synopter-elementor-widget-icon {
+  background-image: url("../../../../../images/logo-color.svg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain; }
