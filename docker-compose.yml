@@ -56,8 +56,8 @@ services:
         
 volumes:
   db_data:
-    external: true
+    #external: true
     name: db_data
   wp-content:
-    external: true
+    #external: true
     name: wp-content
